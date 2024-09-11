@@ -40,10 +40,6 @@ params:
   touchicon: "images/apple-touch-icon.png"
   manifest: "/~lubkov/site.webmanifest"
 
-  footercontent: ""
-
-  hidecredits: "true"
-  hidecopyright: "true"
 #  body_classes: "georgia bg-near-white"
   #gravatar = "john.doe@example.com"
   #dateFormat = "January 2, 2006"
