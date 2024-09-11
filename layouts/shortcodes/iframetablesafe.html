@@ -1,0 +1,8 @@
+<details>
+    <summary>
+        {{ .Get 0 }} <a href="{{ .Get 3 }}" title="Title"> {{ .Get 1 }}</a> {{ .Get 2 }} </summary>
+    
+    <iframe src="{{ .Get 3 | safeHTML }}" height="600" width="100%"></iframe>
+    
+</details>
+

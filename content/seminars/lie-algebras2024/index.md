@@ -1,0 +1,27 @@
++++
+description = ""
+date = "2023-10-19T00:40:04-07:00"
+title = "Семинар ``Алгебры Ли''"
+tags = []
+topics = []
++++
+
+Семинар проходит на 14 линии ВО, ауд. 310 
+[Расписание](https://indico.eimi.ru/category/113/)
+
+Материалы к семинару:
+1. Основной источник - книга Дж. Хамфри(с), Введение в теорию алгебр Ли и их представлений, МЦНМО, 2003 [](https://biblio.mccme.ru/node/1667)
+2. Полезно иногда заглядывать и в оригинал - James E. Humphreys, Introduction to Lie Algebras and Representation Theory, Springer New York, NY, [DOI](https://doi.org/10.1007/978-1-4612-6398-2)
+3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
+
+
+{{< spoilerlist "Архив занятий">}}<ol reversed>
+  <li>17.05.2024 - У. Бирюкова - Внутренние дифференцирования</li>
+  <li>10.05.2024 - А. Ковлякова - Форма Киллинга</li>
+  <li>03.05.2024 - В. Доменко - Критерий Картана</li>
+  <li>26.04.2024 - И. Ширинговский - Теоремы Ли</li>
+  <li>19.04.2024 - П. Карыпкин/И. Ширинговский - Теоремы Энгеля, Ли и Картана</li>
+  <li>12.04.2024 - И. Ширинговский - Представления алгебр Ли</li>
+  <li>05.04.2024 - П. Карыпкин - Алгебры Ли и алгебры дифференцирований</li>
+  <li>02.04.2024 - Р. Лубков - Пилот (Вводное занятие, анонс главных результатов)</li>
+{{< /spoilerlist >}}

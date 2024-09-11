@@ -1,0 +1,117 @@
+baseurl: 'https://users.math-cs.spbu.ru/~lubkov/' # https://users.math-cs.spbu.ru/~lubkov/ 
+#theme: ['blackburn-mod', 'blackburn']
+theme: 'hugo-coder'
+title: 'Home'
+languageCode: ru-ru
+DefaultContentLanguage: ru
+author: Roman Lubkov
+paginate: 10
+enableEmoji: true
+#enableGitInfo: true
+
+indexes:
+  tag: tags
+  topic: topics
+
+#markup:
+#  goldmark:
+#    parser:
+#      attribute:
+#        block: true
+
+params:
+  author: Роман Лубков
+  # custom_css: ["css/custom.css"]
+  # customCSS: []
+  # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+  # customSCSS: ["scss/_variables.scss"]
+  # Custom remote JS files
+  # customRemoteJS = []
+  colorScheme: "auto"
+  commit: "https://github.com/RomchikL"
+  since: 2023
+  keywords: "blog,math,research,personal"
+  description: "Личный сайт"
+  #info: ["любопытствующий", "математик"]
+  avatarURL: "images/avatar.jpg"
+#  body_classes: "georgia bg-near-white"
+  #gravatar = "john.doe@example.com"
+  #dateFormat = "January 2, 2006"
+
+  # Right To Left, shift content direction for languages such as Arabic
+  #rtl = false
+  # Specify light/dark colorscheme
+  # Supported values:
+  # "auto" (use preference set by browser)
+  # "dark" (dark background, light foreground)
+  # "light" (light background, dark foreground) (default)
+  #colorScheme = "auto"
+  # Hide the toggle button, along with the associated vertical divider
+  #hideColorSchemeToggle: "false"
+  # Series see also post count
+  #maxSeeAlsoItems = 5
+  
+  social:
+    - name: "Github"
+      icon: "fa fa-2x fa-github"
+      weight: 1
+      url: "https://github.com/RomchikL/"
+
+    - name: "email"
+      icon: "fa fa-2x fa-envelope"
+      weight: 2
+      url: "mailto:r.lubkov@spbu.ru"
+
+    - name: "Telegram"
+      icon: "fa fa-2x fa-telegram"
+      weight: 3
+      url: "https://t.me/Dr_Lubkov"
+
+    - name: "RSS"
+      icon: "fa fa-2x fa-rss"
+      weight: 4
+      url: "https://users.math-cs.spbu.ru/~lubkov/index.xml"
+      rel: "alternate"
+      type: "application/rss+xml"
+
+languages:
+  ru:
+    weight: 1
+    languageName: "РУС"
+    params:
+      subtitle: (подзаголовок)
+    menu:
+      main:
+        - name: Обо мне
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 1
+          identifier: about
+          url: /about/
+        - name: Студентам
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 2
+          identifier: students
+          url: /students/
+
+  en:
+    weight: 2
+    languageName: "ENG"
+    title: "Home"
+    params:
+      subtitle: Look left
+      author: "Roman Lubkov"
+      #info: "Math"
+      description: "My site"
+      keywords: "blog,math,research,personal"
+    menu:
+      main:
+        - name: About
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 1
+          identifier: about
+          url: /en/about/
+        - name: For students
+          pre: <i class='fa fa-user fa-fw'></i>
+          weight: 2
+          identifier: students
+          url: /en/students/
