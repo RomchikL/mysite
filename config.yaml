@@ -1,4 +1,4 @@
-baseurl: 'https://users.math-cs.spbu.ru/~lubkov/' # https://users.math-cs.spbu.ru/~lubkov/ 
+baseurl: 'https://users.math-cs.spbu.ru/~lubkov/' 
 #theme: ['blackburn-mod', 'blackburn']
 theme: 'hugo-coder'
 title: 'Home'
@@ -7,7 +7,8 @@ DefaultContentLanguage: ru
 author: Roman Lubkov
 paginate: 10
 enableEmoji: true
-#enableGitInfo: true
+enableGitInfo: true
+#relativeURLs: true
 
 indexes:
   tag: tags
@@ -28,12 +29,20 @@ params:
   # Custom remote JS files
   # customRemoteJS = []
   colorScheme: "auto"
-  commit: "https://github.com/RomchikL"
+  commit: "https://github.com/RomchikL/mysite"
   since: 2023
   keywords: "blog,math,research,personal"
   description: "Личный сайт"
   #info: ["любопытствующий", "математик"]
   avatarURL: "images/avatar.jpg"
+  favicon_32: "images/favicon-32x32.png"
+  favicon_16: "images/favicon-16x16.png"
+  touchicon: "images/apple-touch-icon.png"
+
+  footercontent: ""
+
+  hidecredits: "true"
+  hidecopyright: "true"
 #  body_classes: "georgia bg-near-white"
   #gravatar = "john.doe@example.com"
   #dateFormat = "January 2, 2006"
@@ -86,16 +95,19 @@ languages:
           pre: <i class='fa fa-user fa-fw'></i>
           weight: 1
           identifier: about
-          url: /about/
+          url: about/
         - name: Студентам
           pre: <i class='fa fa-user fa-fw'></i>
           weight: 2
           identifier: students
-          url: /students/
+          url: students/
 
   en:
     weight: 2
     languageName: "ENG"
+#    contentDir: content/en
+    disabled: false
+    languageCode: en-US
     title: "Home"
     params:
       subtitle: Look left
@@ -109,9 +121,9 @@ languages:
           pre: <i class='fa fa-user fa-fw'></i>
           weight: 1
           identifier: about
-          url: /en/about/
+          url: en/about/
         - name: For students
           pre: <i class='fa fa-user fa-fw'></i>
           weight: 2
           identifier: students
-          url: /en/students/
+          url: en/students/
