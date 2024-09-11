@@ -2,11 +2,11 @@
 title = "Roman Lubkov"
 description = "About me"
 date = "2024-08-30"
-aliases = ["about-me-en"]
+aliases = []
 author = "Roman Lubkov"
 +++
 
-[my CV](CV/cv.pdf)
+[my CV](/CV/cv.pdf)
 
 ### Positions
 - 2023–present: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
@@ -15,7 +15,7 @@ author = "Roman Lubkov"
 - 2017–2020: Junior researcher, Department of Mathematics and Mechanics, St. Petersburg University
 
 ### Education
-- 2022: Ph.D. in Mathematics and Physics, St. Petersburg University, [my thesis (in Russian and English)](CV/thesis.pdf)
+- 2022: Ph.D. in Mathematics and Physics, St. Petersburg University, [my thesis (in Russian and English)](/CV/thesis.pdf)
 - 2017: M.Sc. in Mathematics, St. Petersburg University
 - 2015: B.Sc. in Mathematics, St. Petersburg University
 
