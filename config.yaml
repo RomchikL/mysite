@@ -5,7 +5,7 @@ title: 'Home'
 languageCode: ru-ru
 DefaultContentLanguage: ru
 author: Roman Lubkov
-paginate: 10
+pagination.pagerSize: 10
 enableEmoji: true
 enableGitInfo: true
 #relativeURLs: true
