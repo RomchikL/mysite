@@ -8,7 +8,7 @@ topics = []
 +++
 
 [Расписание занятий](https://docs.google.com/spreadsheets/d/1SduNMlO-eTpaOlgW1c53qQdJLx18hNvpHQsrcOMplXM/edit?gid=422424548#gid=422424548):
- 27.09; 04.10; 11.10 - пары в ауд. 308 на Среднем просп. ВО 41 с 15:25 по 17:10;
+ 27.09; 04.10; 11.10 - пары в ауд. 308 на Среднем просп. ВО 41 с 15:25 по 17:00;
  С 23.09 пары в ауд. 310 на 14 линии ВО 29 по понедельникам с 13:40 по 15:15.
 
 Для получения зачёта по алгебре необходимо получить все плюсики по всем задачам, то есть решить все задачи всех контрольных и самостоятельных работ.
@@ -20,8 +20,10 @@ topics = []
 По всем вопросам меня можно найти почти в любой день в каб. 225 на 14 линии ВО 29.
 
 ### Материалы курса
- - [Конспект лекций Алексея Степанова](http://alexei.stepanov.spb.ru/students/MKNalg2.pdf)
+ 1. [Конспект лекций Алексея Степанова](http://alexei.stepanov.spb.ru/students/MKNalg2.pdf)
 {{< void "- [Листочки на рейтинг](/24B10-mcs/file.pdf)" >}} 
- - [LMS](https://emkn.ru/courses/2024-autumn/2.208-algebra-1/)
+ 2. [LMS](https://emkn.ru/courses/2024-autumn/2.208-algebra-1/)
+
+
 
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1nISZyTW736wv5aWOK2retTjuQo05R_KBpjwQPvG5-bU/edit?gid=0#gid=0" "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqK09p68P_HZnDgZ24onlzVXfeuZOWRHmy5RKWBuzgPbXcDnJmvS1JepwwRfZ6mJiGidpDmW4UUxEr/pubhtml?widget=true&amp;headers=false" >}}
