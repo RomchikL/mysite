@@ -6,8 +6,8 @@ on:
     pull_request:
       branches: [ "main" ]
 
-permissions:
-  contents: write
+#permissions:
+#  contents: write
 
 jobs: # jobs запускаются параллельно, если не указана последовательность
   deploy: # Название job вы можете назвать как угодно
