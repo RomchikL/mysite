@@ -48,4 +48,4 @@ jobs: # jobs запускаются параллельно, если не ука
           password: ${{ secrets.PASS_FTP_SPBU }}
 
 
-        
+         
