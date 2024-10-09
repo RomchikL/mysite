@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /~lubkov/24B10-mcs/academic_record/абросимов/.htpasswd
+require valid-user
