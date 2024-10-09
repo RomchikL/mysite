@@ -1,0 +1,51 @@
+name: CI
+on:
+   # События, которые запускают jobs
+    push:
+      branches: [ "main" ]
+    pull_request:
+      branches: [ "main" ]
+
+jobs: # jobs запускаются параллельно, если не указана последовательность
+  deploy: # Название job вы можете назвать как угодно
+    runs-on: ubuntu-22.04 # Операционная система в виртуальной машине, в которой запускаются процессы
+#    concurrency:
+#      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Git checkout # Actions от github: проверяет репозиторий, гит и т.д.
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+#      - name: Update theme
+        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+#        run: git submodule update --init --recursive
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.135.0'
+          extended: true
+
+      - name: Build
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.MYSITE_TOKEN }}
+          publish_dir: ./public
+
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.2
+        with:
+          server: ${{ secrets.LINK_FTP_SPBU }}
+          username: ${{ secrets.USERNAME_FPT_SPBU }}
+          password: ${{ secrets.PASS_FTP_SPBU }}
+
+
+        
