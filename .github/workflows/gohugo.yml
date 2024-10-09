@@ -40,6 +40,12 @@ jobs: # jobs запускаются параллельно, если не ука
           github_token: ${{ secrets.MYSITE_TOKEN }}
           publish_dir: ./public
 
+      - name: Set up WireGuard Connection
+        uses: niklaskeerl/easy-wireguard-action@v2
+        with:
+          WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE_SPEEDSTER }}
+
+
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
