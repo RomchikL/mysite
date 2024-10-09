@@ -14,11 +14,6 @@ indexes:
   tag: tags
   topic: topics
 
-#markup:
-#  goldmark:
-#    parser:
-#      attribute:
-#        block: true
 
 params:
   author: Роман Лубков
@@ -39,6 +34,7 @@ params:
   favicon_16: "images/favicon-16x16.png"
   touchicon: "images/apple-touch-icon.png"
   manifest: "/~lubkov/site.webmanifest"
+  math: true
 
 #  body_classes: "georgia bg-near-white"
   #gravatar = "john.doe@example.com"
