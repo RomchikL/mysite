@@ -14,6 +14,8 @@ topics = []
 2. Также в планах следующие источники: A. Stepanov, ``Subring subgroups in Chevalley groups with doubly laced root systems,'' Journal of Algebra, vol. 362, pp. 12–29, Jul. 2012, [DOI](https://doi.org/10.1016/j.jalgebra.2012.04.007).
 3. J. Jantzen, ``Representations of Algebraic Groups,'' Mathematical Surveys and Monographs, Aug. 2007, [DOI](https://doi.org/10.1090/surv/107).
 
+Ближайшее занятие:
+15.10.2024 - Д. Кудряков - Подгруппы групп Шевалле
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>08.10.2024 - Д. Кудряков - Максимальные расщепимые торы в группах Шевалле</li>
