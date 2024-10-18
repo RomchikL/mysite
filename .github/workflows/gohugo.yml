@@ -55,6 +55,7 @@ jobs: # jobs запускаются параллельно, если не ука
           server: ${{ secrets.LINK_FTP_SPBU }}
           username: ${{ secrets.USERNAME_FPT_SPBU }}
           password: ${{ secrets.PASS_FTP_SPBU }}
+          local-dir: ./public/
 
 
          
