@@ -15,9 +15,10 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
-14.10.2024 - Р. Лубков - Полупростые алгебры Ли
+21.10.2024 - В. Доменко - Полная приводимость представлений
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
+  <li>14.10.2024 - Р. Лубков - Полупростые алгебры Ли</li>
   <li>17.05.2024 - У. Бирюкова - Внутренние дифференцирования</li>
   <li>10.05.2024 - А. Ковлякова - Форма Киллинга</li>
   <li>03.05.2024 - В. Доменко - Критерий Картана</li>
