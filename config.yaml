@@ -15,6 +15,7 @@ indexes:
   topic: topics
 
 
+
 params:
   author: Роман Лубков
   # custom_css: ["css/custom.css"]
@@ -24,7 +25,7 @@ params:
   # Custom remote JS files
   # customRemoteJS = []
   colorScheme: "auto"
-  commit: "https://github.com/RomchikL/mysite"
+  commit: "https://github.com/RomchikL/mysite/tree"
   since: 2023
   keywords: "blog,math,research,personal"
   description: "Личный сайт"
@@ -34,7 +35,8 @@ params:
   favicon_16: "images/favicon-16x16.png"
   touchicon: "images/apple-touch-icon.png"
   manifest: "/~lubkov/site.webmanifest"
-  math: true
+  katex: "true"
+  math: "true"
 
 #  body_classes: "georgia bg-near-white"
   #gravatar = "john.doe@example.com"
