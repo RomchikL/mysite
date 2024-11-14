@@ -15,6 +15,7 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
+25.11.2024 - Роман Бархаткин --- Свойства корневых подпространств
 18.11.2024 - Вячеслав Доменко --- Торические подалгебры и корни
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
