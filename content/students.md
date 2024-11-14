@@ -6,5 +6,5 @@ author = "Роман Лубков"
 +++
 
 - [Для группы 24.Б10-мкн, осень 2024, Алгебра](/~lubkov/24b10-mcs)
-- [Семинар ``Алгебры Ли''](/~lubkov/seminars/lie-algebras2024)
-- [Семинар ``Алгебраические группы над кольцами''](/~lubkov/seminars/chevalley2024)
+- [Семинар "Алгебры Ли"](/~lubkov/seminars/lie-algebras2024)
+- [Семинар "Алгебраические группы над кольцами"](/~lubkov/seminars/chevalley2024)
