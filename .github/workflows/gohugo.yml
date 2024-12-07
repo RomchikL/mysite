@@ -44,14 +44,14 @@ jobs: # jobs запускаются параллельно, если не ука
           publish_dir: ./public
 
       - name: 📂 Sync Files
-      uses: SamKirkland/web-deploy@v1
-      with:
-        target-server: lubkov.spbu.ru
-        ssh-port: ${{ secrets.SSH_PORT }}
-        remote-user: ${{ secrets.REM_USER }}
-        private-ssh-key: ${{ secrets.SSH_KEY }}
-        destination-path: ${{ secrets.DEST_PATH }}
-        source-path: ./public/
+        uses: SamKirkland/web-deploy@v1
+        with:
+          target-server: lubkov.spbu.ru
+          ssh-port: ${{ secrets.SSH_PORT }}
+          remote-user: ${{ secrets.REM_USER }}
+          private-ssh-key: ${{ secrets.SSH_KEY }}
+          destination-path: ${{ secrets.DEST_PATH }}
+          source-path: ./public/
 
 #       website on spbu hosting
 #      - name: Set up WireGuard Connection
