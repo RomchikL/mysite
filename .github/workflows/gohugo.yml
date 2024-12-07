@@ -43,22 +43,22 @@ jobs: # jobs запускаются параллельно, если не ука
           github_token: ${{ secrets.MYSITE_TOKEN }}
           publish_dir: ./public
 
-      - name: Set up WireGuard Connection
-        uses: niklaskeerl/easy-wireguard-action@v2
-        with:
-          WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE_SPEEDSTER }}
-    
       - name: 📂 Sync Files
-        uses: SamKirkland/web-deploy@v1
-        with:
-          target-server: lubkov.spbu.ru
-          ssh-port: ${{ secrets.SSH_PORT }}
-          remote-user: ${{ secrets.REM_USER }}
-          private-ssh-key: ${{ secrets.SSH_KEY }}
-          destination-path: ${{ secrets.DEST_PATH }}
-          source-path: ./public/
+      uses: SamKirkland/web-deploy@v1
+      with:
+        target-server: lubkov.spbu.ru
+        ssh-port: ${{ secrets.SSH_PORT }}
+        remote-user: ${{ secrets.REM_USER }}
+        private-ssh-key: ${{ secrets.SSH_KEY }}
+        destination-path: ${{ secrets.DEST_PATH }}
+        source-path: ./public/
 
 #       website on spbu hosting
+#      - name: Set up WireGuard Connection
+#        uses: niklaskeerl/easy-wireguard-action@v2
+#        with:
+#          WG_CONFIG_FILE: ${{ secrets.WG_CONFIG_FILE_SPEEDSTER }}
+
 #      - name: 📂 Sync files
 #        uses: SamKirkland/FTP-Deploy-Action@4.3.2
 #        with:
