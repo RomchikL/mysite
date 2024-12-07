@@ -44,14 +44,15 @@ jobs: # jobs запускаются параллельно, если не ука
           publish_dir: ./public
 
       - name: 📂 Sync Files
-        uses: SamKirkland/web-deploy@v1
+        uses: burnett01/rsync-deployments@7.0.1
         with:
-          target-server: lubkov.spbu.ru
-          ssh-port: ${{ secrets.SSH_PORT }}
-          remote-user: ${{ secrets.REM_USER }}
-          private-ssh-key: ${{ secrets.SSH_KEY }}
-          destination-path: ${{ secrets.DEST_PATH }}
-          source-path: ./public/
+          switches: -avzr --delete
+          remote_host: lubkov.spbu.ru
+          remote_port: ${{ secrets.SSH_PORT }}
+          remote_user: ${{ secrets.REM_USER }}
+          remote_key: ${{ secrets.SSH_KEY }}
+          remote_path: ${{ secrets.DEST_PATH }}
+          path: ./public/
 
 #       website on spbu hosting
 #      - name: Set up WireGuard Connection
