@@ -6,7 +6,7 @@ aliases = []
 author = "Roman Lubkov"
 +++
 
-[my CV](https://users.math-cs.spbu.ru/~lubkov/CV/cv.pdf) 
+[my CV](https://lubkov.spbu.ru/CV/cv.pdf) 
 
 ### Positions
 - 2023–present: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
@@ -15,7 +15,7 @@ author = "Roman Lubkov"
 - 2017–2020: Junior researcher, Department of Mathematics and Mechanics, St. Petersburg University
 
 ### Education
-- 2022: Ph.D. in Mathematics and Physics, St. Petersburg University, [my thesis (in Russian and English)](https://users.math-cs.spbu.ru/~lubkov/CV/thesis.pdf)
+- 2022: Ph.D. in Mathematics and Physics, St. Petersburg University, [my thesis (in Russian and English)](https://lubkov.spbu.ru/CV/thesis.pdf)
 - 2017: M.Sc. in Mathematics, St. Petersburg University
 - 2015: B.Sc. in Mathematics, St. Petersburg University
 
@@ -37,7 +37,7 @@ algebro-geometric [Grothendieck] aspects
  - 2013: Scholarship of Chebyshev Laboratory, undergraduate student award
 
 ### Contact
-E-mail: ![](https://users.math-cs.spbu.ru/~lubkov/CV/email.jpg)
+E-mail: ![](https://lubkov.spbu.ru/CV/email.jpg)
 
 Faculty of Mathematics and Computer Science
 St. Petersburg University

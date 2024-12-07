@@ -1,6 +1,6 @@
-baseurl: 'https://users.math-cs.spbu.ru/~lubkov/' 
+baseurl: 'https://lubkov.spbu.ru' #'https://users.math-cs.spbu.ru/~lubkov/' 
 #theme: ['blackburn-mod', 'blackburn']
-theme: 'hugo-coder'
+theme: ['hugo-coder-CoW-modifications', 'hugo-coder']
 title: 'Home'
 languageCode: ru-ru
 DefaultContentLanguage: ru
