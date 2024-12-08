@@ -1,6 +1,7 @@
 <footer class="footer">
     <section class="container">
       <div style="display:flex; align-items:center; justify-content:center;">
+      <div class="div-mobile">  
       &copy;
       {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
         {{ .Site.Params.since }} -
@@ -11,12 +12,15 @@
       {{ if (and .Site.Params.license) }}
         {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
       {{ end }}
+      </div>
       <a href="https://spbu.ru/"><img src={{"images/emblem_spbu.png" | relURL}} width="60" /></a>
+      <div class="div-mobile">
       <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
       {{ i18n "powered_by" }} <a href="https://gohugo.io/" target="_blank" rel="noopener">&nbsp;Hugo </a>&nbsp;&&nbsp;<a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
       {{ if (and .Site.Params.commit .GitInfo) }}
         [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
       {{ end }}
-    </div> 
+    </div>
+    </div>
     </section>
-  </footer>
+  </footer> 

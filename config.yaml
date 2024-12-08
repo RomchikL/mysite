@@ -74,7 +74,7 @@ params:
     - name: "RSS"
       icon: "fa fa-2x fa-rss"
       weight: 4
-      url: "https://users.math-cs.spbu.ru/~lubkov/index.xml"
+      url: "https://lubkov.spbu.ru/index.xml"
       rel: "alternate"
       type: "application/rss+xml"
 
