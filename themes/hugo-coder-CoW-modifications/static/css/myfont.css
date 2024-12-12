@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "TeXGyrePagella";
+    font-style: normal;
+    /*font-weight: 400;
+    /* font-display: swap; */
+    src: local("TeXGyrePagella"),
+         url("/fonts/TeXGyrePagella-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TeXGyrePagella";
+    font-style: bold;
+    /*font-weight: 400;
+    /* font-display: swap; */
+    src: local("TeXGyrePagella"),
+         url("/fonts/TeXGyrePagella-Bold.woff2") format("woff2");
+}
