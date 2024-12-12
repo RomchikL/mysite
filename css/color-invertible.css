@@ -1,0 +1,34 @@
+@media (prefers-color-scheme: light) {
+    .color-invertible .colorscheme-auto {
+        filter: invert(100%);
+    }
+}
+
+    .colorscheme-light .color-invertible {
+        filter: invert(100%);
+    }
+
+
+
+
+@media (prefers-color-scheme: light) {
+    .ttt[srcset*="white"] .colorscheme-auto {
+        display: none;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .ttt[srcset*="black"] .colorscheme-auto {
+        display: none;
+    }
+}
+
+
+
+    .colorscheme-light .ttt {
+        display: none;
+    }
+
+    .colorscheme-dark .ttt {
+        display: none;
+    }
