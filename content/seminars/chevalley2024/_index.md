@@ -16,9 +16,10 @@ math = true
 3. J. Jantzen, ``Representations of Algebraic Groups,'' Mathematical Surveys and Monographs, Aug. 2007, [DOI](https://doi.org/10.1090/surv/107).
 
 Ближайшее занятие:
-10.12.2024 - Алексей Степанов - Техника доказательства Sandwich Classification Theorem для subring subgroups
+17.12.2024 - Алексей Степанов - Идея Sandwich Classification Theorem для групп Шевалле, отвечающих системам корней с двойными связями
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
+  <li>10.12.2024 - Алексей Степанов - Техника доказательства Sandwich Classification Theorem для subring subgroups</li>
   <li>03.12.2024 - Алексей Степанов - Подгруппы групп Шевалле типов Bl и Cl, содержащие группу над подкольцом</li>
   <li>26.11.2024 - Алексей Степанов - Subring subgroups в группах Шевалле, отвечающих системам корней с двойными связями</li>
   <li>19.11.2024 - Дмитрий Кудряков - Подгруппы группы Шевалле над полулокальными подкольцами II</li>
