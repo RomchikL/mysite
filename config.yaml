@@ -25,7 +25,7 @@ params:
   # Custom remote JS files
   # customRemoteJS = []
   colorScheme: "auto"
-  commit: "https://github.com/RomchikL/mysite/tree"
+#  commit: "https://github.com/RomchikL/mysite/tree"
   since: 2023
   keywords: "blog,math,research,personal"
   description: "Личный сайт"
@@ -34,7 +34,7 @@ params:
   favicon_32: "images/favicon-32x32.png"
   favicon_16: "images/favicon-16x16.png"
   touchicon: "images/apple-touch-icon.png"
-  manifest: "/~lubkov/site.webmanifest"
+  manifest: "/site.webmanifest"
   katex: "true"
   math: "true"
 
