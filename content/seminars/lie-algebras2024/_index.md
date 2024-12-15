@@ -15,7 +15,7 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
-16.12.2024 - Вячеслав Доменко --- Основные примеры и свойства систем корней
+02.2025 - Вячеслав Доменко --- Воспоминания о системах корней
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>09.12.2024 - Вячеслав Доменко --- Аксиоматика систем корней</li>
