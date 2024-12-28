@@ -19,7 +19,7 @@
       const inputUrl = document.getElementById('obsidianUrl').value;
       const outputDiv = document.getElementById('result');
       if (inputUrl.startsWith('obsidian://')) {
-        const transformedUrl = inputUrl.replace('obsidian://', 'https://a.perep.ru/obsidian/#');
+        const transformedUrl = inputUrl.replace('obsidian://', 'https://lubkov.spbu.ru/obsidian/#');
         document.getElementById('result').textContent = transformedUrl;
       } else {
         document.getElementById('result').textContent = 'Invalid input. Please provide a URL starting with "obsidian://".';
