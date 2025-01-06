@@ -21,9 +21,10 @@ topics = []
 По всем вопросам меня можно найти почти в любой день в каб. 225 на 14 линии ВО 29.
 
 ### Материалы курса
- 1. [Конспект лекций Алексея Степанова](http://alexei.stepanov.spb.ru/students/MKNalg2.pdf)
+ 1. [Конспект лекций Алексея Степанова, полный](http://alexei.stepanov.spb.ru/students/MKNalg2.pdf)
+ 2. [Конспект лекций Алексея Степанова, для СП](http://alexei.stepanov.spb.ru/students/sp1.pdf)
 {{< void "- [Листочки на рейтинг](/24B10-mcs/file.pdf)" >}} 
- 2. [LMS](https://emkn.ru/courses/2024-autumn/2.208-algebra-1/)
+ 3. [LMS emkn.ru](https://emkn.ru/courses/2024-autumn/2.208-algebra-1/)
 
 
 
