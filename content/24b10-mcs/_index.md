@@ -1,21 +1,18 @@
 +++
 description = ""
-date = "2024-08-31"
+date = "2025-02-12"
 title = "Группа 24.Б10-мкн"
 draft = false
 tags = []
 topics = []
 +++
 
-[Расписание занятий](https://docs.google.com/spreadsheets/d/1SduNMlO-eTpaOlgW1c53qQdJLx18hNvpHQsrcOMplXM/edit?gid=422424548#gid=422424548):
- 27.09; 04.10; 11.10 - пары в ауд. 308 на Среднем просп. ВО 41 с 15:25 по 17:00;
- С 23.09 пары в ауд. 310 на 14 линии ВО 29 по понедельникам с 13:40 по 15:15;
- Зачёт будет 27.12.2024 в ауд. 305 в 12:00
+[Расписание занятий](https://docs.google.com/spreadsheets/d/1LP7l0Q-pzWoSyG65_lFbGZSdmxZQerM1j7_gTmL_u1E/edit?gid=1323291202#gid=1323291202):
+Пары в ауд. 309 на 14 линии ВО 29 по понедельникам с 09:30 по 11:05.
 
 Для получения зачёта по алгебре необходимо получить все плюсики по всем задачам, то есть решить все задачи всех контрольных и самостоятельных работ.
 ***
-Помимо зачёта, по окончании каждого семестра будут раздаваться золотые и серебряные медали, которые влияют на рейтинг, по результатам которого будут выплачиваться повышенные стипендии. Рейтинг студентов независим от зачёта, то есть никак не влияет на постановку зачёта и наоборот, зачёт не влияет на рейтинг.
-Основными критериями для раздачи медалей служат решение домашних работ и активность на занятиях.
+Помимо зачёта, по окончании каждого семестра будут раздаваться золотые и серебряные медали, которые влияют на рейтинг, по результатам которого будут выплачиваться повышенные стипендии. Правила рейтинга будут объявлены позже
 
 
 По всем вопросам меня можно найти почти в любой день в каб. 225 на 14 линии ВО 29.
@@ -28,4 +25,4 @@ topics = []
 
 
 
-{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1nISZyTW736wv5aWOK2retTjuQo05R_KBpjwQPvG5-bU/edit?gid=0#gid=0" "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqK09p68P_HZnDgZ24onlzVXfeuZOWRHmy5RKWBuzgPbXcDnJmvS1JepwwRfZ6mJiGidpDmW4UUxEr/pubhtml?widget=true&amp;headers=false" >}}
+{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1nISZyTW736wv5aWOK2retTjuQo05R_KBpjwQPvG5-bU/edit?gid=1660754863#gid=1660754863" "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqK09p68P_HZnDgZ24onlzVXfeuZOWRHmy5RKWBuzgPbXcDnJmvS1JepwwRfZ6mJiGidpDmW4UUxEr/pubhtml?widget=true&amp;headers=false" >}}
