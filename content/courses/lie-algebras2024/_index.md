@@ -1,12 +1,13 @@
 +++
 description = ""
-date = "2023-10-19T00:40:04-07:00"
+date = "2025-02-21T00:40:04-07:00"
 title = 'Семинар "Алгебры Ли"'
 tags = []
 topics = []
 +++
 
-Семинар проходит на 14 линии ВО, ауд. 310 
+Весна 2025:
+Семинар проходит на 14 линии ВО, ауд. 120 
 [Расписание](https://indico.eimi.ru/category/113/)
 
 Материалы к семинару:
@@ -15,7 +16,7 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
-02.2025 - Вячеслав Доменко --- Воспоминания о системах корней
+24.02.2025 - Вячеслав Доменко --- Воспоминания о системах корней
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>09.12.2024 - Вячеслав Доменко --- Аксиоматика систем корней</li>
