@@ -13,7 +13,7 @@ math = true
 ## Материалы к курсу:
 
 1. J. Jantzen, "Representations of Algebraic Groups," Mathematical Surveys and Monographs, Aug. 2007, [DOI](https://doi.org/10.1090/surv/107) (Глава 1).
-2. А.В. Степанов, "Структурная теория и подгруппы групп Шевалле над кольцами," ЛЭТИ, Санкт-Петербург: Докторская диссертация, 2014. С. 136 [Ссылка](http://alexei.stepanov.spb.ru/papers/StepanovDiss.pdf) (Главы 2 и 3).
+2. А.В. Степанов, "Структурная теория и подгруппы групп Шевалле над кольцами," ЛЭТИ, Санкт-Петербург: [Докторская диссертация](http://alexei.stepanov.spb.ru/papers/StepanovDiss.pdf), 2014. С. 136 (Главы 2 и 3).
 
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
