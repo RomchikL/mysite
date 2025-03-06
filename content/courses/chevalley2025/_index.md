@@ -18,7 +18,7 @@ math = true
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>03.03.2025 - Алексей Степанов - Лекция 3
-    <a href="">
+    <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%A8%D0%B5%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%20%D0%BD%D0%B0%D0%B4%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%D0%B8/2025-03-03_17-17-51.mp4">
         [Видеозапись]
     </a>
     <a href="https://leodrive.mooo.com/share/sSWFEA5I">
