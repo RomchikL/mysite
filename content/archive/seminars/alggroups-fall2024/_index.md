@@ -22,10 +22,6 @@ math = true
 02.2025 - Алексей Степанов - Воспоминания о Subring Subgroups. -->
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
-  <li>14.02.2025 - Алексей Степанов - Пилот нового спецкурса
-        <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%A8%D0%B5%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%20%D0%BD%D0%B0%D0%B4%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%D0%B8/M2025-02-14_134256_1h38m_101.mp4">
-        [Видеозапись]
-      </a></li>
   <li>03.01.2025 - Алексей Степанов - Классификация Subring Subgroups: Параболические подгруппы II</li>
   <li>24.12.2024 - Алексей Степанов - Классификация Subring Subgroups: Параболические подгруппы 
   <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/M2024-12-24_124713_2h5m_202.mp4">

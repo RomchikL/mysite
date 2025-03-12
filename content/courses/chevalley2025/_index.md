@@ -14,9 +14,18 @@ math = true
 
 1. J. Jantzen, "Representations of Algebraic Groups," Mathematical Surveys and Monographs, Aug. 2007, [DOI](https://doi.org/10.1090/surv/107) (Глава 1).
 2. А.В. Степанов, "Структурная теория и подгруппы групп Шевалле над кольцами," ЛЭТИ, Санкт-Петербург: [Докторская диссертация](http://alexei.stepanov.spb.ru/papers/StepanovDiss.pdf), 2014. С. 136 (Главы 2 и 3).
+3.  J. S. Milne, "Basic theory of affine group schemes," 2012 [Preprint](http://www.jmilne.org/math/CourseNotes/AGS.pdf)
 
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
+  <li>03.03.2025 - Алексей Степанов - Лекция 3
+    <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%A8%D0%B5%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%20%D0%BD%D0%B0%D0%B4%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%D0%B8/2025-03-10_17-17-19.mp4">
+        [Видеозапись]
+    </a>
+    <a href="https://leodrive.mooo.com/share/hO8tby6N">
+        [Оригинал]
+    </a> 
+    </li>
   <li>03.03.2025 - Алексей Степанов - Лекция 3
     <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%A8%D0%B5%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%20%D0%BD%D0%B0%D0%B4%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%D0%B8/2025-03-03_17-17-51.mp4">
         [Видеозапись]
