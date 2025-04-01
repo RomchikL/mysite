@@ -64,7 +64,7 @@ params:
     - name: "email"
       icon: "fa fa-2x fa-envelope"
       weight: 2
-      url: "mailto:r.lubkov@spbu.ru"
+      url: "mailto:roman@lubkov.spbu.ru"
 
     - name: "Telegram"
       icon: "fa fa-2x fa-telegram"
