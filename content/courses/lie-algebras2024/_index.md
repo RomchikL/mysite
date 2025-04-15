@@ -16,10 +16,15 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
-14.04.2025 - Елизавета Прибыткова/Роман Бархаткин - Автоморфизмы систем корней/Абстрактная теория весов
+21.04.2025 - Роман Бархаткин - Изоморфизм алгебр Ли
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
-  <li>17.03.2025 - Елизавета Прибыткова - Построение систем корней
+  <li>14.04.2025 - Елизавета Прибыткова - Автоморфизмы систем корней/Абстрактная теория весов
+    <a href="https://leodrive.mooo.com/share/4-4v2xZx">
+        [Видеозапись]
+    </a>
+    </li>
+  <li>07.04.2025 - Елизавета Прибыткова - Построение систем корней
     <a href="https://leodrive.mooo.com/share/XfQ7VFWw">
         [Видеозапись]
     </a>
