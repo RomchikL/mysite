@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Sun, 08 Dec 2024 01:33:01 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;a href="https://lubkov.spbu.ru/CV/cv.pdf" class="external-link" target="_blank" rel="noopener">my CV&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 22 Apr 2025 17:59:37 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;a href="https://lubkov.spbu.ru/CV/cv.pdf" class="external-link" target="_blank" rel="noopener">my CV&lt;/a> [Last update: April 16, 2025]&lt;/p>
 &lt;h3 id="positions">
  Positions
  &lt;a class="heading-link" href="#positions">
@@ -7,10 +7,11 @@
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>2023–present: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg&lt;/li>
-&lt;li>2022–2023: Research assistant, Chebyshev Laboratory at St. Petersburg University&lt;/li>
-&lt;li>2019–2022: Junior researcher, St. Petersburg Department of Steklov Mathematical Institute of The Russian Academy of Sciences, St. Petersburg&lt;/li>
-&lt;li>2017–2020: Junior researcher, Department of Mathematics and Mechanics, St. Petersburg University&lt;/li>
+&lt;li>2025-present: Researcher, Chebyshev Laboratory at St. Petersburg University&lt;/li>
+&lt;li>2023–2024: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg&lt;/li>
+&lt;li>2022–2023: Junior researcher, Chebyshev Laboratory at St. Petersburg University&lt;/li>
+&lt;li>2019–2022: Research assistant, St. Petersburg Department of Steklov Mathematical Institute of The Russian Academy of Sciences, St. Petersburg&lt;/li>
+&lt;li>2017–2020: Research assistant, Department of Mathematics and Mechanics, St. Petersburg University&lt;/li>
 &lt;/ul>
 &lt;h3 id="education">
  Education
@@ -36,6 +37,7 @@
 their relatives; representation theory of such groups)&lt;/li>
 &lt;li>Invariant theory: geometry and structure problems defining algebraic groups via invariants;
 algebro-geometric [Grothendieck] aspects&lt;/li>
+&lt;li>Non-associative algebras: Jordan algebras and superalgebras, Poisson algebras and superalgebras and their generalizations, deformations and degenerations&lt;/li>
 &lt;/ul>
 &lt;h3 id="grants-prizes-and-awards">
  Grants, Prizes, and Awards
@@ -45,9 +47,9 @@ algebro-geometric [Grothendieck] aspects&lt;/li>
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>2023–2024: Grant of Russian Science Foundation No 22-71-10001&lt;/li>
-&lt;li>2023: The “School” competition of Theoretical Physics and Mathematics Advancement Foundation ``BASIS&amp;rsquo;&amp;rsquo;, junior postdoctoral award&lt;/li>
-&lt;li>2022: Scholarship of the program ``Native towns&amp;rsquo;&amp;rsquo;, Gazprom Neft PJCS, junior postdoctoral award&lt;/li>
+&lt;li>2023–2025: Grant of Russian Science Foundation No 22-71-10001&lt;/li>
+&lt;li>2023: The “School” competition of Theoretical Physics and Mathematics Advancement Foundation &amp;ldquo;BASIS&amp;rdquo;, junior postdoctoral award&lt;/li>
+&lt;li>2022: Scholarship of the program &amp;ldquo;Home towns&amp;rdquo;, Gazprom Neft PJCS, junior postdoctoral award&lt;/li>
 &lt;li>2019–2022: Russian Foundation of Basic Research, individual grant for doctoral students No 19-31-90072&lt;/li>
 &lt;li>2018: Rokhlin Stipends for Young Mathematicians, graduate student award&lt;/li>
 &lt;li>2013: Scholarship of Chebyshev Laboratory, undergraduate student award&lt;/li>
