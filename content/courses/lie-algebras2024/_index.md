@@ -16,7 +16,7 @@ topics = []
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
 Ближайшее занятие:
-28.04.2025 - Роман Бархаткин - Автоморфизмы алгебр Ли
+12.05.2025 - Роман Бархаткин - Автоморфизмы алгебр Ли
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>21.04.2025 - Роман Бархаткин - Изоморфизм алгебр Ли
