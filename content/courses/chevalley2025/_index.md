@@ -16,13 +16,23 @@ math = true
 2. А.В. Степанов, "Структурная теория и подгруппы групп Шевалле над кольцами," ЛЭТИ, Санкт-Петербург: [Докторская диссертация](http://alexei.stepanov.spb.ru/papers/StepanovDiss.pdf), 2014. С. 136 (Главы 2 и 3).
 3.  J. S. Milne, "Basic theory of affine group schemes," 2012 [Preprint](http://www.jmilne.org/math/CourseNotes/AGS.pdf)
 
-
 {{< spoilerlist "Архив занятий">}}<ol reversed>
+  <li>19.05.2025 - Алексей Степанов - Лекция 14
+    <a href="https://disk.yandex.ru/">
+        [Видеозапись]
+    </a>
+    <a href="https://leodrive.mooo.com/share/y4ISFC00">
+        [Оригинал]
+    </a> 
+    <a href="https://leodrive.mooo.com/share/uFK7Omf9">
+        [Часть 2, дополнительная]
+    </a>
+    </li>
   <li>12.05.2025 - Алексей Степанов - Лекция 13
     <a href="https://disk.yandex.ru/d/knoQ44wLmGDwwQ/2024-2025%20%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%20(%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)/%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81%D1%8B/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%A8%D0%B5%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%20%D0%BD%D0%B0%D0%B4%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%B0%D0%BC%D0%B8/2025-05-12_17-24-13.mp4">
         [Видеозапись]
     </a>
-    <a href="https://leodrive.mooo.com/share/VpBPIZ4L">
+    <a href="https://leodrive.mooo.com/share/L0tJvGrK">
         [Оригинал]
     </a> 
     </li>

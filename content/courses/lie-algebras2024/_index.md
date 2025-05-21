@@ -15,8 +15,6 @@ topics = []
 2. Полезно иногда заглядывать и в оригинал - James E. Humphreys, Introduction to Lie Algebras and Representation Theory, Springer New York, NY, [DOI](https://doi.org/10.1007/978-1-4612-6398-2)
 3. J. H. Conway, R. T. Curtis, S. P. Norton, R. A. Parker & R. A. Wilson, Atlas of Finite Groups-Maximal Subgroups and Ordinary Characters for Simple Groups, Clarendon Press, Oxford, 1985.
 
-Ближайшее занятие:
-12.05.2025 - Роман Бархаткин - Автоморфизмы алгебр Ли
 
 {{< spoilerlist "Архив занятий">}}<ol reversed>
   <li>21.04.2025 - Роман Бархаткин - Изоморфизм алгебр Ли
