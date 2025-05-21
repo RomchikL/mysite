@@ -21,7 +21,7 @@ math = true
     <a href="https://disk.yandex.ru/">
         [Видеозапись]
     </a>
-    <a href="https://leodrive.mooo.com/share/y4ISFC00">
+    <a href="https://leodrive.mooo.com/share/L0tJvGrK">
         [Оригинал]
     </a> 
     <a href="https://leodrive.mooo.com/share/uFK7Omf9">
