@@ -38,7 +38,12 @@ algebro-geometric [Grothendieck] aspects
  - 2013: Scholarship of Chebyshev Laboratory, undergraduate student award
 
 ### Contact
-E-mail: ![](https://lubkov.spbu.ru/CV/email.jpg)
+E-mail: {{< image 
+    src="/CV/email.png" 
+    alt="email" 
+    style="max-width: 30%; display: inline-block; margin: 0 5px; vertical-align: middle;" 
+>}}
+
 
 Faculty of Mathematics and Computer Science
 St. Petersburg University

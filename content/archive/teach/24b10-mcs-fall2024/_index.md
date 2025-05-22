@@ -26,6 +26,9 @@ topics = []
 {{< void "- [Листочки на рейтинг](/24B10-mcs/file.pdf)" >}} 
  3. [LMS emkn.ru](https://emkn.ru/courses/2024-autumn/2.208-algebra-1/)
 
-
+<!--
 
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1nISZyTW736wv5aWOK2retTjuQo05R_KBpjwQPvG5-bU/edit?gid=0#gid=0" "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqK09p68P_HZnDgZ24onlzVXfeuZOWRHmy5RKWBuzgPbXcDnJmvS1JepwwRfZ6mJiGidpDmW4UUxEr/pubhtml?widget=true&amp;headers=false" >}}
+
+
+-->
