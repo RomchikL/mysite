@@ -1,13 +1,16 @@
 +++
 description = ""
 date = "2025-02-12"
-title = "Группа 24.Б10-мкн"
+title = "Группа 24.Б10-мкн весна 2025"
 draft = false
 tags = []
 topics = []
 +++
 
+<!--
 [Расписание занятий](https://docs.google.com/spreadsheets/d/1LP7l0Q-pzWoSyG65_lFbGZSdmxZQerM1j7_gTmL_u1E/edit?gid=1323291202#gid=1323291202):
+-->
+Расписание занятий:
 Пары в ауд. 309 на 14 линии ВО 29 по понедельникам с 09:30 по 11:05.
 
 Для получения зачёта по алгебре необходимо получить все плюсики по всем задачам, то есть решить все задачи всех контрольных и самостоятельных работ.
@@ -23,5 +26,7 @@ topics = []
  3. [LMS emkn.ru](https://emkn.ru/courses/2025-spring/2.237-algebra-II/)
 
 
-
+<!--
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1nISZyTW736wv5aWOK2retTjuQo05R_KBpjwQPvG5-bU/edit?gid=1660754863#gid=1660754863" "https://docs.google.com/spreadsheets/d/e/2PACX-1vSqK09p68P_HZnDgZ24onlzVXfeuZOWRHmy5RKWBuzgPbXcDnJmvS1JepwwRfZ6mJiGidpDmW4UUxEr/pubhtml?widget=true&amp;headers=false" >}}
+
+-->

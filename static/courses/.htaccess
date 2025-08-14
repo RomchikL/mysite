@@ -3,4 +3,4 @@
 #RewriteRule (.*) https://lubkov.spbu.ru/archive/courses/chevalley-spring2025/ [R=301,L]
 
 
-Redirect 301 /courses/chevalley2025/ https://lubkov.spbu.ru/archive/courses/chevalley-spring2025/
+#Redirect 301 /courses/chevalley2025/ https://lubkov.spbu.ru/archive/courses/chevalley-spring2025/
