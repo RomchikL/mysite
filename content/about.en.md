@@ -6,11 +6,11 @@ aliases = []
 author = "Roman Lubkov"
 +++
 
-[my CV](https://lubkov.spbu.ru/CV/cv.pdf) [Last update: April 16, 2025]
+[my CV](https://lubkov.spbu.ru/CV/cv.pdf) [Last update: August 14, 2025]
 
 ### Positions
-- 2025-present: Researcher, Chebyshev Laboratory at St. Petersburg University
-- 2023–2024: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
+- 2025-present: Assistant professor, Mathematics and Computer Science Department, St. Petersburg University
+- 2023–present: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
 - 2022–2023: Junior researcher, Chebyshev Laboratory at St. Petersburg University
 - 2019–2022: Research assistant, St. Petersburg Department of Steklov Mathematical Institute of The Russian Academy of Sciences, St. Petersburg
 - 2017–2020: Research assistant, Department of Mathematics and Mechanics, St. Petersburg University
