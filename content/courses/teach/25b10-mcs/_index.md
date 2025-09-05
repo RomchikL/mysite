@@ -8,11 +8,15 @@ topics = []
 +++
 
 
-[Расписание занятий](https://timetable.spbu.ru/MCSC):
+[Расписание занятий](https://timetable.spbu.ru/MCSC/StudentGroupEvents/Primary/427316):
 Пары в ауд. 303 на 14 линии ВО 29 по пятницам с 15:25 по 17:00.
 
-Занятия будут проходить под руководством Даниила Юрьевича Кузакова.
+Для получения зачёта по алгебре необходимо получить все плюсики по всем задачам, то есть решить все задачи всех контрольных и самостоятельных работ.
+***
+Помимо зачёта в конце каждого семестра будет формироваться рейтинг студентов на основании решения домашних работ, активности на занятиях и результатах экзамена, по результатам которого будут выплачиваться повышенные стипендии. Всего каждый студент может получить от нуля до четырёх баллов за семестр: от нуля до трёх за практику плюс коррекция за ответ на экзамене - хороший ответ добавляет один балл, плохой ответ снижает полученное за практику количество баллов.
 
-По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по ХХХ в кабинете 225 на 14 линии ВО 29.
+По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по вторникам в кабинете 225 на 14 линии ВО 29.
 
-{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1mgK9wr0JmvkBxc7eVL-67MJcHC8ifSs5Rld4bdfhhMI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vRiXkawqTa6-9zj1rRqDOYEeB3XEz87tqID6OF6K9BXamQKtXvH6xC-FVKflZCLibahdsxTnzH8UqnN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
+{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
+
+

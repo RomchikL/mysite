@@ -8,13 +8,11 @@ topics = []
 +++
 
 
-[Расписание занятий](https://timetable.spbu.ru/MCSC):
+[Расписание занятий](https://timetable.spbu.ru/MCSC/StudentGroupEvents/Primary/427311):
 Пары в ауд. 309 на 14 линии ВО 29 по пятницам с 13:40 по 15:15.
 
-Для получения зачёта по алгебре необходимо получить все плюсики по всем задачам, то есть решить все задачи всех контрольных и самостоятельных работ.
-***
-Помимо зачёта, по окончании каждого семестра будут раздаваться золотые и серебряные медали, которые влияют на рейтинг, по результатам которого будут выплачиваться повышенные стипендии. Золотая медаль оценивается в 3 балла, серебряная - в 1 балл. Помимо медалей на рейтинг влияет оценка за зачет и экзамен. Оценка "отлично" даёт +1 балл, "удовлетворительно" - -3 балла, "неудовлетворительно" - -6 баллов, "не зачтено" или неявка без уважительной причины - -6 баллов, неявка по уважительной причине не влияет на рейтинг.
+Занятия будут проходить под руководством Даниила Юрьевича Кузакова.
 
-По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по ХХХ в кабинете 225 на 14 линии ВО 29.
+По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по вторникам в кабинете 225 на 14 линии ВО 29.
 
-{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
+{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1mgK9wr0JmvkBxc7eVL-67MJcHC8ifSs5Rld4bdfhhMI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vRiXkawqTa6-9zj1rRqDOYEeB3XEz87tqID6OF6K9BXamQKtXvH6xC-FVKflZCLibahdsxTnzH8UqnN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
