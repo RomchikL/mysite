@@ -14,21 +14,21 @@
       {{- $arxiv := cond (ge (len $parts) 4) (trim (index $parts 3) " ") "" -}}
       {{- $bibkey := cond (ge (len $parts) 5) (trim (index $parts 4) " ") "" -}}
 
-      {{/* --- BibTeX из data/english.yaml --- */}}
+      {{/* --- BibTeX из data/lubkov.yaml --- */}}
       {{- $bibentry := "" -}}
       {{- if $bibkey }}
-        {{- $entry := index site.Data.english $bibkey -}}
+        {{- $entry := index site.Data.lubkov $bibkey -}}
         {{- if $entry }}
-          {{- $fields := slice
-            (printf "  author = {%s}" $entry.author)
-            (printf "  title = {%s}" $entry.title)
-            (printf "  journal = {%s}" $entry.journal)
-            (printf "  year = {%s}" $entry.year)
-            (printf "  volume = {%s}" $entry.volume)
-            (printf "  number = {%s}" $entry.number)
-            (printf "  pages = {%s}" $entry.pages)
-            (printf "  doi = {%s}" $entry.doi)
-          -}}
+          {{- $fields := slice -}}
+          {{- if $entry.author  }}{{ $fields = $fields | append (printf "  author = {%s}"  $entry.author) }}{{ end }}
+          {{- if $entry.title   }}{{ $fields = $fields | append (printf "  title = {%s}"   $entry.title) }}{{ end }}
+          {{- if $entry.journal }}{{ $fields = $fields | append (printf "  journal = {%s}" $entry.journal) }}{{ end }}
+          {{- if $entry.year    }}{{ $fields = $fields | append (printf "  year = {%s}"    $entry.year) }}{{ end }}
+          {{- if $entry.volume  }}{{ $fields = $fields | append (printf "  volume = {%s}"  $entry.volume) }}{{ end }}
+          {{- if $entry.number  }}{{ $fields = $fields | append (printf "  number = {%s}"  $entry.number) }}{{ end }}
+          {{- if $entry.pages   }}{{ $fields = $fields | append (printf "  pages = {%s}"   $entry.pages) }}{{ end }}
+          {{- if $entry.doi     }}{{ $fields = $fields | append (printf "  doi = {%s}"     $entry.doi) }}{{ end }}
+
           {{- $bibentry = printf "@%s{%s,\n%s\n}" $entry.ENTRYTYPE $bibkey (delimit $fields ",\n") -}}
         {{- end }}
       {{- end }}

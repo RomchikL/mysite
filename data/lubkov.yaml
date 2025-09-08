@@ -1,0 +1,102 @@
+LubReverse2:
+  ENTRYTYPE: article
+  author: Lubkov, Roman
+  title: '{The reverse decomposition of unipotents for bivectors}'
+  journal: Communications in Algebra
+  year: '2021'
+  volume: '49'
+  number: '10'
+  pages: 4546--4556
+  doi: 10.1080/00927872.2021.1924183
+LubStepSubE:
+  ENTRYTYPE: unpublished
+  author: Lubkov, Roman and Stepanov, Alexei
+  title: '{Subgroups of general linear groups, containing the exterior square of the
+    elementary subgroup (preprint)}'
+  journal: ''
+  year: '2025'
+  volume: ''
+  number: ''
+  pages: ''
+  doi: ''
+LubNek-OverNorm:
+  ENTRYTYPE: article
+  author: Lubkov, Roman and Nekrasov, Ilia
+  title: '{Overgroups of exterior powers of an elementary group. Normalizers}'
+  journal: Documenta Mathematica
+  year: '2024'
+  volume: '29'
+  number: '5'
+  pages: 1243--1268
+  doi: 10.4171/dm/956
+LubStepSub:
+  ENTRYTYPE: article
+  author: Lubkov, R. and Stepanov, A.
+  title: '{Subgroups of Chevalley Groups Over Rings}'
+  journal: Journal of Mathematical Sciences
+  year: '2021'
+  volume: '252'
+  number: '6'
+  pages: 829--840
+  doi: 10.1007/s10958-021-05203-x
+LubReversem:
+  ENTRYTYPE: article
+  author: Lubkov, R.
+  title: '{The reverse decomposition of unipotens in polyvector representations}'
+  journal: Journal of Mathematical Sciences
+  year: '2022'
+  volume: '513'
+  number: ''
+  pages: 120--138
+  doi: ''
+LubNek18:
+  ENTRYTYPE: article
+  author: Lubkov, R. A. and Nekrasov, I. I.
+  title: '{Explicit Equations for Exterior Square of the General Linear Group}'
+  journal: Journal of Mathematical Sciences
+  year: '2019'
+  volume: '243'
+  number: '4'
+  pages: 583--594
+  doi: 10.1007/s10958-019-04559-5
+LubNek-OverI:
+  ENTRYTYPE: article
+  author: Lubkov, Roman and Nekrasov, Ilia
+  title: '{Overgroups of exterior powers of an elementary group. Levels}'
+  journal: Linear and Multilinear Algebra
+  year: '2022'
+  volume: '72'
+  number: '4'
+  pages: 563--584
+  doi: 10.1080/03081087.2022.2160422
+LubObzor:
+  ENTRYTYPE: article
+  author: Lubkov, Roman
+  title: '{Overgroups of elementary groups in polyvector representations}'
+  journal: Journal of Mathematical Sciences
+  year: '2024'
+  volume: '531'
+  number: ''
+  pages: 101--116
+  doi: ''
+AbLuKa25:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: '{The algebraic and geometric classification of right alternative and semi-alternative
+    algebras (to appear)}'
+  journal: Journal of Algebra
+  year: '2025'
+  volume: ''
+  number: ''
+  pages: ''
+  doi: ''
+AbLuSa25:
+  ENTRYTYPE: article
+  author: Abdurasulov, Kobiljon and Lubkov, Roman and Saydaliyev, Azamat
+  title: '{The algebraic and geometric classification of Jordan superalgebras}'
+  journal: Siberian Electronic Mathematical Reports
+  year: '2025'
+  volume: '22'
+  number: '1'
+  pages: 813--852
+  doi: 10.33048/semi.2025.22.052
