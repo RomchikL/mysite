@@ -66,12 +66,9 @@ St. Petersburg University
 199178, St. Petersburg, Russia
 
 ### Publications and Preprints
+{{< lastmod >}}
 
 {{< publist >}}
-
-
-
-
 R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the exterior square of the elementary subgroup* (preprint) |  |  |  | LubStepSubE
 
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of right alternative and semi-alternative algebras* (preprint) |  |  | https://arxiv.org/abs/2505.00720 | AbLuKa25
