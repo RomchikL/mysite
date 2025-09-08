@@ -1,16 +1,11 @@
 {{- $path := .Get "path" -}}
 {{- if $path }}
   {{- $file := printf "static/%s" $path -}}
-  {{- with os.Stat $file -}}
+  {{- with os.Stat $file }}
     {{- printf " <span class=\"lastmod\">(%s: %s)</span>" (i18n "last_updated") (.ModTime.Format "January 2, 2006") | safeHTML -}}
   {{- else -}}
     <!-- file not found: {{ $file }} -->
-  {{- end -}}
+  {{- end }}
 {{- else if .Page.Lastmod }}
   {{- printf " <span class=\"lastmod\">(%s: %s)</span>" (i18n "last_updated") (.Page.Lastmod.Format "January 2, 2006") | safeHTML -}}
 {{- end -}}
-
-
-
-
-
