@@ -1,0 +1,3321 @@
+akks:
+  year: '2021'
+  volume: '28'
+  url: https://www.worldscientific.com/doi/abs/10.1142/S1005386721000225
+  title: '{Degenerations of Jordan algebras and “marginal” algebras}'
+  pages: 281--294
+  number: '2'
+  language: english
+  journal: Algebr. Colloq.
+  issn: 1005-3867
+  doi: 10.1142/S1005386721000225
+  author: Gorshkov, Ilya and Kaygorodov, Ivan and Popov, Yury
+  ENTRYTYPE: article
+  ID: akks
+kpv22:
+  year: '2022'
+  volume: '29'
+  url: https://www.worldscientific.com/doi/10.1142/S1005386722000359
+  title: '{One-Generated Nilpotent Bicommutative Algebras}'
+  pages: 453--474
+  number: '3'
+  language: english
+  journal: Algebr. Colloq.
+  issn: 1005-3867
+  doi: 10.1142/S1005386722000359
+  author: Kaygorodov, Ivan and P{\'{a}}ez-Guill{\'{a}}n, Pilar and Voronin, Vasily
+  ENTRYTYPE: article
+  ID: kpv22
+C25:
+  year: '2025'
+  volume: '33'
+  url: https://cm.episciences.org/12613
+  title: '{Roots and right factors of polynomials and left eigenvalues of matrices
+    over Cayley--Dickson algebras}'
+  pages: '1'
+  number: '3'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.12613
+  author: Chapman, Adam and Vishkautsan, Solomon
+  ENTRYTYPE: article
+  ID: C25
+'065':
+  year: '1965'
+  volume: '17'
+  url: https://www.cambridge.org/core/product/identifier/S0008414X00039092/type/journal_article
+  title: '{An extension of the class of alternative rings}'
+  pages: 130--141
+  language: english
+  journal: Can. J. Math.
+  issn: 0008-414X
+  doi: 10.4153/CJM-1965-013-0
+  author: Outcalt, D. L.
+  ENTRYTYPE: article
+  ID: '065'
+SZ:
+  year: '2021'
+  volume: '225'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0022404920303376
+  title: '{Automorphisms of finitely generated relatively free bicommutative algebras}'
+  pages: '106636'
+  number: '8'
+  language: english
+  journal: J. Pure Appl. Algebr.
+  issn: 00224049
+  doi: 10.1016/j.jpaa.2020.106636
+  author: Shestakov, Ivan and Zhang, Zerui
+  ENTRYTYPE: article
+  ID: SZ
+JVW:
+  year: '1934'
+  volume: '35'
+  url: https://www.jstor.org/stable/1968117?origin=crossref
+  title: '{On an Algebraic Generalization of the Quantum Mechanical Formalism}'
+  pages: 29--64
+  number: '1'
+  language: english
+  journal: Ann. Math.
+  issn: 0003486X
+  doi: 10.2307/1968117
+  author: Jordan, P. and v. Neumann, J. and Wigner, E.
+  ENTRYTYPE: article
+  ID: JVW
+DieCarInvTheor:
+  year: '1970'
+  volume: '4'
+  url: https://linkinghub.elsevier.com/retrieve/pii/0001870870900150
+  title: '{Invariant theory, old and new}'
+  pages: 1--80
+  number: '1'
+  language: english
+  journal: Adv. Math. (N. Y).
+  issn: 00018708
+  doi: 10.1016/0001-8708(70)90015-0
+  author: Dieudonn{\'{e}}, Jean A and Carrell, James B.
+  ENTRYTYPE: article
+  ID: DieCarInvTheor
+PetrovStavrovaIsotropic:
+  year: '2009'
+  volume: '20'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-09-01064-4
+  title: '{Elementary subgroups of isotropic reductive groups}'
+  pages: 625--644
+  number: '4'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-09-01064-4
+  author: Petrov, V. and Stavrova, A.
+  ENTRYTYPE: article
+  ID: PetrovStavrovaIsotropic
+VavSigns:
+  year: '2008'
+  volume: '19'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-08-01008-X
+  title: '{Can one see the signs of structure constants?}'
+  pages: 519--543
+  number: '4'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-08-01008-X
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavSigns
+PreusserHyp2:
+  year: '2017'
+  volume: '24'
+  url: https://www.worldscientific.com/doi/abs/10.1142/S1005386717000128
+  title: '{Structure of Hyperbolic Unitary Groups II: Classification of E-Normal Subgroups}'
+  pages: 195--232
+  number: '02'
+  language: english
+  journal: Algebr. Colloq.
+  issn: 1005-3867
+  doi: 10.1142/S1005386717000128
+  author: Preusser, Raimund
+  ENTRYTYPE: article
+  ID: PreusserHyp2
+KingUnit:
+  year: '1985'
+  volume: '19'
+  url: https://doi.org/10.1007/BF00149370 http://link.springer.com/10.1007/BF00149370
+  title: '{On subgroups of the special linear group containing the special unitary
+    group}'
+  pages: 297--310
+  number: '3'
+  language: english
+  journal: Geom. Dedicata
+  issn: 0046-5755
+  doi: 10.1007/BF00149370
+  author: King, Oliver
+  ENTRYTYPE: article
+  ID: KingUnit
+Timmesfeld:
+  year: '1999'
+  volume: '142'
+  title: '{Abstract Root Subgroups and Quadratic Action}'
+  pages: 1--150
+  number: '1'
+  language: english
+  journal: Adv. Math. (N. Y).
+  issn: 00018708
+  doi: 10.1006/aima.1998.1779
+  author: Timmesfeld, F. G.
+  ENTRYTYPE: article
+  ID: Timmesfeld
+S68:
+  year: '1968'
+  volume: '20'
+  url: https://www.cambridge.org/core/product/identifier/S0008414X00052263/type/journal_article
+  title: '{Rings satisfying {$(x,y,z) = (y,z,x)$}}'
+  pages: 913--918
+  language: english
+  journal: Can. J. Math.
+  issn: 0008-414X
+  doi: 10.4153/CJM-1968-088-8
+  author: Sterling, Nicholas J.
+  ENTRYTYPE: article
+  ID: S68
+StepGrTh:
+  year: '2015'
+  volume: '4'
+  title: '{Sandwich classification theorem}'
+  pages: 7--12
+  number: '3'
+  language: english
+  journal: Int. J. Gr. Theory
+  doi: 10.22108/IJGT.2015.10515
+  author: Stepanov, A.
+  ENTRYTYPE: article
+  ID: StepGrTh
+MilneAGS:
+  year: '2012'
+  url: Available at www.jmilne.org/math/
+  title: '{Basic Theory of Affine Group Schemes}'
+  pages: '275'
+  language: english
+  author: Milne, J. S.
+  annote: Available at www.jmilne.org/math/
+  ENTRYTYPE: misc
+  ID: MilneAGS
+AschbacherClasses:
+  year: '1984'
+  volume: '76'
+  url: http://link.springer.com/10.1007/BF01388470
+  title: '{On the maximal subgroups of the finite classical groups}'
+  pages: 469--514
+  number: '3'
+  language: english
+  journal: Invent. Math.
+  issn: 0020-9910
+  doi: 10.1007/BF01388470
+  author: Aschbacher, M.
+  ENTRYTYPE: article
+  ID: AschbacherClasses
+MS:
+  year: '2024'
+  volume: '32'
+  url: https://cm.episciences.org/14458
+  title: '{The geometric classification of non-associative algebras: a survey}'
+  pages: 185--284
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.14458
+  author: Kaygorodov, Ivan and Khrypchenko, Mykola and P{\'{a}}ez-Guill{\'{a}}n, Pilar
+  ENTRYTYPE: article
+  ID: MS
+VavKaz:
+  year: '2010'
+  volume: '171'
+  url: http://link.springer.com/10.1007/s10958-010-0137-1
+  title: '{More variations on the decomposition of transvections}'
+  pages: 322--330
+  number: '3'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-010-0137-1
+  author: Vavilov, N. A. and Kazakevih, V. G.
+  ENTRYTYPE: article
+  ID: VavKaz
+LubReverse2:
+  year: '2021'
+  volume: '49'
+  url: https://www.tandfonline.com/doi/full/10.1080/00927872.2021.1924183
+  title: '{The reverse decomposition of unipotents for bivectors}'
+  pages: 4546--4556
+  number: '10'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927872.2021.1924183
+  author: Lubkov, Roman
+  ENTRYTYPE: article
+  ID: LubReverse2
+LuzF4-E6:
+  year: '2009'
+  volume: '20'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-09-01080-2
+  title: '{Overgroups of {$F_4$} in {$E_6$} over commutative rings}'
+  pages: 955--981
+  number: '6'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-09-01080-2
+  author: Luzgarev, A. Yu.
+  ENTRYTYPE: article
+  ID: LuzF4-E6
+LuzgInvE7:
+  year: '2013'
+  volume: '46'
+  url: http://link.springer.com/10.3103/S106345411301007X
+  title: '{Fourth-degree invariants for {$G(E_7,R)$} not depending on the characteristic}'
+  pages: 29--34
+  number: '1'
+  language: english
+  journal: Vestn. St. Petersbg. Univ. Math.
+  issn: 1063-4541
+  doi: 10.3103/S106345411301007X
+  author: Luzgarev, A. Yu.
+  ENTRYTYPE: article
+  ID: LuzgInvE7
+ZuhongSubnormal:
+  year: '2010'
+  volume: '214'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0022404909001625
+  title: '{Subnormal structure of non-stable unitary groups over rings}'
+  pages: 622--628
+  number: '5'
+  language: english
+  journal: J. Pure Appl. Algebr.
+  issn: 00224049
+  doi: 10.1016/j.jpaa.2009.07.007
+  author: Zhang, Zuhong
+  ENTRYTYPE: article
+  ID: ZuhongSubnormal
+CK:
+  year: '2024'
+  volume: '50'
+  url: https://link.springer.com/10.1007/s41980-024-00874-z
+  title: '{Classification of five-dimensional symmetric Leibniz algebras}'
+  pages: '33'
+  number: '3'
+  language: english
+  journal: Bull. Iran. Math. Soc.
+  issn: 1017-060X
+  doi: 10.1007/s41980-024-00874-z
+  author: Choriyeva, Iroda and Khudoyberdiyev, Abror
+  ENTRYTYPE: article
+  ID: CK
+LiShanzhiRingExt1:
+  year: '1989'
+  volume: '125'
+  url: https://linkinghub.elsevier.com/retrieve/pii/0021869389903025
+  title: '{Overgroups in {$\GL(nr,F)$} of certain subgroups of\/ {$\SL(n,K)$}. {I}}'
+  pages: 215--235
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(89)90302-5
+  author: Li, Shangzhi
+  ENTRYTYPE: article
+  ID: LiShanzhiRingExt1
+Matsumoto69:
+  year: '1969'
+  volume: '2'
+  url: http://www.numdam.org/item?id=ASENS_1969_4_2_1_1_0
+  title: '{Sur les sous-groupes arithm{\''{e}}tiques des groupes semi-simples d{\''{e}}ploy{\''{e}}s}'
+  pages: 1--62
+  number: '1'
+  language: french
+  journal: Ann. Sci. l'{\'{E}}cole Norm. sup{\'{e}}rieure
+  issn: 0012-9593
+  doi: 10.24033/asens.1174
+  author: Matsumoto, Hideya
+  ENTRYTYPE: article
+  ID: Matsumoto69
+K57:
+  year: '1957'
+  volume: '8'
+  url: https://www.ams.org/proc/1957-008-05/S0002-9939-1957-0089833-6/
+  title: '{Assosymmetric rings}'
+  pages: 983--986
+  number: '5'
+  language: english
+  journal: Proc. Am. Math. Soc.
+  issn: 0002-9939
+  doi: 10.1090/S0002-9939-1957-0089833-6
+  author: Kleinfeld, Erwin
+  ENTRYTYPE: article
+  ID: K57
+VavShc-OverExc:
+  year: '2013'
+  volume: '192'
+  url: http://link.springer.com/10.1007/s10958-013-1382-x
+  title: '{Overgroups of Subsystem Subgroups in Exceptional Groups: Levels}'
+  pages: 164--195
+  number: '2'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-013-1382-x
+  author: Vavilov, N. A. and Shchegolev, A. V.
+  ENTRYTYPE: article
+  ID: VavShc-OverExc
+LubObzor:
+  year: '2024'
+  volume: '531'
+  title: '{Overgroups of elementary groups in polyvector representations}'
+  pages: 101--116
+  language: russian
+  journal: J. Math. Sci.
+  author: Lubkov, Roman
+  ENTRYTYPE: article
+  ID: LubObzor
+BK:
+  year: '2010'
+  volume: '13'
+  url: https://www.degruyter.com/document/doi/10.1515/jgt.2010.018/html
+  title: '{Complete LR-structures on solvable Lie algebras}'
+  pages: 703--719
+  number: '5'
+  language: english
+  journal: J. Gr. Theory
+  issn: 1433-5883
+  doi: 10.1515/jgt.2010.018
+  author: Burde, Dietrich and Dekimpe, Karel and Vercammen, Kim
+  ENTRYTYPE: article
+  ID: BK
+VavSympSS:
+  year: '2008'
+  volume: '151'
+  url: http://link.springer.com/10.1007/s10958-008-9020-8
+  title: '{Subgroups of symplectic groups that contain a subsystem subgroup}'
+  pages: 2937--2948
+  number: '3'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-008-9020-8
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavSympSS
+alb2:
+  year: '1954'
+  volume: '59'
+  url: https://www.jstor.org/stable/1969709?origin=crossref
+  title: '{The structure of right alternative algebras}'
+  pages: 408--417
+  number: '3'
+  language: english
+  journal: Ann. Math.
+  issn: 0003486X
+  doi: 10.2307/1969709
+  author: Albert, A. A.
+  ENTRYTYPE: article
+  ID: alb2
+YouHongOvergrClass:
+  year: '2006'
+  volume: '49'
+  url: http://link.springer.com/10.1007/s11425-006-0626-3
+  title: '{Overgroups of classical groups over commutative rings in linear group}'
+  pages: 626--638
+  number: '5'
+  language: english
+  journal: Sci. China Ser. A
+  issn: 1006-9283
+  doi: 10.1007/s11425-006-0626-3
+  author: You, Hong
+  ENTRYTYPE: article
+  ID: YouHongOvergrClass
+k23:
+  year: '2024'
+  volume: '32'
+  url: http://cm.episciences.org/11419
+  title: '{Non-associative algebraic structures: classification and structure}'
+  pages: 1--62
+  number: '3'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.11419
+  author: Kaygorodov, Ivan
+  ENTRYTYPE: article
+  ID: k23
+kp16:
+  year: '2016'
+  volume: '456'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869316001332
+  title: '{A characterization of nilpotent nonassociative algebras by invertible Leibniz-derivations}'
+  pages: 323--347
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2016.02.016
+  author: Kaygorodov, Ivan and Popov, Yu.
+  ENTRYTYPE: article
+  ID: kp16
+BVdet:
+  year: '1984'
+  volume: '27'
+  url: http://link.springer.com/10.1007/BF01410739
+  title: '{Determinants in net subgroups}'
+  pages: 2855--2865
+  number: '4'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF01410739
+  author: Borevich, Z. I. and Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: BVdet
+DM:
+  year: '2024'
+  volume: '259'
+  url: https://link.springer.com/10.1007/s11856-023-2491-y
+  title: '{Inner ideals and structurable algebras: Moufang sets, triangles and hexagons}'
+  pages: 33--88
+  number: '1'
+  language: english
+  journal: Isr. J. Math.
+  issn: 0021-2172
+  doi: 10.1007/s11856-023-2491-y
+  author: '{De Medts}, Tom and Meulewaeter, Jeroen'
+  ENTRYTYPE: article
+  ID: DM
+IKV2018:
+  year: '2018'
+  volume: '29'
+  url: https://www.worldscientific.com/doi/abs/10.1142/S0129167X18500350
+  title: '{The geometric classification of Leibniz algebras}'
+  pages: '1850035'
+  number: '05'
+  language: english
+  journal: Int. J. Math.
+  issn: 0129-167X
+  doi: 10.1142/S0129167X18500350
+  author: Ismailov, Nurlan and Kaygorodov, Ivan and Volkov, Yury
+  ENTRYTYPE: article
+  ID: IKV2018
+BC99:
+  year: '1999'
+  volume: '214'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869398977146
+  title: '{Classification of orbit closures of 4-dimensional complex Lie algebras}'
+  pages: 729--739
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1006/jabr.1998.7714
+  author: Burde, Dietrich and Steinhoff, Christine
+  ENTRYTYPE: article
+  ID: BC99
+DZ:
+  year: '2018'
+  volume: '499'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869317306683
+  title: '{Noetherianity and Specht problem for varieties of bicommutative algebras}'
+  pages: 570--582
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2017.12.012
+  author: Drensky, Vesselin and Zhakhayev, Bekzat K.
+  ENTRYTYPE: article
+  ID: DZ
+Schafer92:
+  year: '1992'
+  volume: '152'
+  url: https://linkinghub.elsevier.com/retrieve/pii/002186939290100Z
+  title: '{On semialternative algebras}'
+  pages: 259--267
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(92)90100-Z
+  author: Schafer, R.D
+  ENTRYTYPE: article
+  ID: Schafer92
+SuslinSerreConj:
+  year: '1977'
+  volume: '11'
+  url: http://stacks.iop.org/0025-5726/11/i=2/a=A01?key=crossref.44e32c28ae29a6db215ebb217c74f352
+  title: '{On the structure of the special linear group over polynomial rings}'
+  pages: 221--238
+  number: '2'
+  language: english
+  journal: Math. USSR-Izvestiya
+  issn: 0025-5726
+  doi: 10.1070/IM1977v011n02ABEH001709
+  author: Suslin, A. A.
+  ENTRYTYPE: article
+  ID: SuslinSerreConj
+VavWeightElemNew:
+  year: '2008'
+  volume: '20'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-08-01036-4
+  title: '{Weight elements of Chevalley groups}'
+  pages: 23--57
+  number: '1'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-08-01036-4
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavWeightElemNew
+HVZUniRel:
+  year: '2011'
+  volume: '343'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S002186931100384X
+  title: '{Relative unitary commutator calculus, and applications}'
+  pages: 107--137
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2011.07.003
+  author: Hazrat, Roozbeh and Vavilov, Nikolai and Zhang, Zuhong
+  ENTRYTYPE: article
+  ID: HVZUniRel
+ShangZhiGL:
+  year: '1994'
+  volume: '1'
+  title: '{Overgroups in {${\rm GL}(n,F)$} of a classical group over a subfield of
+    {$F$}}'
+  pages: 335--346
+  number: '4'
+  language: english
+  journal: Algebr. Colloq.
+  issn: 1005-3867
+  author: Li, Shang Zhi
+  ENTRYTYPE: article
+  ID: ShangZhiGL
+VavTowRel:
+  year: '2021'
+  volume: '252'
+  url: http://link.springer.com/10.1007/s10958-021-05195-8
+  title: '{Toward the Reverse Decomposition of Unipotents. II. The Relative Case}'
+  pages: 749--760
+  number: '6'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-021-05195-8
+  author: Vavilov, N.
+  ENTRYTYPE: article
+  ID: VavTowRel
+SivStep:
+  year: '1999'
+  volume: '17'
+  url: http://www.portico.org/Portico/article?article=pgg1zfpvvv3
+  title: '{On the word length of commutators in {$\GL_n(R)$}}'
+  pages: 295--302
+  number: '4'
+  language: english
+  journal: K-Theory
+  issn: '15730514'
+  doi: 10.1023/A:1007730801851
+  author: Sivatski, A. S. and Stepanov, A. V.
+  ENTRYTYPE: article
+  ID: SivStep
+AleksVav:
+  year: '2010'
+  volume: '171'
+  url: http://link.springer.com/10.1007/s10958-010-0135-3
+  title: '{Parabolic subgroups of {$SL_n$} and {$Sp_{2l}$} over a {D}edekind ring
+    of arithmetic type}'
+  pages: 307--316
+  number: '3'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-010-0135-3
+  author: Alexandrov, A. V. and Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: AleksVav
+StepGL:
+  year: '2004'
+  volume: '10'
+  title: '{Nonstandard subgroups between {$\mathrm{E}_n(R)$} and {$\mathrm{GL}_n(A)$}}'
+  pages: 321--334
+  number: '3'
+  language: english
+  journal: Algebr. Colloq.
+  author: Stepanov, A. V.
+  ENTRYTYPE: article
+  ID: StepGL
+DyeSpO:
+  year: '1979'
+  volume: '59'
+  url: https://doi.org/10.1016/0021-8693(79)90157-1 https://linkinghub.elsevier.com/retrieve/pii/0021869379901571
+  title: '{Interrelations of symplectic and orthogonal groups in characteristic two}'
+  pages: 202--221
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(79)90157-1
+  author: Dye, R. H.
+  ENTRYTYPE: article
+  ID: DyeSpO
+Guralnick03monodromygroups:
+  year: '2003'
+  volume: '41'
+  title: '{Monodromy Groups of Coverings of Curves}'
+  pages: 1--46
+  language: english
+  journal: Galois Groups Fundam. Groups, Math. Sci. Res. Inst. Publ., Cambridge Univ.
+    Press. Cambridge
+  author: Guralnick, Robert M.
+  ENTRYTYPE: article
+  ID: Guralnick03monodromygroups
+PreusserGLOUeven:
+  year: '2018'
+  volume: '21'
+  url: https://proxy.library.spbu.ru:2060/10.1515/jgth-2017-0028 https://www.degruyter.com/document/doi/10.1515/jgth-2017-0028/html
+  title: '{Sandwich classification for {${\rm GL}_n(R)$}, {${\rm O}_{2n}(R)$} and
+    {${\rm U}_{2n}(R,\Lambda)$} revisited}'
+  pages: 21--44
+  number: '1'
+  language: english
+  journal: J. Gr. Theory
+  issn: 1433-5883
+  doi: 10.1515/jgth-2017-0028
+  author: Preusser, Raimund
+  ENTRYTYPE: article
+  ID: PreusserGLOUeven
+HVZUniMulti:
+  year: '2012'
+  url: http://arxiv.org/abs/1205.6866v1
+  title: '{Multiple commutator formulas for unitary groups}'
+  language: english
+  howpublished: Preprint
+  author: Hazrat, R. and Vavilov, N. and Zhang, Z.
+  ENTRYTYPE: unpublished
+  ID: HVZUniMulti
+BorelLie:
+  year: '1970'
+  volume: '131'
+  url: http://link.springer.com/10.1007/BFb0081542
+  title: '{Properties and linear representations of Chevalley groups}'
+  publisher: Springer Berlin Heidelberg
+  pages: 1--55
+  language: english
+  isbn: 978-3-540-36272-2
+  doi: 10.1007/BFb0081542
+  booktitle: Lect. Notes Math.
+  author: Borel, Armand
+  ENTRYTYPE: incollection
+  ID: BorelLie
+LubNek-OverI:
+  year: '2022'
+  volume: '72'
+  url: https://www.tandfonline.com/doi/full/10.1080/03081087.2022.2160422
+  title: '{Overgroups of exterior powers of an elementary group. Levels}'
+  pages: 563--584
+  number: '4'
+  language: english
+  journal: Linear Multilinear Algebr.
+  issn: '15635139'
+  doi: 10.1080/03081087.2022.2160422
+  author: Lubkov, Roman and Nekrasov, Ilia
+  ENTRYTYPE: article
+  ID: LubNek-OverI
+ikp20:
+  year: '1963'
+  volume: '2'
+  title: '{Binary Lie algebras of lower ranks}'
+  pages: 21--40
+  number: '4'
+  language: russian
+  journal: Algebr. Log.
+  author: Gainov, A.T.
+  ENTRYTYPE: article
+  ID: ikp20
+VavDiss:
+  year: '1987'
+  title: '{Subgroups of split classical groups (in Russian)}'
+  publisher: Dr. Sci. Thesis (Habilitationschrift)
+  pages: '334'
+  language: english
+  author: Vavilov, N. A.
+  address: Leningrad State Univ.
+  ENTRYTYPE: book
+  ID: VavDiss
+CoopersteinStructure:
+  year: '1980'
+  volume: '27'
+  url: https://projecteuclid.org/journals/michigan-mathematical-journal/volume-27/issue-1/Nearly-maximal-representations-for-the-special-linear-group/10.1307/mmj/1029002304.full
+  title: '{Nearly maximal representations for the special linear group.}'
+  pages: 3--19
+  number: '1'
+  language: english
+  journal: Michigan Math. J.
+  issn: 0026-2285
+  doi: 10.1307/mmj/1029002304
+  author: Cooperstein, Bruce N.
+  ENTRYTYPE: article
+  ID: CoopersteinStructure
+Z:
+  year: '1933'
+  volume: '9'
+  url: http://link.springer.com/10.1007/BF02940661
+  title: '{Alternativk{\"{o}}rper und quadratische systeme}'
+  pages: 395--402
+  number: '1'
+  language: german
+  journal: Abhandlungen aus dem Math. Semin. der Univ. Hambg.
+  issn: 0025-5858
+  doi: 10.1007/BF02940661
+  author: Zorn, Max
+  ENTRYTYPE: article
+  ID: Z
+ShangZhiUnit:
+  year: '1992'
+  volume: '149'
+  url: https://doi.org/10.1016/0021-8693(92)90016-F https://linkinghub.elsevier.com/retrieve/pii/002186939290016F
+  title: '{Overgroups of a unitary group in {${\rm GL}(2,K)$}}'
+  pages: 275--286
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(92)90016-F
+  author: Li, Shangzhi
+  ENTRYTYPE: article
+  ID: ShangZhiUnit
+BuninaAll:
+  year: '2012'
+  volume: '355'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869312000051
+  title: '{Automorphisms of Chevalley groups of different types over commutative rings}'
+  pages: 154--170
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2012.01.002
+  author: Bunina, E.I.
+  ENTRYTYPE: article
+  ID: BuninaAll
+G62:
+  year: '1963'
+  volume: '2'
+  title: '{Alternative algebras of rank 3 and 4}'
+  pages: 41--46
+  number: '4'
+  language: russian
+  journal: Algebr. Log.
+  author: Gainov, A.T.
+  ENTRYTYPE: article
+  ID: G62
+NhatHoiNorm:
+  year: '2018'
+  volume: '234'
+  url: http://link.springer.com/10.1007/s10958-018-3996-5
+  title: '{The Normalizer of the Elementary Linear Group of a Module Arising when
+    the Base Ring is Extended}'
+  pages: 197--202
+  number: '2'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-018-3996-5
+  author: Nhat, N. H. T. and Hoi, T. N.
+  ENTRYTYPE: article
+  ID: NhatHoiNorm
+LiShanzhiTensor:
+  year: '1991'
+  volume: '137'
+  url: https://linkinghub.elsevier.com/retrieve/pii/002186939190095P
+  title: '{Overgroups in {$\GL(U\otimes W)$} of certain subgroups of {$\GL(U)\otimes\GL(W)$}.
+    {I}}'
+  pages: 338--368
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(91)90095-P
+  author: Li, Shangzhi
+  ENTRYTYPE: article
+  ID: LiShanzhiTensor
+K88:
+  year: '1988'
+  volume: '5'
+  title: '{Local versions of some well-known identities}'
+  pages: 187--190
+  number: '2'
+  language: english
+  journal: Algebr. Groups Geom.
+  author: Kleinfeld, Erwin
+  ENTRYTYPE: article
+  ID: K88
+VavNik:
+  year: '2009'
+  volume: '20'
+  url: http://www.ams.org/journals/spmj/2009-20-04/S1061-0022-09-01060-7/home.html
+    http://www.ams.org/journal-getitem?pii=S1061-0022-09-01060-7
+  title: '{$\mathrm{A}_2$-proof of structure theorems for {C}hevalley groups of type
+    $\mathrm{F}_4$}'
+  pages: 527--551
+  number: '4'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-09-01060-7
+  author: Vavilov, N. A. and Nikolenko, S. I.
+  ENTRYTYPE: article
+  ID: VavNik
+VasersteinUniStab:
+  year: '1970'
+  volume: '10'
+  url: http://stacks.iop.org/0025-5734/10/i=3/a=A02?key=crossref.5522dce210200104a5dd7185ac497021
+  title: '{Stabilization of Unitary and Orthogonal groups Over a Ring with Involution}'
+  pages: 307--326
+  number: '3'
+  language: english
+  journal: Math. USSR-Sbornik
+  issn: 0025-5734
+  doi: 10.1070/SM1970v010n03ABEH001673
+  author: Vaserstein, L. N.
+  ENTRYTYPE: article
+  ID: VasersteinUniStab
+G24:
+  year: '2024'
+  volume: '651'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869324001947
+  title: '{On the lengths of descendingly flexible and descendingly alternative algebras}'
+  pages: 187--220
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2024.04.004
+  author: Guterman, A.E. and Zhilina, S.A.
+  ENTRYTYPE: article
+  ID: G24
+VasersteinGLn:
+  year: '1981'
+  volume: '854'
+  url: http://link.springer.com/10.1007/BFb0089533
+  title: '{On the normal subgroups of {$GL_n$} over a ring}'
+  publisher: Springer Berlin Heidelberg
+  pages: 456--465
+  language: english
+  doi: 10.1007/BFb0089533
+  booktitle: Lect. Notes Math.
+  author: Vaserstein, L. N.
+  ENTRYTYPE: incollection
+  ID: VasersteinGLn
+kkp:
+  year: '2021'
+  volume: '225'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0022404920303261
+  title: '{The algebraic and geometric classification of nilpotent terminal algebras}'
+  pages: '106625'
+  number: '6'
+  language: english
+  journal: J. Pure Appl. Algebr.
+  issn: 00224049
+  doi: 10.1016/j.jpaa.2020.106625
+  author: Kaygorodov, Ivan and Khrypchenko, Mykola and Popov, Yury
+  ENTRYTYPE: article
+  ID: kkp
+GurCK3:
+  year: '1997'
+  volume: '43'
+  url: http://www.tandfonline.com/doi/abs/10.1080/03081089708818528
+  title: '{Invertible preservers and algebraic groups {III}: preservers of unitary
+    similarity {$($}congruence{$)$} invariants and overgroups of some unitary subgroups}'
+  pages: 257--282
+  number: 1-3
+  language: english
+  journal: Linear Multilinear Algebr.
+  issn: 0308-1087
+  doi: 10.1080/03081089708818528
+  author: Guralnick, Robert M. and Li, Chi-Kwong
+  ENTRYTYPE: article
+  ID: GurCK3
+LiShanzhiBook:
+  year: '1998'
+  title: '{Subgroup structure of classical groups (In Chinese)}'
+  publisher: Shanghai Scientific \& Technical Publ.
+  language: chinese
+  author: Li, Shangzhi
+  annote: (?????????)
+  address: Shanghai
+  ENTRYTYPE: book
+  ID: LiShanzhiBook
+GURALNICK1994249:
+  year: '1994'
+  volume: 212-213
+  url: https://linkinghub.elsevier.com/retrieve/pii/0024379594904049
+  title: '{Invertible preservers and algebraic groups}'
+  pages: 249--257
+  language: english
+  journal: Linear Algebra Appl.
+  issn: 00243795
+  doi: 10.1016/0024-3795(94)90404-9
+  author: Guralnick, Robert M.
+  ENTRYTYPE: article
+  ID: GURALNICK1994249
+LiebSeitStrucClass:
+  year: '1998'
+  volume: '134'
+  url: https://doi.org/10.1007/s002220050270 http://link.springer.com/10.1007/s002220050270
+  title: '{On the subgroup structure of classical groups}'
+  pages: 427--453
+  number: '2'
+  language: english
+  journal: Invent. Math.
+  issn: 0020-9910
+  doi: 10.1007/s002220050270
+  author: Liebeck, Martin W. and Seitz, Gary M.
+  ENTRYTYPE: article
+  ID: LiebSeitStrucClass
+ShangZhiGL2:
+  year: '1997'
+  title: '{Overgroups in {${\rm GL}(nr,F)$} of {C}ertain {S}ubgroups of {${\rm SL}(n,K)$},
+    {II}}'
+  language: english
+  author: Li, Shang Zhi
+  ENTRYTYPE: unpublished
+  ID: ShangZhiGL2
+isaev:
+  year: '1986'
+  volume: '25'
+  title: '{Finite-dimensional right-alternative algebras generating non-finite-basable
+    varieties}'
+  pages: 136--153
+  number: '2'
+  language: russian
+  journal: Algebr. Log.
+  author: Isaev, I. M.
+  ENTRYTYPE: article
+  ID: isaev
+DKS:
+  year: '2009'
+  url: http://www.ams.org/conm/491/
+  title: '{LR-algebras}'
+  series: Contemporary Mathematics
+  publisher: American Mathematical Society, Providence, RI
+  pages: 125--140
+  language: english
+  doi: 10.1090/conm/491/09612
+  booktitle: New Dev. {L}ie theory Geom.
+  author: Burde, Dietrich and Dekimpe, Karel and Deschamps, Sandra
+  ENTRYTYPE: incollection
+  ID: DKS
+VavGavNik:
+  year: '2007'
+  volume: '140'
+  url: http://link.springer.com/10.1007/s10958-007-0003-y
+  title: '{Structure of Chevalley groups: The proof from the book}'
+  pages: 626--645
+  number: '5'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-007-0003-y
+  author: Vavilov, N. A. and Gavrilovich, M. R. and Nikolenko, S. I.
+  ENTRYTYPE: article
+  ID: VavGavNik
+LubReversem:
+  year: '2022'
+  volume: '513'
+  title: '{The reverse decomposition of unipotens in polyvector representations}'
+  pages: 120--138
+  language: english
+  journal: J. Math. Sci.
+  author: Lubkov, R.
+  ENTRYTYPE: article
+  ID: LubReversem
+SGA:
+  year: '1970'
+  volume: '151'
+  url: http://link.springer.com/10.1007/BFb0058993
+  title: '{Propri{\''{e}}t{\''{e}}s G{\''{e}}n{\''{e}}rales des Sch{\''{e}}mas en
+    Groupes}'
+  series: Lecture Notes in Mathematics
+  publisher: Springer Berlin Heidelberg
+  language: french
+  isbn: 978-3-540-05179-4
+  doi: 10.1007/BFb0058993
+  author: Demazure, M. and Gabriel, P. and Bertin, J. E.
+  address: Berlin, Heidelberg
+  ENTRYTYPE: book
+  ID: SGA
+AA:
+  year: '2025'
+  volume: '33'
+  title: '{On polynomial equations over split octonions}'
+  pages: '8'
+  number: '3'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.14879
+  author: Lopatin, A and Rybalov, A.
+  ENTRYTYPE: article
+  ID: AA
+ApteStep:
+  year: '2014'
+  volume: '12'
+  url: http://arxiv.org/abs/1211.3575 https://www.degruyter.com/doi/10.2478/s11533-013-0391-9
+  title: '{Local-global principle for congruence subgroups of Chevalley groups}'
+  pages: 801--812
+  number: '6'
+  language: english
+  journal: Open Math.
+  issn: 2391-5455
+  doi: 10.2478/s11533-013-0391-9
+  author: Apte, Himanee and Stepanov, Alexei
+  ENTRYTYPE: article
+  ID: ApteStep
+VasSusSerre:
+  year: '1976'
+  volume: '10'
+  url: http://stacks.iop.org/0025-5726/10/i=5/a=A03?key=crossref.fe58e213f1b60939ff6cd57998386989
+  title: '{{S}erre''s problem on projective modules over polynomial rings, and algebraic
+    {K}-theory}'
+  pages: 937--1001
+  number: '5'
+  language: english
+  journal: Math. USSR-Izvestiya
+  issn: 0025-5726
+  doi: 10.1070/IM1976v010n05ABEH001822
+  author: Vaserstein, L. N. and Suslin, A. A.
+  ENTRYTYPE: article
+  ID: VasSusSerre
+KingOrthog:
+  year: '1985'
+  volume: '96'
+  url: https://doi.org/10.1016/0021-8693(85)90045-6 https://linkinghub.elsevier.com/retrieve/pii/0021869385900456
+  title: '{On subgroups of the special linear group containing the special orthogonal
+    group}'
+  pages: 178--193
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(85)90045-6
+  author: King, Oliver
+  ENTRYTYPE: article
+  ID: KingOrthog
+LubStepSubE:
+  year: '2025'
+  title: '{Subgroups of general linear groups, containing the exterior square of the
+    elementary subgroup (preprint)}'
+  author: Lubkov, Roman and Stepanov, Alexei
+  ENTRYTYPE: unpublished
+  ID: LubStepSubE
+VavDiag:
+  year: '1981'
+  volume: '17'
+  url: http://link.springer.com/10.1007/BF01465452
+  title: '{Description of subgroups of the full linear group over a semilocal ring
+    that contain the group of diagonal matrices}'
+  pages: 1960--1963
+  number: '4'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF01465452
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavDiag
+thedy77:
+  year: '1977'
+  volume: '48'
+  url: https://linkinghub.elsevier.com/retrieve/pii/0021869377903167
+  title: '{Nil-semisimple right alternative algebras}'
+  pages: 390--400
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(77)90316-7
+  author: Thedy, Armin
+  ENTRYTYPE: article
+  ID: thedy77
+BerGariLar2014:
+  year: '2014'
+  volume: '366'
+  url: http://www.ams.org/jourcgi/jour-getitem?pii=S0002-9947-2014-06081-9
+  title: '{Linear preservers and representations with a 1-dimensional ring of invariants}'
+  pages: 4755--4780
+  number: '9'
+  language: english
+  journal: Trans. Am. Math. Soc.
+  issn: 0002-9947
+  doi: 10.1090/s0002-9947-2014-06081-9
+  author: Bermudez, H. and Garibaldi, S. and Larsen, V.
+  ENTRYTYPE: article
+  ID: BerGariLar2014
+AnaVavSinI:
+  year: '2012'
+  volume: '23'
+  url: http://www.ams.org/jourcgi/jour-getitem?pii=S1061-0022-2012-01219-7
+  title: '{Overgroups of {$\mathrm{E}(m,R)\otimes \mathrm{E}(n,R)$} {I}. {L}evels
+    and normalizers}'
+  pages: 819--849
+  number: '5'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-2012-01219-7
+  author: Ananievsky, A. S. and Vavilov, N. A. and Sinchuk, S. S.
+  ENTRYTYPE: article
+  ID: AnaVavSinI
+DyeOinSp:
+  year: '1980'
+  volume: '172'
+  url: https://doi.org/10.1007/BF01215085 http://link.springer.com/10.1007/BF01215085
+  title: '{On the maximality of the orthogonal groups in the symplectic groups in
+    characteristic two}'
+  pages: 203--212
+  number: '3'
+  language: english
+  journal: Math. Zeitschrift
+  issn: 0025-5874
+  doi: 10.1007/BF01215085
+  author: Dye, Roger H.
+  ENTRYTYPE: article
+  ID: DyeOinSp
+B99:
+  year: '1999'
+  volume: '27'
+  url: http://www.tandfonline.com/doi/abs/10.1080/00927879908826542
+  title: '{On the {$\mathbb{Z}$}-module structure of a free semialternative ring}'
+  pages: 1951--1965
+  number: '4'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927879908826542
+  author: Bremner, Murray
+  ENTRYTYPE: article
+  ID: B99
+BermHern:
+  year: '2014'
+  title: '{Linear {P}reserver {P}roblems and {C}ohomological {I}nvariants}'
+  school: Laney Graduate School
+  publisher: Emory University
+  pages: '107'
+  language: english
+  isbn: 978-1321-24904-0
+  author: Bermudez, Hernando
+  annote: Thesis (Ph.D.)--Emory University
+  ENTRYTYPE: phdthesis
+  ID: BermHern
+BV84:
+  year: '1985'
+  volume: '165'
+  title: '{The distribution of subgroups in the general linear group over a commutative
+    ring}'
+  pages: 27--46
+  language: english
+  journal: Proc. Steklov Inst. Math.
+  author: Borevich, Z. I. and Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: BV84
+BorelTits:
+  year: '1965'
+  volume: '27'
+  url: http://link.springer.com/10.1007/BF02684375
+  title: '{Groupes R{\''{e}}ductifs}'
+  pages: 55--150
+  number: '1'
+  language: french
+  journal: Publ. math{\'{e}}matiques l'IH{\'{E}}S
+  issn: 0073-8301
+  doi: 10.1007/BF02684375
+  author: Borel, Armand and Tits, Jacques
+  ENTRYTYPE: article
+  ID: BorelTits
+MPS:
+  year: '2022'
+  volume: '63'
+  url: https://link.springer.com/10.1134/S0037446622040152
+  title: '{Right alternative unital bimodules over the matrix algebras of order $\geq
+    3 $}'
+  pages: 743--757
+  number: '4'
+  language: english
+  journal: Sib. Math. J.
+  issn: 0037-4466
+  doi: 10.1134/S0037446622040152
+  author: Murakami, L. and Pchelintsev, S. and Shashkov, O.
+  ENTRYTYPE: article
+  ID: MPS
+Guralnick1997InvertiblePA:
+  year: '1997'
+  volume: '43'
+  url: http://www.tandfonline.com/doi/abs/10.1080/03081089708818527
+  title: '{Invertible Preservers and Algebraic Groups {II}: {P}reservers of Similarity
+    Invariants and Overgroups of {${\rm PSL}_{n}(F)$}}'
+  pages: 221--255
+  number: 1-3
+  language: english
+  journal: Linear Multilinear Algebr.
+  issn: 0308-1087
+  doi: 10.1080/03081089708818527
+  author: Guralnick, Robert M.
+  ENTRYTYPE: article
+  ID: Guralnick1997InvertiblePA
+ser76:
+  year: '1976'
+  volume: '17'
+  url: http://link.springer.com/10.1007/BF00967573
+  title: '{A locally nilpotent radical in some classes of right-alternative rings}'
+  pages: 265--280
+  number: '2'
+  language: english
+  journal: Sib. Math. J.
+  issn: 0037-4466
+  doi: 10.1007/BF00967573
+  author: Pchelintsev, S.
+  ENTRYTYPE: article
+  ID: ser76
+SchegBlock:
+  year: '2019'
+  volume: '30'
+  url: http://www.ams.org/spmj/2019-30-06/S1061-0022-2019-01580-1/
+  title: '{Overgroups of elementary block-diagonal subgroups in the classical symplectic
+    group over an arbitrary commutative ring}'
+  pages: 1007--1041
+  number: '6'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/spmj/1580
+  author: Shchegolev, A. V.
+  ENTRYTYPE: article
+  ID: SchegBlock
+KleidLiebSubStruct:
+  year: '1990'
+  volume: '129'
+  url: https://doi.org/10.1017/CBO9780511629235 https://www.cambridge.org/core/product/identifier/9780511629235/type/book
+  title: '{The Subgroup Structure of the Finite Classical Groups}'
+  publisher: Cambridge University Press
+  pages: x+303
+  language: english
+  isbn: '9780521359498'
+  doi: 10.1017/CBO9780511629235
+  author: Kleidman, Peter B. and Liebeck, Martin W.
+  ENTRYTYPE: book
+  ID: KleidLiebSubStruct
+Jantzen:
+  year: '2007'
+  volume: '107'
+  url: http://www.ams.org/surv/107
+  title: '{Representations of Algebraic Groups}'
+  series: Mathematical Surveys and Monographs
+  publisher: American Mathematical Society
+  pages: '576'
+  language: english
+  isbn: '9780821843772'
+  doi: 10.1090/surv/107
+  author: Jantzen, Jens
+  address: Providence, Rhode Island
+  ENTRYTYPE: book
+  ID: Jantzen
+AbLuSa25:
+  year: '2025'
+  volume: '22'
+  title: '{The algebraic and geometric classification of Jordan superalgebras}'
+  pages: 813--852
+  number: '1'
+  language: english
+  journal: Sib. Electron. Math. Reports
+  doi: 10.33048/semi.2025.22.052
+  author: Abdurasulov, Kobiljon and Lubkov, Roman and Saydaliyev, Azamat
+  ENTRYTYPE: article
+  ID: AbLuSa25
+LubNek18:
+  year: '2019'
+  volume: '243'
+  url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85074847703&partnerID=MN8TOARS
+    http://link.springer.com/10.1007/s10958-019-04559-5
+  title: '{Explicit Equations for Exterior Square of the General Linear Group}'
+  pages: 583--594
+  number: '4'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-019-04559-5
+  author: Lubkov, R. A. and Nekrasov, I. I.
+  ENTRYTYPE: article
+  ID: LubNek18
+burness_testerman_CorrSeitz:
+  year: '2019'
+  url: https://www.cambridge.org/core/product/identifier/9781108692397%23c10/type/book_part
+  title: '{Irreducible Subgroups of Simple Algebraic Groups – A Survey}'
+  publisher: Cambridge University Press
+  pages: 230--260
+  language: english
+  doi: 10.1017/9781108692397.010
+  booktitle: Groups St Andrews 2017 Birmingham
+  author: Burness, Timothy C. and Testerman, Donna M.
+  ENTRYTYPE: incollection
+  ID: burness_testerman_CorrSeitz
+ims:
+  year: '2024'
+  volume: '52'
+  url: https://www.tandfonline.com/doi/full/10.1080/00927872.2024.2358178
+  title: '{On algebras embeddable into bicommutative algebras}'
+  pages: 4778--4785
+  number: '11'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927872.2024.2358178
+  author: Ismailov, N. A. and Mashurov, F. A. and Sartayev, B. K.
+  ENTRYTYPE: article
+  ID: ims
+Waterhouse1979IntroductionTA:
+  year: '1979'
+  volume: '66'
+  url: http://link.springer.com/10.1007/978-1-4612-6217-6
+  title: '{Introduction to Affine Group Schemes}'
+  series: Graduate Texts in Mathematics
+  publisher: Springer New York
+  pages: '164'
+  language: english
+  isbn: 978-1-4612-6219-0
+  doi: 10.1007/978-1-4612-6217-6
+  author: Waterhouse, William C.
+  address: New York, NY
+  ENTRYTYPE: book
+  ID: Waterhouse1979IntroductionTA
+seroleg:
+  year: '2024'
+  volume: '284'
+  url: https://link.springer.com/10.1007/s10958-024-07368-7
+  title: '{Simple right alternative superalgebras}'
+  pages: 527--544
+  number: '4'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-024-07368-7
+  author: Pchelintsev, S. and Shashkov, O.
+  ENTRYTYPE: article
+  ID: seroleg
+StepVavDecomp:
+  year: '2000'
+  volume: '19'
+  url: http://www.portico.org/Portico/article?article=pgg1zfpxkkh
+  title: '{Decomposition of Transvections: A Theme with Variations}'
+  pages: 109--153
+  number: '2'
+  language: english
+  journal: K-Theory
+  issn: '15730514'
+  doi: 10.1023/A:1007853629389
+  author: Stepanov, Alexei and Vavilov, Nikolai
+  ENTRYTYPE: article
+  ID: StepVavDecomp
+AS:
+  year: '2011'
+  volume: '10'
+  url: https://www.worldscientific.com/doi/abs/10.1142/S0219498811004550
+  title: '{On speciality of binary-Lie algebras}'
+  pages: 257--268
+  number: '2'
+  language: english
+  journal: J. Algebr. Its Appl.
+  issn: 0219-4988
+  doi: 10.1142/S0219498811004550
+  author: Arenas, Manuel and Shestakov, Ivan
+  ENTRYTYPE: article
+  ID: AS
+PlatDok95:
+  year: '1995'
+  volume: '303'
+  url: http://link.springer.com/10.1007/BF01460985
+  title: '{Linear preserver problems and algebraic groups}'
+  pages: 165--184
+  number: '1'
+  language: english
+  journal: Math. Ann.
+  issn: 0025-5831
+  doi: 10.1007/BF01460985
+  author: Platonov, Vladimir P. and Dokovi{\'{c}}, Dragomir {\v{Z}}.
+  ENTRYTYPE: article
+  ID: PlatDok95
+VasersteinChevalley:
+  year: '1986'
+  volume: '38'
+  url: https://projecteuclid.org/journals/tohoku-mathematical-journal/volume-38/issue-2/On-normal-subgroups-of-Chevalley-groups-over-commutative-rings/10.2748/tmj/1178228489.full
+  title: '{On normal subgroups of Chevalley groups over commutative rings}'
+  pages: 219--230
+  number: '2'
+  language: english
+  journal: Tohoku Math. J.
+  issn: 0040-8735
+  doi: 10.2748/tmj/1178228489
+  author: Vaserstein, L. N.
+  ENTRYTYPE: article
+  ID: VasersteinChevalley
+HVZrelachev:
+  year: '2013'
+  volume: '385'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869313001506
+  title: '{Relative commutator calculus in Chevalley groups}'
+  pages: 262--293
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2013.03.011
+  author: Hazrat, Roozbeh and Vavilov, Nikolai and Zhang, Zuhong
+  ENTRYTYPE: article
+  ID: HVZrelachev
+DZA:
+  year: '2022'
+  volume: '30'
+  url: https://cm.episciences.org/9740
+  title: '{Assosymmetric operad}'
+  pages: 175--190
+  number: '1'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.9740
+  author: Zhakhayev, Bekzat and Dzhumadil'daev, Askar and Abdykassymova, Saule
+  ENTRYTYPE: article
+  ID: DZA
+jkk:
+  year: '2022'
+  volume: '15'
+  url: https://link.springer.com/10.1007/s40574-021-00313-5
+  title: '{The geometric classification of nilpotent commutative $\mathfrak {CD}$-algebras}'
+  pages: 465--481
+  number: '3'
+  language: english
+  journal: Boll. dell'Unione Mat. Ital.
+  issn: 1972-6724
+  doi: 10.1007/s40574-021-00313-5
+  author: Jumaniyozov, Doston and Kaygorodov, Ivan and Khudoyberdiyev, Abror
+  ENTRYTYPE: article
+  ID: jkk
+GRH3:
+  year: '1993'
+  volume: '162'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869383712500
+  title: '{Deformations of Lie algebras}'
+  pages: 210--224
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1006/jabr.1993.1250
+  author: Grunewald, F. and O'Halloran, J.
+  ENTRYTYPE: article
+  ID: GRH3
+P78:
+  year: '1978'
+  volume: '76'
+  url: http://msp.org/pjm/1978/76-2/p19.xhtml
+  title: '{Some radical properties of rings with {$(a,b,c) = (c,a,b)$}}'
+  pages: 479--483
+  number: '2'
+  language: english
+  journal: Pacific J. Math.
+  issn: 0030-8730
+  doi: 10.2140/pjm.1978.76.479
+  author: Pokrass, David
+  ENTRYTYPE: article
+  ID: P78
+D19:
+  year: '2019'
+  volume: '45'
+  title: '{Varieties of bicommutative algebras}'
+  pages: 167--188
+  number: '2'
+  language: english
+  journal: Serdica Math. J.
+  author: Drensky, Vesselin
+  ENTRYTYPE: article
+  ID: D19
+ikm:
+  year: '2022'
+  volume: '84'
+  url: https://link.springer.com/10.1007/s10998-021-00386-x
+  title: '{The algebraic and geometric classification of nilpotent right alternative
+    algebras}'
+  pages: 18--30
+  number: '1'
+  language: english
+  journal: Period. Math. Hungarica
+  issn: 0031-5303
+  doi: 10.1007/s10998-021-00386-x
+  author: Ismailov, Nurlan and Kaygorodov, Ivan and Mustafa, Manat
+  ENTRYTYPE: article
+  ID: ikm
+D23:
+  year: '2023'
+  volume: '427'
+  url: https://link.springer.com/10.1007/978-3-031-32707-0_15
+  title: '{Invariant Theory of Free Bicommutative Algebras}'
+  series: Springer Proc. Math. Stat.
+  publisher: Springer, Cham
+  pages: 231--243
+  language: english
+  doi: 10.1007/978-3-031-32707-0_15
+  booktitle: Non-associative Algebr. Relat. Top.
+  author: Drensky, Vesselin
+  ENTRYTYPE: incollection
+  ID: D23
+VavA3E6E7:
+  year: '2012'
+  volume: '23'
+  url: http://www.ams.org/journals/spmj/2012-23-06/S1061-0022-2012-01223-9/home.html
+    http://www.ams.org/jourcgi/jour-getitem?pii=S1061-0022-2012-01223-9
+  title: '{$\mathrm{A}_3$-proof of structure theorems for {C}hevalley groups of types
+    $\mathrm{E}_6$ and $\mathrm{E}_7$ {II}. {M}ain lemma}'
+  pages: 921--942
+  number: '6'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-2012-01223-9
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavA3E6E7
+LiShangZhi:
+  year: '1998'
+  volume: '5'
+  title: '{Overgroups of {$L(K)$} in {$L(F)$}}'
+  pages: 417--424
+  number: '4'
+  language: english
+  journal: Algebr. Colloq.
+  author: Wang, Dengyin and Li, Shangzhi
+  ENTRYTYPE: article
+  ID: LiShangZhi
+LubNek-OverNorm:
+  year: '2024'
+  volume: '29'
+  url: https://ems.press/doi/10.4171/dm/956
+  title: '{Overgroups of exterior powers of an elementary group. Normalizers}'
+  pages: 1243--1268
+  number: '5'
+  language: english
+  journal: Doc. Math.
+  issn: 1431-0635
+  doi: 10.4171/dm/956
+  author: Lubkov, Roman and Nekrasov, Ilia
+  annote: (to appear)
+  ENTRYTYPE: article
+  ID: LubNek-OverNorm
+HSVZyogaNext:
+  year: '2014'
+  volume: '200'
+  url: http://link.springer.com/10.1007/s10958-014-1967-z
+  title: '{The Yoga of Commutators: Further Applications}'
+  pages: 742--768
+  number: '6'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-014-1967-z
+  author: Hazrat, R. and Stepanov, A. V. and Vavilov, N. A. and Zhang, Z.
+  ENTRYTYPE: article
+  ID: HSVZyogaNext
+VavStepSurvey:
+  year: '2008'
+  volume: ''
+  title: '{Overgroups of semisimple groups}'
+  pages: 51--95
+  number: '3'
+  language: english
+  journal: Vestn. Samar. Gos. Univ. Estestv. Ser.
+  author: Vavilov, N. A. and Stepanov, A. V.
+  ENTRYTYPE: article
+  ID: VavStepSurvey
+GolubchikSbg:
+  year: '1984'
+  volume: '39'
+  url: http://stacks.iop.org/0036-0279/39/i=1/a=L11?key=crossref.3ce1897b63ef106d9e19c23e834a7815
+  title: '{On subgroups of the general linear group {$GL_n(R)$} over an associative
+    ring {$R$}}'
+  pages: 157--158
+  number: '1'
+  language: english
+  journal: Russ. Math. Surv.
+  issn: 0036-0279
+  doi: 10.1070/RM1984v039n01ABEH003070
+  author: Golubchik, I. Z.
+  ENTRYTYPE: article
+  ID: GolubchikSbg
+HazVav:
+  year: '2003'
+  volume: '179'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S002240490200292X
+  title: '{{$K_1$} of {C}hevalley groups are nilpotent}'
+  pages: 99--116
+  number: 1-2
+  language: english
+  journal: J. Pure Appl. Algebr.
+  issn: 00224049
+  doi: 10.1016/S0022-4049(02)00292-X
+  author: Hazrat, Roozbeh and Vavilov, Nikolai
+  ENTRYTYPE: article
+  ID: HazVav
+skos1:
+  year: '1985'
+  volume: '24'
+  url: http://link.springer.com/10.1007/BF01979881
+  title: '{Right-alternative algebras with minimality condition for right ideals}'
+  pages: 126--129
+  number: '2'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF01979881
+  author: Skosyrskii, V. G.
+  ENTRYTYPE: article
+  ID: skos1
+Nuzhin:
+  year: '1983'
+  volume: '22'
+  url: http://link.springer.com/10.1007/BF01982115
+  title: '{Groups contained between groups of {L}ie type over different fields}'
+  pages: 378--389
+  number: '5'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF01982115
+  author: Nuzhin, Ya. N.
+  ENTRYTYPE: article
+  ID: Nuzhin
+VavPDedekind:
+  year: '1982'
+  volume: '20'
+  url: http://link.springer.com/10.1007/BF01681471
+  title: '{Parabolic subgroups of the full linear group over a Dedekind ring of arithmetical
+    type}'
+  pages: 2546--2555
+  number: '6'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF01681471
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavPDedekind
+TimmesfeldBook:
+  year: '2001'
+  url: http://link.springer.com/10.1007/978-3-0348-7594-3
+  title: '{Abstract Root Subgroups and Simple Groups of Lie-Type}'
+  publisher: Birkh{\"{a}}user Basel
+  pages: '389'
+  language: english
+  isbn: 978-3-0348-7596-7
+  doi: 10.1007/978-3-0348-7594-3
+  author: Timmesfeld, Franz Georg
+  address: Basel
+  ENTRYTYPE: book
+  ID: TimmesfeldBook
+XingCheng:
+  year: '2008'
+  volume: '320'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869308002093
+  title: '{Overgroups of the elementary unitary group in linear group over commutative
+    rings}'
+  pages: 1255--1260
+  number: '3'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2008.04.013
+  author: Wang, Xing Tao and Hong, Cheng Shao
+  ENTRYTYPE: article
+  ID: XingCheng
+VavSubgroup90:
+  year: '1990'
+  volume: '183'
+  title: '{On subgroups of split classical groups}'
+  pages: 27--41
+  language: english
+  journal: Proc. Steklov Inst. Math.
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavSubgroup90
+DyeSubPolarities:
+  year: '1980'
+  volume: '66'
+  url: https://doi.org/10.1016/0021-8693(80)90110-6 https://linkinghub.elsevier.com/retrieve/pii/0021869380901106
+  title: '{Maximal subgroups of {${\rm GL}_{2n}(K)$}, {${\rm SL}_{2n}(K)$}, {${\rm
+    PGL}_{2n}(K)$} and {${\rm PSL}_{2n}(K)$} associated with symplectic polarities}'
+  pages: 1--11
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(80)90110-6
+  author: Dye, R. H.
+  ENTRYTYPE: article
+  ID: DyeSubPolarities
+ChevalleySimpGroups:
+  year: '1955'
+  volume: '7'
+  url: https://projecteuclid.org/journals/tohoku-mathematical-journal/volume-7/issue-1-2/Sur-certains-groupes-simples/10.2748/tmj/1178245104.full
+  title: '{Sur certains groupes simples}'
+  pages: 14--66
+  number: 1-2
+  language: french
+  journal: Tohoku Math. J.
+  issn: 0040-8735
+  doi: 10.2748/tmj/1178245104
+  author: Chevalley, C.
+  ENTRYTYPE: article
+  ID: ChevalleySimpGroups
+PlatDok96:
+  year: '1996'
+  volume: '348'
+  url: https://www.ams.org/tran/1996-348-01/S0002-9947-96-01466-3/
+  title: '{Subgroups of {${\rm GL}(n^2,\mathbb{C})$} containing {${\rm PSU}(n)$}}'
+  pages: 141--152
+  number: '1'
+  language: english
+  journal: Trans. Am. Math. Soc.
+  issn: 0002-9947
+  doi: 10.1090/S0002-9947-96-01466-3
+  author: Platonov, V. and Đokovi{\'{c}}, D.
+  ENTRYTYPE: article
+  ID: PlatDok96
+VasersteinStability:
+  year: '1969'
+  volume: '8'
+  url: http://stacks.iop.org/0025-5734/8/i=3/a=A05?key=crossref.bb6ed33aa88e8050cc1189e71336e01f
+  title: '{On the stabilization of the general linear group over a ring}'
+  pages: 383--400
+  number: '3'
+  language: english
+  journal: Math. USSR-Sbornik
+  issn: 0025-5734
+  doi: 10.1070/SM1969v008n03ABEH001279
+  author: Vaserstein, L. N.
+  ENTRYTYPE: article
+  ID: VasersteinStability
+HSVZwidth:
+  year: '2013'
+  volume: '33'
+  url: http://arxiv.org/abs/1206.2128
+  title: '{Commutator width in {C}hevalley groups}'
+  pages: 139--170
+  number: '1'
+  language: english
+  journal: Note di Mat.
+  doi: 10.1285/i15900932v33n1p139
+  author: Hazrat, R. and Stepanov, A. V. and Vavilov, N. A. and Zhang, Z.
+  ENTRYTYPE: article
+  ID: HSVZwidth
+LiShanStruc96:
+  year: '1996'
+  url: http://link.springer.com/10.1007/978-94-011-5454-3_6
+  title: '{On the Subgroup Structure of Classical Groups}'
+  publisher: Springer Netherlands
+  pages: 70--90
+  language: english
+  doi: 10.1007/978-94-011-5454-3_6
+  booktitle: Gr. Theory China
+  author: Li, Shangzhi
+  address: Dordrecht
+  ENTRYTYPE: incollection
+  ID: LiShanStruc96
+VP-EOodd:
+  year: '2008'
+  volume: '19'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-08-00992-8
+  title: '{Overgroups of {$\mathrm{EO}(n,R)$}}'
+  pages: 167--196
+  number: '02'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-08-00992-8
+  author: Vavilov, N. A. and Petrov, V. A.
+  ENTRYTYPE: article
+  ID: VP-EOodd
+VavSplitOr01:
+  year: '2004'
+  volume: '120'
+  url: http://link.springer.com/10.1023/B:JOTH.0000017881.22871.49
+  title: '{Subgroups of Split Orthogonal Groups over a Commutative Ring}'
+  pages: 1501--1512
+  number: '4'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1023/B:JOTH.0000017881.22871.49
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavSplitOr01
+bcz:
+  year: '2022'
+  volume: '70'
+  url: https://www.tandfonline.com/doi/full/10.1080/03081087.2021.1999890
+  title: '{Gelfand-Kirillov dimension of bicommutative algebras}'
+  pages: 7623--7649
+  number: '22'
+  language: english
+  journal: Linear Multilinear Algebr.
+  issn: 0308-1087
+  doi: 10.1080/03081087.2021.1999890
+  author: Bai, Yuxiu and Chen, Yuqun and Zhang, Zerui
+  ENTRYTYPE: article
+  ID: bcz
+Knus:
+  year: '1991'
+  volume: '294'
+  url: http://link.springer.com/10.1007/978-3-642-75401-2
+  title: '{Quadratic and Hermitian Forms over Rings}'
+  series: Grundlehren der mathematischen Wissenschaften
+  publisher: Springer Berlin Heidelberg
+  pages: '524'
+  language: english
+  isbn: 978-3-642-75403-6
+  doi: 10.1007/978-3-642-75401-2
+  author: Knus, Max-Albert
+  address: Berlin, Heidelberg
+  ENTRYTYPE: book
+  ID: Knus
+MirRum99:
+  year: '1999'
+  volume: '231'
+  url: http://link.springer.com/10.1007/PL00004719
+  title: '{Centers of reduced enveloping algebras}'
+  pages: 123--132
+  number: '1'
+  language: english
+  journal: Math. Zeitschrift
+  issn: 0025-5874
+  doi: 10.1007/PL00004719
+  author: Mirkovi{\'{c}}, Ivan and Rumynin, Dmitriy
+  ENTRYTYPE: article
+  ID: MirRum99
+StepUniloc:
+  year: '2016'
+  volume: '450'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S002186931500602X
+  title: '{Structure of Chevalley groups over rings via universal localization}'
+  pages: 522--548
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2015.11.031
+  author: Stepanov, Alexei
+  ENTRYTYPE: article
+  ID: StepUniloc
+BakVavHyp1:
+  year: '2000'
+  volume: '7'
+  url: http://link.springer.com/10.1007/s10011-000-0159-1
+  title: '{Structure of Hyperbolic Unitary Groups I: Elementary Subgroups}'
+  pages: 159--196
+  number: '2'
+  language: english
+  journal: Algebr. Colloq.
+  issn: 1005-3867
+  doi: 10.1007/s10011-000-0159-1
+  author: Bak, Anthony and Vavilov, Nikolai
+  ENTRYTYPE: article
+  ID: BakVavHyp1
+MashaSasha:
+  year: '2016'
+  url: https://mahalex.net/about-me/publications/preserve.pdf
+  title: '{Exceptional groups are groups of linear transformations preserving systems
+    of quadrics}'
+  language: english
+  author: Atamanova, M. and Luzgarev, A.
+  annote: 6 pages, located at http://mahalex.net/about-me/publications
+  ENTRYTYPE: unpublished
+  ID: MashaSasha
+KW:
+  year: '1989'
+  volume: '17'
+  url: http://www.tandfonline.com/doi/abs/10.1080/00927878908823869
+  title: '{Rings satisfying {$(x,y,z) = (y,z,x)$}}'
+  pages: 2683--2687
+  number: '11'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927878908823869
+  author: Kleinfeld, Erwin and Widmer, Lamarr
+  ENTRYTYPE: article
+  ID: KW
+ShangZhiSUOmega:
+  year: '1990'
+  volume: '33'
+  url: https://doi.org/10.1007/BF00181331 http://link.springer.com/10.1007/BF00181331
+  title: '{Overgroups of {${\rm SU}(n,K,f)$} or {$\Omega(n,K,Q)$} in {${\rm GL}(n,K)$}}'
+  pages: 241--250
+  number: '3'
+  language: english
+  journal: Geom. Dedicata
+  issn: 0046-5755
+  doi: 10.1007/BF00181331
+  author: Li, Shangzhi
+  ENTRYTYPE: article
+  ID: ShangZhiSUOmega
+dimz:
+  year: '2024'
+  volume: '652'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869324001972
+  title: '{Free bicommutative superalgebras}'
+  pages: 158--187
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2024.04.007
+  author: Drensky, Vesselin and Ismailov, Nurlan and Mustafa, Manat and Zhakhayev,
+    Bekzat
+  ENTRYTYPE: article
+  ID: dimz
+aak24:
+  year: '2024'
+  url: http://arxiv.org/abs/2407.05429
+  title: '{The algebraic and geometric classification of noncommutative Jordan algebras}'
+  language: english
+  eprint: '2407.05429'
+  author: Abdelwahab, Hani and Abdurasulov, Kobiljon and Kaygorodov, Ivan
+  arxivid: '2407.05429'
+  archiveprefix: arXiv
+  ENTRYTYPE: article
+  ID: aak24
+AnaVavSin:
+  year: '2009'
+  volume: '161'
+  url: http://link.springer.com/10.1007/s10958-009-9576-y
+  title: '{Overgroups of {$\mathrm{E}(m,R)\otimes \mathrm{E}(n,R)$}}'
+  pages: 461--473
+  number: '4'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-009-9576-y
+  author: Ananievsky, A. S. and Vavilov, N. A. and Sinchuk, S. S.
+  ENTRYTYPE: article
+  ID: AnaVavSin
+kkl20:
+  year: '2022'
+  volume: '30'
+  url: https://cm.episciences.org/10537
+  title: '{On classification and deformations of Lie-Rinehart superalgebras}'
+  pages: 67--100
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.10537
+  author: Ehret, Quentin and Makhlouf, Abdenacer
+  ENTRYTYPE: article
+  ID: kkl20
+C24:
+  year: '2024'
+  volume: '32'
+  url: http://cm.episciences.org/11514
+  title: '{Alternating roots of polynomials over Cayley--Dickson algebras}'
+  pages: 63--70
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.11514
+  author: Chapman, Adam and Levin, Ilan
+  ENTRYTYPE: article
+  ID: C24
+YouHongOvergrBanach:
+  year: '2006'
+  volume: '304'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869306001670
+  title: '{Overgroups of classical groups in linear group over Banach algebras}'
+  pages: 1004--1013
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2006.03.024
+  author: You, Hong
+  ENTRYTYPE: article
+  ID: YouHongOvergrBanach
+LiebSeitSubExc:
+  year: '2004'
+  volume: '169'
+  url: https://doi.org/10.1090/memo/0802 http://www.ams.org/memo/0802
+  title: '{The maximal subgroups of positive dimension in exceptional algebraic groups}'
+  pages: vi+227
+  number: '802'
+  language: english
+  journal: Mem. Am. Math. Soc.
+  issn: 0065-9266
+  doi: 10.1090/memo/0802
+  author: Liebeck, Martin W. and Seitz, Gary M.
+  ENTRYTYPE: article
+  ID: LiebSeitSubExc
+AbLuKa25:
+  year: '2025'
+  title: '{The algebraic and geometric classification of right alternative and semi-alternative
+    algebras (to appear)}'
+  language: english
+  journal: J. Algebr.
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  ENTRYTYPE: article
+  ID: AbLuKa25
+ualbay85:
+  year: '1985'
+  title: '{The word problem for Jordan and right-alternative algebras}'
+  publisher: Novosibirsk. Gos. Univ.
+  pages: 120--127
+  language: english
+  booktitle: Some Quest. Probl. Anal. Algebr.
+  author: Umirbaev, U.
+  address: Novosibirsk
+  ENTRYTYPE: incollection
+  ID: ualbay85
+StepNonstandard:
+  year: '2010'
+  volume: '324'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869310002905
+  title: '{Free product subgroups between {C}hevalley groups {$\mathrm{G}(\Phi,F)$}
+    and {$\mathrm{G}(\Phi,F[t])$}}'
+  pages: 1549--1557
+  number: '7'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2010.06.015
+  author: Stepanov, Alexei
+  ENTRYTYPE: article
+  ID: StepNonstandard
+DOKPlat:
+  year: '1993'
+  volume: '317'
+  title: '{Algebraic groups and linear preserver problems}'
+  pages: 925--930
+  number: '10'
+  language: english
+  journal: C. R. Acad. Sci., Paris, S{\'{e}}r. A
+  author: Đokovi{\'{c}}, D. {\v{Z}}. and Platonov, V. P.
+  ENTRYTYPE: article
+  ID: DOKPlat
+GarGur22:
+  year: '2022'
+  volume: '72'
+  url: https://projecteuclid.org/journals/michigan-mathematical-journal/volume-72/issue-none/Generic-Stabilizers-for-Simple-Algebraic-Groups/10.1307/mmj/20217216.full
+  title: '{Generic Stabilizers for Simple Algebraic Groups}'
+  language: english
+  journal: Michigan Math. J.
+  issn: 0026-2285
+  doi: 10.1307/mmj/20217216
+  author: Garibaldi, Skip and Guralnick, Robert M.
+  ENTRYTYPE: article
+  ID: GarGur22
+VavThirdlook:
+  year: '2000'
+  volume: '104'
+  title: '{A third look at weight diagrams}'
+  pages: 201--250
+  language: english
+  journal: Rend. Semin. Mat. Univ. Padova
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavThirdlook
+VavLuzgE7:
+  year: '2016'
+  volume: '27'
+  url: http://www.ams.org/spmj/2016-27-06/S1061-0022-2016-01426-5/
+  title: '{Normalizer of the {C}hevalley group of type {$E_7$}}'
+  pages: 899--921
+  number: '6'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/spmj/1426
+  author: Vavilov, N. A. and Luzgarev, A. Yu.
+  ENTRYTYPE: article
+  ID: VavLuzgE7
+PetPHDThesis:
+  year: '2005'
+  title: '{Supergroups of classical groups (in Russian)}'
+  publisher: PhD Thesis
+  pages: '129'
+  language: english
+  author: Petrov, V. A.
+  address: St. Petersburg State University
+  ENTRYTYPE: book
+  ID: PetPHDThesis
+VavTowards:
+  year: '2019'
+  volume: '243'
+  url: http://link.springer.com/10.1007/s10958-019-04553-x
+  title: '{Towards the Reverse Decomposition of Unipotents}'
+  pages: 515--526
+  number: '4'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-019-04553-x
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavTowards
+Hurley:
+  year: '1982'
+  volume: '34'
+  url: https://projecteuclid.org/journals/journal-of-the-mathematical-society-of-japan/volume-34/issue-2/Centers-of-Chevalley-algebras/10.2969/jmsj/03420219.full
+  title: '{Centers of Chevalley algebras*}'
+  pages: 219--222
+  number: '2'
+  language: english
+  journal: J. Math. Soc. Japan
+  issn: 0025-5645
+  doi: 10.2969/jmsj/03420219
+  author: Hurley, James F.
+  ENTRYTYPE: article
+  ID: Hurley
+DOKOVIC199431:
+  year: '1994'
+  volume: 197-198
+  url: https://linkinghub.elsevier.com/retrieve/pii/0024379594904804
+  title: '{Overgroups of some classical linear groups with applications to linear
+    preserver problems}'
+  pages: 31--61
+  language: english
+  journal: Linear Algebra Appl.
+  issn: 00243795
+  doi: 10.1016/0024-3795(94)90480-4
+  author: Đokovi{\'{c}}, Dragomir {\v{Z}}. and Li, Chi-Kwong
+  ENTRYTYPE: article
+  ID: DOKOVIC199431
+VP-EOeven:
+  year: '2003'
+  volume: '116'
+  title: '{Overgroups of {$\mathrm{EO}(2l,R)$}}'
+  pages: 2917--2925
+  number: '1'
+  language: english
+  journal: J. Math. Sci.
+  doi: 10.1023/A:1023442407926
+  author: Vavilov, N. and Petrov, V.
+  ENTRYTYPE: article
+  ID: VP-EOeven
+VavStepCommForm:
+  year: '2010'
+  volume: '43'
+  url: http://link.springer.com/10.3103/S1063454110010036
+  title: '{Standard commutator formula, revisited}'
+  pages: 12--17
+  number: '1'
+  language: english
+  journal: Vestn. St. Petersbg. Univ. Math.
+  issn: 1063-4541
+  doi: 10.3103/S1063454110010036
+  author: Vavilov, N. A. and Stepanov, A. V.
+  ENTRYTYPE: article
+  ID: VavStepCommForm
+Chow49:
+  year: '1949'
+  volume: '50'
+  url: https://www.jstor.org/stable/1969351?origin=crossref
+  title: '{On the Geometry of Algebraic Homogeneous Spaces}'
+  pages: 32--67
+  number: '1'
+  language: english
+  journal: Ann. Math.
+  issn: 0003486X
+  doi: 10.2307/1969351
+  author: Chow, Wei-Liang
+  ENTRYTYPE: article
+  ID: Chow49
+Nuzhin13:
+  year: '2013'
+  volume: '54'
+  url: http://link.springer.com/10.1134/S0037446613010151
+  title: '{Intermediate subgroups in the {C}hevalley groups of type {$B_l$, $C_l$,
+    $F_4$}, and {$G_2$} over the nonperfect fields of characteristic $2$ and $3$}'
+  pages: 119--123
+  number: '1'
+  language: english
+  journal: Sib. Math. J.
+  issn: 0037-4466
+  doi: 10.1134/S0037446613010151
+  author: Nuzhin, Ya. N.
+  ENTRYTYPE: article
+  ID: Nuzhin13
+GurPham:
+  year: '1999'
+  volume: '78'
+  url: http://doi.wiley.com/10.1112/S0024611599001720
+  title: '{Low-Dimensional Representations of Special Linear Groups in Cross Characteristics}'
+  pages: 116--138
+  number: '1'
+  language: english
+  journal: Proc. London Math. Soc.
+  issn: '00246115'
+  doi: 10.1112/S0024611599001720
+  author: Guralnick, Robert M. and Tiep, Pham Huu
+  ENTRYTYPE: article
+  ID: GurPham
+SeitzMaxSub:
+  year: '1987'
+  volume: '67'
+  url: http://www.ams.org/memo/0365
+  title: '{The maximal subgroups of classical algebraic groups}'
+  number: '365'
+  language: english
+  journal: Mem. Am. Math. Soc.
+  issn: 0065-9266
+  doi: 10.1090/memo/0365
+  author: Seitz, Gary M.
+  ENTRYTYPE: article
+  ID: SeitzMaxSub
+VavLuzgE6:
+  year: '2008'
+  volume: '19'
+  url: http://www.ams.org/journal-getitem?pii=S1061-0022-08-01016-9
+  title: '{Normalizer of the {C}hevalley group of type {$E_6$}}'
+  pages: 699--718
+  number: '5'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-08-01016-9
+  author: Vavilov, N. A. and Luzgarev, A. Yu.
+  ENTRYTYPE: article
+  ID: VavLuzgE6
+GariGura2015:
+  year: '2015'
+  volume: '3'
+  url: https://doi.org/10.1017/fmp.2015.3
+  title: '{Simple groups stabilizing polynomials}'
+  pages: 1--41
+  number: e3
+  language: english
+  journal: Forum Math. Pi
+  issn: 2050-5086
+  doi: 10.1017/fmp.2015.3
+  author: Garibaldi, Skip and Guralnick, Robert M.
+  ENTRYTYPE: article
+  ID: GariGura2015
+ben:
+  year: '2024'
+  volume: '32'
+  url: https://cm.episciences.org/12656
+  title: '{Cohomology and deformations of left-symmetric Rinehart algebras}'
+  pages: 127--152
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.12656
+  author: '{Ben Hassine}, A. and Chtioui, T. and Elhamdadi, M. and Mabrouk, S.'
+  ENTRYTYPE: article
+  ID: ben
+Water83:
+  year: '1983'
+  volume: '13'
+  url: http://www.tandfonline.com/doi/abs/10.1080/03081088308817510
+  title: '{Invertibility of linear maps preserving matrix invariants}'
+  pages: 105--113
+  number: '2'
+  language: english
+  journal: Linear Multilinear Algebr.
+  issn: 0308-1087
+  doi: 10.1080/03081088308817510
+  author: Waterhouse, William C.
+  ENTRYTYPE: article
+  ID: Water83
+Veld72:
+  year: '1972'
+  volume: '5'
+  url: http://www.numdam.org/item?id=ASENS_1972_4_5_2_217_0
+  title: '{The center of the universal enveloping algebra of a Lie algebra in characteristic
+    $p$}'
+  pages: 217--240
+  number: '2'
+  language: english
+  journal: Ann. Sci. l'{\'{E}}cole Norm. sup{\'{e}}rieure
+  issn: 0012-9593
+  doi: 10.24033/asens.1225
+  author: Veldkamp, F. D.
+  ENTRYTYPE: article
+  ID: Veld72
+HumphreyLinAlgGr:
+  year: '1975'
+  volume: '21'
+  url: http://link.springer.com/10.1007/978-1-4684-9443-3
+  title: '{Linear Algebraic Groups}'
+  series: Graduate Texts in Mathematics
+  publisher: Springer New York
+  pages: '248'
+  language: english
+  isbn: 978-1-4684-9445-7
+  doi: 10.1007/978-1-4684-9443-3
+  author: Humphreys, James E.
+  address: New York, NY
+  ENTRYTYPE: book
+  ID: HumphreyLinAlgGr
+VavStepCommForm0:
+  year: '2008'
+  volume: '41'
+  url: http://link.springer.com/10.3103/S1063454108010020
+  title: '{Standard commutator formula}'
+  pages: 5--8
+  number: '1'
+  language: english
+  journal: Vestn. St. Petersbg. Univ. Math.
+  issn: 1063-4541
+  doi: 10.3103/S1063454108010020
+  author: Vavilov, N. A. and Stepanov, A. V.
+  ENTRYTYPE: article
+  ID: VavStepCommForm0
+BHVstrike:
+  year: '2009'
+  volume: '213'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S002240490800234X
+  title: '{Localization-completion strikes again: relative {$K_1$} is nilpotent by
+    abelian}'
+  pages: 1075--1085
+  number: '6'
+  language: english
+  journal: J. Pure Appl. Algebr.
+  issn: 00224049
+  doi: 10.1016/j.jpaa.2008.11.014
+  author: Bak, A. and Hazrat, R. and Vavilov, N.
+  ENTRYTYPE: article
+  ID: BHVstrike
+VavSbgs:
+  year: '1995'
+  url: https://www.cambridge.org/core/product/identifier/CBO9780511565823A023/type/book_part
+  title: '{Intermediate subgroups in Chevalley groups}'
+  publisher: Cambridge University Press
+  pages: 233--280
+  language: english
+  doi: 10.1017/CBO9780511565823.018
+  booktitle: Groups Lie Type their Geom.
+  author: Vavilov, Nikolai
+  ENTRYTYPE: incollection
+  ID: VavSbgs
+GvozLevi:
+  year: '2020'
+  volume: '31'
+  url: https://www.ams.org/spmj/2020-31-06/S1061-0022-2020-01631-2/
+  title: '{Overgroups of Levi subgroups I. The case of abelian unipotent radical}'
+  pages: 969--999
+  number: '6'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/spmj/1631
+  author: Gvozdevsky, P.
+  ENTRYTYPE: article
+  ID: GvozLevi
+StavSerreConj:
+  year: '2014'
+  volume: '13'
+  url: https://www.cambridge.org/core/product/identifier/S1865243313000482/type/journal_article
+  title: '{Homotopy invariance of non-stable {$K_1$}-functors}'
+  pages: 199--248
+  number: '2'
+  language: english
+  journal: J. K-Theory
+  issn: 1865-2433
+  doi: 10.1017/is013006012jkt232
+  author: Stavrova, A.
+  annote: '{P}reprint: \texttt{http://ArXiv.org/abs/1111.4664}'
+  ENTRYTYPE: article
+  ID: StavSerreConj
+ikm21:
+  year: '2021'
+  volume: '24'
+  url: http://link.springer.com/10.1007/s10468-019-09935-y
+  title: '{The algebraic and geometric classification of nilpotent assosymmetric algebras}'
+  pages: 135--148
+  number: '1'
+  language: english
+  journal: Algebr. Represent. Theory
+  issn: 1386-923X
+  doi: 10.1007/s10468-019-09935-y
+  author: Ismailov, Nurlan and Kaygorodov, Ivan and Mashurov, Farukh
+  ENTRYTYPE: article
+  ID: ikm21
+ser76bi:
+  year: '1976'
+  volume: '20'
+  url: http://link.springer.com/10.1007/BF01155868
+  title: '{Identities defining a certain variety of right-alternative algebras}'
+  pages: 651--659
+  number: '2'
+  language: english
+  journal: Math. Notes
+  issn: 0001-4346
+  doi: 10.1007/BF01155868
+  author: Pchelintsev, S.
+  ENTRYTYPE: article
+  ID: ser76bi
+Taddei:
+  year: '1986'
+  volume: '55'
+  url: http://www.ams.org/conm/055.2/
+  title: '{Normalit{\''{e}} des groupes {\''{e}}l{\''{e}}mentaires dans les groupes
+    de Chevalley sur un anneau}'
+  pages: 693--710
+  language: french
+  doi: 10.1090/conm/055.2/1862660
+  booktitle: Contemp. Math.
+  author: Taddei, Giovanni
+  ENTRYTYPE: incollection
+  ID: Taddei
+PSS:
+  year: '2021'
+  volume: '572'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869320306141
+  title: '{Right alternative bimodules over Cayley algebra and coordinatization theorem}'
+  pages: 111--128
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2020.12.009
+  author: Pchelintsev, S. and Shashkov, O. and Shestakov, I.
+  ENTRYTYPE: article
+  ID: PSS
+GRH:
+  year: '1988'
+  volume: '112'
+  url: https://linkinghub.elsevier.com/retrieve/pii/0021869388900932
+  title: '{Varieties of nilpotent Lie algebras of dimension less than six}'
+  pages: 315--325
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(88)90093-2
+  author: Grunewald, Fritz and O'Halloran, Joyce
+  ENTRYTYPE: article
+  ID: GRH
+KMTZ:
+  year: '2024'
+  volume: '40'
+  url: https://link.springer.com/10.1007/s10114-024-2178-2
+  title: '{Products of Commutator Ideals of Some Lie-admissible Algebras}'
+  pages: 1875--1892
+  number: '8'
+  language: english
+  journal: Acta Math. Sin. Engl. Ser.
+  issn: 1439-8516
+  doi: 10.1007/s10114-024-2178-2
+  author: Kaygorodov, Ivan and Mashurov, Farukh and Nam, Tran Giang and Zhang, Ze
+    Rui
+  ENTRYTYPE: article
+  ID: KMTZ
+Borevich1984:
+  year: '1984'
+  volume: '26'
+  url: https://doi.org/10.1007/BF01670568 http://link.springer.com/10.1007/BF01670568
+  title: '{Subnormalizer of net subgroups in the general linear group over a ring}'
+  pages: 1844--1848
+  number: '3'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF01670568
+  author: Borevich, Z. I. and Kolotilina, L. Yu.
+  ENTRYTYPE: article
+  ID: Borevich1984
+kpv20:
+  year: '2020'
+  volume: '23'
+  url: http://link.springer.com/10.1007/s10468-019-09944-x
+  title: '{The algebraic and geometric classification of nilpotent bicommutative algebras}'
+  pages: 2331--2347
+  number: '6'
+  language: english
+  journal: Algebr. Represent. Theory
+  issn: 1386-923X
+  doi: 10.1007/s10468-019-09944-x
+  author: Kaygorodov, Ivan and P{\'{a}}ez-Guill{\'{a}}n, Pilar and Voronin, Vasily
+  ENTRYTYPE: article
+  ID: kpv20
+KingDiag:
+  year: '1990'
+  volume: '132'
+  url: https://doi.org/10.1016/0021-8693(90)90263-N https://linkinghub.elsevier.com/retrieve/pii/002186939090263N
+  title: '{Subgroups of the special linear group containing the diagonal subgroup}'
+  pages: 198--204
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(90)90263-N
+  author: King, Oliver
+  ENTRYTYPE: article
+  ID: KingDiag
+VP-Ep:
+  year: '2004'
+  volume: '15'
+  url: http://www.ams.org/spmj/2004-15-04/S1061-0022-04-00820-9/
+  title: '{Overgroups of elementary symplectic groups}'
+  pages: 515--543
+  number: '4'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/S1061-0022-04-00820-9
+  author: Vavilov, N. A. and Petrov, V. A.
+  ENTRYTYPE: article
+  ID: VP-Ep
+GuraLaw2019:
+  year: '2021'
+  title: '{Generic stabilizers in actions of simple algebraic groups}'
+  primaryclass: math.GR
+  pages: arXiv:1904.13375
+  language: english
+  keywords: 20G05,Mathematics - Algebraic Geometry,Mathematics - Group Theory
+  eprint: '1904.13375'
+  booktitle: arXiv e-prints
+  author: Guralnick, R. M. and Lawther, R.
+  arxivid: math.GR/1904.13375
+  archiveprefix: arXiv
+  ENTRYTYPE: unpublished
+  ID: GuraLaw2019
+ShangZhiTensor2:
+  year: '1997'
+  title: '{Overgroups in {${\rm GL}(U\otimes W)$} of certain subgroups of {${\rm GL}(U)\otimes{\rm
+    GL}(W)$}. {II}}'
+  language: english
+  author: Li, Shang Zhi
+  ENTRYTYPE: unpublished
+  ID: ShangZhiTensor2
+mr:
+  year: '2022'
+  volume: '30'
+  url: https://cm.episciences.org/10295
+  title: '{Cohomology, deformations and extensions of Rota-Baxter Leibniz algebras}'
+  pages: 93--117
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.10295
+  author: Mondal, Bibhash and Saha, Ripan
+  ENTRYTYPE: article
+  ID: mr
+sergey:
+  year: '1994'
+  volume: '35'
+  url: http://link.springer.com/10.1007/BF02106619
+  title: '{Malcev-admissible right-alternative nilalgebras of bounded index}'
+  pages: 754--759
+  number: '4'
+  language: english
+  journal: Sib. Math. J.
+  issn: 0037-4466
+  doi: 10.1007/BF02106619
+  author: Pchelintsev, S.
+  ENTRYTYPE: article
+  ID: sergey
+PetOvergr:
+  year: '2003'
+  volume: '29'
+  url: http://www.portico.org/Portico/article?article=pgg1zfpb2nn
+  title: '{Overgroups of Unitary Groups}'
+  pages: 147--174
+  number: '3'
+  language: english
+  journal: K-Theory
+  issn: '15730514'
+  doi: 10.1023/B:KTHE.0000006934.95243.91
+  author: Petrov, Viktor
+  ENTRYTYPE: article
+  ID: PetOvergr
+NemitzGrassmann:
+  year: '1963'
+  volume: '109'
+  url: https://doi.org/10.2307/1993851 https://www.jstor.org/stable/1993851?origin=crossref
+  title: '{Transformations Preserving the Grassmannian}'
+  pages: '400'
+  number: '3'
+  language: english
+  journal: Trans. Am. Math. Soc.
+  issn: 00029947
+  doi: 10.2307/1993851
+  author: Nemitz, William C.
+  ENTRYTYPE: article
+  ID: NemitzGrassmann
+LuzE6E7-GL:
+  year: '2006'
+  volume: '134'
+  url: http://link.springer.com/10.1007/s10958-006-0127-5
+  title: '{On overgroups of {$E(E_6,R)$} and {$E(E_7,R)$} in their minimal representations}'
+  pages: 2558--2571
+  number: '6'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-006-0127-5
+  author: Luzgarev, A. Yu.
+  ENTRYTYPE: article
+  ID: LuzE6E7-GL
+skos3:
+  year: '1979'
+  volume: '18'
+  url: http://link.springer.com/10.1007/BF01669312
+  title: '{Nilpotency in Jordan and right alternative algebras}'
+  pages: 49--57
+  number: '1'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF01669312
+  author: Skosyrskii, V. G.
+  ENTRYTYPE: article
+  ID: skos3
+NuzhYak:
+  year: '2000'
+  volume: '39'
+  url: http://link.springer.com/10.1007/BF02681763
+  title: '{Intermediate subgroups of chevalley groups over a field of fractions of
+    a ring of principal ideals}'
+  pages: 199--206
+  number: '3'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF02681763
+  author: Nuzhin, Ya. N. and Yakushevich, A. V.
+  ENTRYTYPE: article
+  ID: NuzhYak
+WaterhouseDet:
+  year: '1987'
+  volume: '65'
+  url: https://doi.org/10.1016/0001-8708(87)90021-1 https://linkinghub.elsevier.com/retrieve/pii/0001870887900211
+  title: '{Automorphisms of {$\textrm{det}(X_{ij})$}: The group scheme approach}'
+  pages: 171--203
+  number: '2'
+  language: english
+  journal: Adv. Math. (N. Y).
+  issn: 00018708
+  doi: 10.1016/0001-8708(87)90021-1
+  author: Waterhouse, William C.
+  ENTRYTYPE: article
+  ID: WaterhouseDet
+BerMooExt:
+  year: '1975'
+  volume: '22'
+  url: http://link.springer.com/10.1007/BF02757272
+  title: '{Extensions of Chevalley groups}'
+  pages: 42--51
+  number: '1'
+  language: english
+  journal: Isr. J. Math.
+  issn: 0021-2172
+  doi: 10.1007/BF02757272
+  author: Berman, Stephen and Moody, Robert
+  ENTRYTYPE: article
+  ID: BerMooExt
+AschbacherSurv:
+  year: '1986'
+  url: http://link.springer.com/10.1007/BFb0076170
+  title: '{Finite simple groups and their subgroups}'
+  pages: 1--57
+  language: english
+  doi: 10.1007/BFb0076170
+  booktitle: Tuan HF. Gr. Theory, Beijing 1984. Leture Notes Math., Springer, Berlin,
+  author: Aschbacher, Michael
+  ENTRYTYPE: incollection
+  ID: AschbacherSurv
+StepSubring:
+  year: '2012'
+  volume: '362'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021869312002037
+  title: '{Subring subgroups in Chevalley groups with doubly laced root systems}'
+  pages: 12--29
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2012.04.007
+  author: Stepanov, Alexei
+  ENTRYTYPE: article
+  ID: StepSubring
+mikh:
+  year: '1977'
+  volume: '16'
+  url: http://link.springer.com/10.1007/BF01670007
+  title: '{Simple right alternative rings}'
+  pages: 456--476
+  number: '6'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF01670007
+  author: Mikheev, I. M.
+  ENTRYTYPE: article
+  ID: mikh
+TitsCongruence:
+  year: '1976'
+  volume: '283'
+  title: '{Systemes g{\''{e}}n{\''{e}}rateurs de groupes de congruences}'
+  pages: 693--695
+  language: french
+  journal: C. R. Acad. Sci., Paris, S{\'{e}}r. A
+  author: Tits, J.
+  ENTRYTYPE: article
+  ID: TitsCongruence
+BV82:
+  year: '1982'
+  volume: '26'
+  title: '{The distribution of subgroups contaning a group of block diagonal matrices
+    in the general linear group over a ring}'
+  pages: 13--18
+  number: '11'
+  language: english
+  journal: Russ. Math.
+  author: Borevich, Z. I. and Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: BV82
+Dem73:
+  year: '1973'
+  volume: '21'
+  url: http://link.springer.com/10.1007/BF01418790
+  title: '{Invariants sym{\''{e}}triques entiers des groupes de Weyl et torsion}'
+  pages: 287--301
+  number: '4'
+  language: french
+  journal: Invent. Math.
+  issn: 0020-9910
+  doi: 10.1007/BF01418790
+  author: Demazure, Michel
+  ENTRYTYPE: article
+  ID: Dem73
+atlas:
+  year: '1998'
+  volume: 08
+  url: https://www.worldscientific.com/doi/abs/10.1142/S0218196798000053
+  title: '{Visual Basic Representations}'
+  pages: 61--95
+  number: '01'
+  language: english
+  journal: Int. J. Algebra Comput.
+  issn: 0218-1967
+  doi: 10.1142/S0218196798000053
+  author: Plotkin, Eugene and Semenov, Andrei and Vavilov, Nikolai
+  ENTRYTYPE: article
+  ID: atlas
+VavStruc88:
+  year: '1988'
+  volume: '37'
+  title: '{The structure of split classical groups over a commutative ring}'
+  pages: 550--553
+  number: '2'
+  language: english
+  journal: Sov. Math. - Dokl.
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavStruc88
+WaterhousePGL:
+  year: '1982'
+  volume: '102'
+  url: http://projecteuclid.org/euclid.pjm/1102724629 http://msp.org/pjm/1982/102-1/p16.xhtml
+  title: '{Automorphisms of quotients of {$\Pi\textrm{GL}(n_{i})$}}'
+  pages: 221--233
+  number: '1'
+  language: english
+  journal: Pacific J. Math.
+  issn: 0030-8730
+  doi: 10.2140/pjm.1982.102.221
+  author: Waterhouse, William
+  ENTRYTYPE: article
+  ID: WaterhousePGL
+l24:
+  year: '2024'
+  volume: '32'
+  url: https://cm.episciences.org/11678
+  title: '{Noncommutative algebra and representation theory: symmetry, structure \&
+    invariants}'
+  pages: 63--117
+  number: '2'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  doi: 10.46298/cm.11678
+  author: Lopes, Samuel A.
+  ENTRYTYPE: article
+  ID: l24
+afm:
+  year: '2025'
+  volume: '24'
+  url: https://www.worldscientific.com/doi/10.1142/S0219498825500872
+  title: '{Degenerations of Poisson algebras}'
+  pages: '2550087'
+  number: '3'
+  language: english
+  journal: J. Algebr. Its Appl.
+  issn: 0219-4988
+  doi: 10.1142/S0219498825500872
+  author: Abdelwahab, Hani and {Fern{\'{a}}ndez Ouaridi}, Amir and {Mart{\'{i}}n Gonz{\'{a}}lez},
+    C{\'{a}}ndido
+  ENTRYTYPE: article
+  ID: afm
+BVnets:
+  year: '1985'
+  volume: '30'
+  url: http://link.springer.com/10.1007/BF02105093
+  title: '{Definition of a net subgroup}'
+  pages: 1810--1816
+  number: '1'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF02105093
+  author: Borevich, Z. I. and Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: BVnets
+VavPere:
+  year: '2007'
+  volume: '145'
+  url: http://link.springer.com/10.1007/s10958-007-0305-0
+  title: '{Polyvector representations of {$\mathrm{GL}_n$}}'
+  pages: 4737--4750
+  number: '1'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-007-0305-0
+  author: Vavilov, N. A. and Perelman, E. Ya.
+  ENTRYTYPE: article
+  ID: VavPere
+VavSplit88:
+  year: '1989'
+  volume: '29'
+  url: http://link.springer.com/10.1007/BF00969861
+  title: '{Subgroups of split orthogonal groups over a ring}'
+  pages: 537--547
+  number: '4'
+  language: english
+  journal: Sib. Math. J.
+  issn: 0037-4466
+  doi: 10.1007/BF00969861
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavSplit88
+BO:
+  year: '2024'
+  volume: '701'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0024379524003239
+  title: '{Nonassociative algebras of biderivation-type}'
+  pages: 22--60
+  language: english
+  journal: Linear Algebra Appl.
+  issn: 00243795
+  doi: 10.1016/j.laa.2024.08.003
+  author: Benayadi, Sa{\"{i}}d and Oubba, Hassan
+  ENTRYTYPE: article
+  ID: BO
+SusKopLGPSO:
+  year: '1982'
+  volume: '20'
+  url: http://link.springer.com/10.1007/BF01681481
+  title: '{Quadratic modules and the orthogonal group over polynomial rings}'
+  pages: 2665--2691
+  number: '6'
+  language: english
+  journal: J. Sov. Math.
+  issn: 0090-4104
+  doi: 10.1007/BF01681481
+  author: Suslin, A. A. and Kopeiko, V. I.
+  ENTRYTYPE: article
+  ID: SusKopLGPSO
+ser13:
+  year: '2013'
+  volume: '93'
+  url: http://link.springer.com/10.1134/S000143461305012X
+  title: '{On the commutator nilpotency step of strictly {$(-1, 1)$}-algebras}'
+  pages: 756--762
+  number: 5-6
+  language: english
+  journal: Math. Notes
+  issn: 0001-4346
+  doi: 10.1134/S000143461305012X
+  author: Pchelintsev, S.
+  ENTRYTYPE: article
+  ID: ser13
+DIT:
+  year: '2011'
+  volume: '37'
+  title: '{Free bicommutative algebras}'
+  pages: 25--44
+  number: '1'
+  language: english
+  journal: Serdica Math. J.
+  author: Dzhumadil'daev, A. S. and Ismailov, N. A. and Tulenbaev, K. M.
+  ENTRYTYPE: article
+  ID: DIT
+vdkUniRows83:
+  year: '1983'
+  volume: '82'
+  url: https://linkinghub.elsevier.com/retrieve/pii/0021869383901588
+  title: '{A group structure on certain orbit sets of unimodular rows}'
+  pages: 363--397
+  number: '2'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/0021-8693(83)90158-8
+  author: van der Kallen, Wilberd
+  ENTRYTYPE: article
+  ID: vdkUniRows83
+DixonAffSch:
+  year: '1977'
+  volume: '29'
+  url: https://www.cambridge.org/core/product/identifier/S0008414X00024706/type/journal_article
+  title: '{Rigid Embedding of Simple Groups in the General Linear Group}'
+  pages: 384--391
+  number: '2'
+  language: english
+  journal: Can. J. Math.
+  issn: 0008-414X
+  doi: 10.4153/CJM-1977-041-0
+  author: Dixon, John D.
+  ENTRYTYPE: article
+  ID: DixonAffSch
+PreusserOUodd:
+  year: '2018'
+  volume: '21'
+  url: https://proxy.library.spbu.ru:2060/10.1515/jgth-2018-0011 https://www.degruyter.com/document/doi/10.1515/jgth-2018-0011/html
+  title: '{Sandwich classification for {$O_{2n+1}(R)$} and {$U_{2n+1}(R,\Delta)$}
+    revisited}'
+  pages: 539--571
+  number: '4'
+  language: english
+  journal: J. Gr. Theory
+  issn: 1435-4446
+  doi: 10.1515/jgth-2018-0011
+  author: Preusser, Raimund
+  ENTRYTYPE: article
+  ID: PreusserOUodd
+YouHongSp:
+  year: '2004'
+  volume: '282'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S002186930400420X
+  title: '{Overgroups of symplectic group in linear group over commutative rings}'
+  pages: 23--32
+  number: '1'
+  language: english
+  journal: J. Algebr.
+  issn: 00218693
+  doi: 10.1016/j.jalgebra.2004.07.036
+  author: You, Hong
+  ENTRYTYPE: article
+  ID: YouHongSp
+SeitReprLie:
+  year: '1988'
+  volume: '25'
+  url: https://doi.org/10.1007/BF00191934 http://link.springer.com/10.1007/BF00191934
+  title: '{Representations and maximal subgroups of finite groups of Lie type}'
+  pages: 391--406
+  number: 1-3
+  language: english
+  journal: Geom. Dedicata
+  issn: 0046-5755
+  doi: 10.1007/BF00191934
+  author: Seitz, Gary M.
+  annote: Geometries and groups (Noordwijkerhout, 1986)
+  ENTRYTYPE: article
+  ID: SeitReprLie
+PetDecomp:
+  year: '2016'
+  volume: '28'
+  url: http://www.ams.org/spmj/2017-28-01/S1061-0022-2016-01440-X/
+  title: '{Decomposition of transvections: An algebro-geometric approach}'
+  pages: 109--114
+  number: '1'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/spmj/1440
+  author: Petrov, V.
+  ENTRYTYPE: article
+  ID: PetDecomp
+LubStepSub:
+  year: '2021'
+  volume: '252'
+  url: http://link.springer.com/10.1007/s10958-021-05203-x
+  title: '{Subgroups of Chevalley Groups Over Rings}'
+  pages: 829--840
+  number: '6'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-021-05203-x
+  author: Lubkov, R. and Stepanov, A.
+  ENTRYTYPE: article
+  ID: LubStepSub
+HSVZyoga:
+  year: '2011'
+  volume: '179'
+  url: http://link.springer.com/10.1007/s10958-011-0617-y
+  title: '{The yoga of commutators}'
+  pages: 662--678
+  number: '6'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-011-0617-y
+  author: Hazrat, R. and Stepanov, A. V. and Vavilov, N. A. and Zhang, Z.
+  ENTRYTYPE: article
+  ID: HSVZyoga
+DemazureGabriel:
+  year: '1980'
+  volume: '39'
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0304020808X7077X
+  title: '{Introduction to Algebraic Geometry and Algebraic Groups}'
+  series: North-Holland Mathematics Studies
+  publisher: Elsevier
+  pages: '356'
+  language: english
+  isbn: '9780444854438'
+  doi: 10.1016/S0304-0208(08)X7077-X
+  author: Demazure, M. and Gabriel, P.
+  address: Amsterdam
+  ENTRYTYPE: book
+  ID: DemazureGabriel
+VavDecomp25:
+  year: '2016'
+  volume: '219'
+  url: http://rdcu.be/lOkk http://link.springer.com/10.1007/s10958-016-3111-8
+  title: '{Decomposition of unipotents for $\mathrm{E}_6$ and $\mathrm{E}_7$: 25 years
+    after}'
+  pages: 355--369
+  number: '3'
+  language: english
+  journal: J. Math. Sci.
+  issn: 1072-3374
+  doi: 10.1007/s10958-016-3111-8
+  author: Vavilov, N. A.
+  ENTRYTYPE: article
+  ID: VavDecomp25
+ChevalleyClassificationDG5658:
+  year: '1958'
+  title: '{S{\''{e}}minaire sur la classification des groupes de {L}ie alg{\''{e}}briques,
+    {I}, {II}}'
+  publisher: Ecole Norm. Sup., Paris
+  language: french
+  author: Chevalley, C.
+  ENTRYTYPE: book
+  ID: ChevalleyClassificationDG5658
+HazZhangMulti:
+  year: '2013'
+  volume: '195'
+  url: http://link.springer.com/10.1007/s11856-012-0135-8
+  title: '{Multiple commutator formulas}'
+  pages: 481--505
+  number: '1'
+  language: english
+  journal: Isr. J. Math.
+  issn: 0021-2172
+  doi: 10.1007/s11856-012-0135-8
+  author: Hazrat, Roozbeh and Zhang, Zuhong
+  ENTRYTYPE: article
+  ID: HazZhangMulti
+DemGabGrAl1:
+  year: '1970'
+  title: '{Groupes Algebriques Tome 1. Geometrie Algebrique - Generalites - Groupes
+    Commutatifs}'
+  publisher: North-Holland
+  pages: '700'
+  language: french
+  author: Demazure, M. and Gabriel, P.
+  ENTRYTYPE: book
+  ID: DemGabGrAl1
+CarterKellerZ:
+  year: '1984'
+  volume: '12'
+  url: http://www.tandfonline.com/doi/abs/10.1080/00927878408823008
+  title: '{Elementary expressions for unimodular matrices}'
+  pages: 379--389
+  number: '4'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927878408823008
+  author: Carter, David and Keller, Gordon
+  ENTRYTYPE: article
+  ID: CarterKellerZ
+StepDecomp:
+  year: '2017'
+  volume: '28'
+  url: http://arxiv.org/abs/1512.02299 http://www.ams.org/spmj/2017-28-03/S1061-0022-2017-01456-9/
+  title: '{A new look at the decomposition of unipotents and the normal structure
+    of Chevalley groups}'
+  pages: 411--419
+  number: '3'
+  language: english
+  journal: St. Petersbg. Math. J.
+  issn: 1061-0022
+  doi: 10.1090/spmj/1456
+  author: Stepanov, A.
+  ENTRYTYPE: article
+  ID: StepDecomp
+LuzPHDThesis:
+  year: '2008'
+  title: '{Overgroups of exceptional groups (in Russian)}'
+  publisher: SPbU, St. Petersburg
+  language: english
+  author: Luzgarev, A. Yu.
+  address: PhD Thesis
+  ENTRYTYPE: book
+  ID: LuzPHDThesis
+SanRitt2017:
+  year: '2017'
+  url: https://www.taylorfrancis.com/books/9781482239164
+  title: '{Actions and Invariants of Algebraic Groups}'
+  publisher: Chapman and Hall/CRC
+  language: english
+  isbn: '9781315118482'
+  doi: 10.1201/9781315118482
+  author: '{Ferrer Santos}, Walter Ricardo and Rittatore, Alvaro'
+  ENTRYTYPE: book
+  ID: SanRitt2017
+KS:
+  year: '2023'
+  url: http://arxiv.org/abs/2309.09503
+  title: '{Binary perm algebras and alternative algebras}'
+  language: english
+  eprint: '2309.09503'
+  author: Kunanbayev, A. and Sartayev, B. K.
+  arxivid: '2309.09503'
+  archiveprefix: arXiv
+  ENTRYTYPE: article
+  ID: KS
+BakNonabelian:
+  year: '1991'
+  volume: '4'
+  url: http://www.portico.org/Portico/article?article=pgg197gkjd1
+  title: '{Nonabelian {K}-theory: {T}he nilpotent class of {$\mathrm{K}_{1}$} and
+    general stability}'
+  pages: 363--397
+  number: '4'
+  language: english
+  journal: K-Theory
+  issn: '15730514'
+  doi: 10.1007/BF00533991
+  author: Bak, Anthony
+  ENTRYTYPE: article
+  ID: BakNonabelian
+V93:
+  year: '1993'
+  volume: '32'
+  url: http://link.springer.com/10.1007/BF02261691
+  title: '{Alternator ideal in weakly alternative rings}'
+  pages: 133--139
+  number: '3'
+  language: english
+  journal: Algebr. Log.
+  issn: 0002-5232
+  doi: 10.1007/BF02261691
+  author: Vakhitov, R. Kh.
+  ENTRYTYPE: article
+  ID: V93
+thedy78:
+  year: '1978'
+  volume: '72'
+  url: https://www.ams.org/proc/1978-072-03/S0002-9939-1978-0509228-1/
+  title: '{Right alternative algebras and Wedderburn principal theorem}'
+  pages: 427--435
+  number: '3'
+  language: english
+  journal: Proc. Am. Math. Soc.
+  issn: 0002-9939
+  doi: 10.1090/S0002-9939-1978-0509228-1
+  author: Thedy, Armin
+  ENTRYTYPE: article
+  ID: thedy78
+hnt:
+  year: '2025'
+  volume: '33'
+  title: '{Partially alternative algebras}'
+  pages: '9'
+  number: '1'
+  language: english
+  journal: Commun. Math.
+  issn: 2336-1298
+  author: Hua, T. and Napedenina, E. and Tvalavadze, M.
+  ENTRYTYPE: article
+  ID: hnt
+DI:
+  year: '2018'
+  volume: '46'
+  url: https://www.tandfonline.com/doi/full/10.1080/00927872.2018.1461890
+  title: '{Polynomial identities of bicommutative algebras, Lie and Jordan elements}'
+  pages: 5241--5251
+  number: '12'
+  language: english
+  journal: Commun. Algebr.
+  issn: 0092-7872
+  doi: 10.1080/00927872.2018.1461890
+  author: Dzhumadil'daev, Askar S. and Ismailov, Nurlan A.
+  ENTRYTYPE: article
+  ID: DI
+ShangZhiSL:
+  year: '1997'
+  title: '{{${\rm SL}(n,K)_L\otimes{\rm SL}(m,K)_R$} over a skewfield $K$}'
+  language: english
+  author: Li, Shang Zhi
+  ENTRYTYPE: unpublished
+  ID: ShangZhiSL
+DT:
+  year: '2003'
+  volume: '58'
+  url: https://www.mathnet.ru/eng/rm681
+  title: '{Bicommutative algebras}'
+  pages: 1196--1197
+  number: '6'
+  language: english
+  journal: Russ. Math. Surv.
+  issn: 0036-0279
+  doi: 10.1070/RM2003v058n06ABEH000681
+  author: Dzhumadil'daev, A S and Tulenbaev, K M
+  ENTRYTYPE: article
+  ID: DT
+LR78:
+  year: '1978'
+  volume: '76'
+  url: http://msp.org/pjm/1978/76-2/p17.xhtml
+  title: '{Scalar dependent algebras in the alternative sense}'
+  pages: 463--470
+  number: '2'
+  language: english
+  journal: Pacific J. Math.
+  issn: 0030-8730
+  doi: 10.2140/pjm.1978.76.463
+  author: Longman, Joyce and Rich, Michael
+  ENTRYTYPE: article
+  ID: LR78
+V94:
+  year: '1994'
+  volume: '56'
+  url: http://link.springer.com/10.1007/BF02274658
+  title: '{Associator-cyclic bimodules}'
+  pages: 1113--1115
+  number: '5'
+  language: english
+  journal: Math. Notes
+  issn: 0001-4346
+  doi: 10.1007/BF02274658
+  author: Vakhitov, R. Kh.
+  ENTRYTYPE: article
+  ID: V94

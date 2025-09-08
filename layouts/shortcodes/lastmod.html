@@ -1,0 +1,7 @@
+{{- $path := .Get "path" -}}
+{{- $file := printf "static/%s" $path -}}
+{{- with os.Stat $file -}}
+  [Last update: {{ .ModTime.Format "January 2, 2006" }}]
+{{- else -}}
+  <!-- file not found: {{ $file }} -->
+{{- end -}}

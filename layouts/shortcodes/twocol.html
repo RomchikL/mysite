@@ -1,0 +1,15 @@
+{{- $lines := split .Inner "\n" -}}
+<ul class="twocol">
+  {{- range $lines }}
+    {{- $line := trim . " \t\r\n" -}}
+    {{- if $line }}
+      {{- $parts := split $line "::" -}}
+      <li>
+        <span class="pos-left">{{ index $parts 0 | markdownify }}</span>
+        <span class="pos-right">
+          {{ if ge (len $parts) 2 }}{{ index $parts 1 | markdownify }}{{ end }}
+        </span>
+      </li>
+    {{- end }}
+  {{- end }}
+</ul>

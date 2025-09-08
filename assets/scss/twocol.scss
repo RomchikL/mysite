@@ -1,0 +1,11 @@
+.twocol {
+  list-style: disc;  
+  padding-left: 1.5rem;
+  display: grid;
+  grid-template-columns: max-content auto;
+  column-gap: 12px;
+}
+
+.twocol li {
+  display: contents;
+}

@@ -1,0 +1,62 @@
+{{- $lines := split .Inner "\n" -}}
+<table class="publist">
+  <tbody>
+  {{- $i := 0 -}}
+  {{- range $lines }}
+    {{- $line := trim . " \t\r\n" -}}
+    {{- if $line }}
+      {{- $i = add $i 1 -}}
+      {{- $parts := split $line "|" -}}
+
+      {{- $title := trim (index $parts 0) " " -}}
+      {{- $pdf   := cond (ge (len $parts) 2) (trim (index $parts 1) " ") "" -}}
+      {{- $doi   := cond (ge (len $parts) 3) (trim (index $parts 2) " ") "" -}}
+      {{- $arxiv := cond (ge (len $parts) 4) (trim (index $parts 3) " ") "" -}}
+      {{- $bibkey := cond (ge (len $parts) 5) (trim (index $parts 4) " ") "" -}}
+
+      {{/* --- BibTeX из data/english.yaml --- */}}
+      {{- $bibentry := "" -}}
+      {{- if $bibkey }}
+        {{- $entry := index site.Data.english $bibkey -}}
+        {{- if $entry }}
+          {{- $fields := slice
+            (printf "  author = {%s}" $entry.author)
+            (printf "  title = {%s}" $entry.title)
+            (printf "  journal = {%s}" $entry.journal)
+            (printf "  year = {%s}" $entry.year)
+            (printf "  volume = {%s}" $entry.volume)
+            (printf "  number = {%s}" $entry.number)
+            (printf "  pages = {%s}" $entry.pages)
+            (printf "  doi = {%s}" $entry.doi)
+          -}}
+          {{- $bibentry = printf "@%s{%s,\n%s\n}" $entry.ENTRYTYPE $bibkey (delimit $fields ",\n") -}}
+        {{- end }}
+      {{- end }}
+
+      <tr>
+        <td class="pub-num">{{ $i }}</td>
+        <td class="pub-title">{{ $title | markdownify }}</td>
+        <td class="pub-buttons">
+          <div class="btn-group">
+            {{- if $pdf }}
+              <a class="btn btn-pdf" href="{{ $pdf }}" target="_blank">PDF</a>
+            {{ else }} <span class="btn-placeholder"></span> {{ end }}
+
+            {{- if $doi }}
+              <a class="btn btn-doi" href="{{ $doi }}" target="_blank">DOI</a>
+            {{ else }} <span class="btn-placeholder"></span> {{ end }}
+
+            {{- if $arxiv }}
+              <a class="btn btn-arxiv" href="{{ $arxiv }}" target="_blank">ArXiv</a>
+            {{ else }} <span class="btn-placeholder"></span> {{ end }}
+
+            {{- if $bibentry }}
+              <button class="btn btn-bibtex" data-bib="{{ $bibentry }}">BibTeX</button>
+            {{ else }} <span class="btn-placeholder"></span> {{ end }}
+          </div>
+        </td>
+      </tr>
+    {{- end }}
+  {{- end }}
+  </tbody>
+</table>

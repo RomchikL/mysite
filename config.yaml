@@ -18,12 +18,13 @@ indexes:
 
 params:
   author: Роман Лубков
-  # custom_css: ["css/custom.css"]
-  # customCSS: []
+  # custom_css: ["css/custom.css"] # берёт готовые .css из static/css/
+  # customCSS: [""]
   # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-  # customSCSS: ["scss/_variables.scss"]
+  customSCSS: ["scss/custom.scss", "scss/twocol.scss"]
   # Custom remote JS files
   # customRemoteJS = []
+  customJS: ["js/bibtex.js"]
   colorScheme: "auto"
 #  commit: "https://github.com/RomchikL/mysite/tree"
   since: 2023

@@ -33,6 +33,9 @@
       {{ if (and .Site.Params.commit .GitInfo) }}
         [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
       {{ end }}
+<!--      {{ if and .Lastmod (not .IsHome) }}
+        <span class="lastmod">{{ i18n "last_updated" }}: {{ .Lastmod.Format "2006-01-02" }}</span>
+      {{ end }} -->
     </div>
     </div>
     </section>
