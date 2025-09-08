@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/</link><description>Recent content on Home</description><generator>Hugo</generator><language>ru</language><lastBuildDate>Mon, 08 Sep 2025 11:15:12 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://lubkov.spbu.ru/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/students/</guid><description>&lt;h2 id="студентам">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/</link><description>Recent content on Home</description><generator>Hugo</generator><language>ru</language><lastBuildDate>Mon, 08 Sep 2025 13:46:43 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://lubkov.spbu.ru/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/students/</guid><description>&lt;h2 id="студентам">
  Студентам
  &lt;a class="heading-link" href="#%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%b0%d0%bc">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Ссылка на заголовок">&lt;/i>
@@ -10,8 +10,6 @@
 &lt;li>&lt;a href="https://lubkov.spbu.ru/courses/teach/25b08-mcs" >Для группы 25.Б08-мкн, алгебра, осень 2025&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://lubkov.spbu.ru/courses/teach/25b10-mcs" >Для группы 25.Б10-мкн, алгебра, осень 2025&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://lubkov.spbu.ru/courses/teach/25b11-mcs" >Для группы 25.Б11-мкн, алгебра, осень 2025&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://lubkov.spbu.ru/courses/lie-algebras2024" >Семинар &amp;ldquo;Алгебры Ли&amp;rdquo;&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://lubkov.spbu.ru/courses/alggroups" >Семинар &amp;ldquo;Алгебраические группы над кольцами&amp;rdquo;&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="архив">
  Архив
@@ -21,6 +19,8 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://lubkov.spbu.ru/archive/courses/lie-algebras-spring2024" >Семинар &amp;ldquo;Алгебры Ли&amp;rdquo;, весна 2024-весна 2025&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lubkov.spbu.ru/archive/courses/alggroups-fall2024" >Семинар &amp;ldquo;Алгебраические группы над кольцами&amp;rdquo;, осень-весна 2024/25&lt;/a>&lt;/li>
 &lt;li>24.Б10-мкн, Алгебра, &lt;a href="https://lubkov.spbu.ru/archive/teach/24b10-mcs-fall2024" >осень 2024&lt;/a>, &lt;a href="https://lubkov.spbu.ru/archive/teach/24b10-mcs-spring2025" >весна 2025.&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://lubkov.spbu.ru/archive/courses/chevalley-spring2025" >Спецкурс &amp;ldquo;Группы Шевалле над кольцами&amp;rdquo;, весна 2025&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Роман Лубков</title><link>https://lubkov.spbu.ru/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/about/</guid><description>&lt;p>Кратко обо мне написано на &lt;a href="https://lubkov.spbu.ru/en/about/" >английской версии этой страницы&lt;/a>.
