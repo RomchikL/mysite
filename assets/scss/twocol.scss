@@ -1,5 +1,5 @@
 .twocol {
-  list-style: disc;  
+  list-style: disc;
   padding-left: 1.5rem;
   display: grid;
   grid-template-columns: max-content auto;
@@ -8,4 +8,28 @@
 
 .twocol li {
   display: contents;
+}
+
+/* для мобильных */
+@media (max-width: 768px) {
+  .twocol {
+    display: block; 
+    padding-left: 1rem;
+  }
+
+  .twocol li {
+    display: block;
+    margin-bottom: 0.8rem; /* расстояние между записями */
+  }
+
+  .twocol .pos-left {
+    font-weight: bold;
+    display: block; 
+    margin-bottom: 0.2rem;
+  }
+
+  .twocol .pos-right {
+    display: block; 
+    margin-left: 1rem; 
+  }
 }
