@@ -17,6 +17,9 @@ topics = []
 
 По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по вторникам в кабинете 225 на 14 линии ВО 29.
 
+### Материалы курса
+ 1. [LMS emkn](https://emkn.ru/courses/2025-autumn/2.252-algebra-1/)
+
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
 
 
