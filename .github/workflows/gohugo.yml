@@ -32,7 +32,7 @@ jobs: # jobs запускаются параллельно, если не ука
           echo "pdf_lastmod:" > data/lastmod.yaml
           for f in static/**/*.pdf; do
             filename=$(basename "$f")
-            filedate=$(date -r "$f" "+%Y-%m-%d")
+            filedate=$(git log -1 --format="%ad" --date=short -- "$f")
             echo "  $filename: \"$filedate\"" >> data/lastmod.yaml
           done
           cat data/lastmod.yaml
