@@ -7,7 +7,10 @@
   {{- if $yaml }}
     {{- $fileName := (split $path "/") | last -}}
     {{- with index $yaml $fileName -}}
-      {{- $modTime = time.Parse "2006-01-02" . -}}
+      {{- $parsedTime, $err := time.Parse "2006-01-02" . -}}
+      {{- if not $err -}}
+        {{- $modTime = $parsedTime -}}
+      {{- end -}}
     {{- else -}}
       {{- with os.Stat $file -}}
         {{- $modTime = .ModTime -}}
