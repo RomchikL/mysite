@@ -6,7 +6,9 @@
   {{- $yaml := site.Data.pdf_lastmod -}}
   
   {{- if $yaml -}}
-    {{- $fileName := (first (last (split $path "/") 1)) -}}
+    {{- $parts := split $path "/" -}}
+    {{- $lastPartArray := last $parts 1 -}}
+    {{- $fileName := first $lastPartArray 1 -}}
     {{- with index $yaml $fileName -}}
       {{- $parsed := time.Parse "2006-01-02" . -}}
       {{- with $parsed -}}
@@ -42,8 +44,6 @@
   {{- $month := index (index $months $lang) ($modTime.Format "January") -}}
   {{- $day := $modTime.Format "2" -}}
   {{- $year := $modTime.Format "2006" -}}
-
-  {{- printf "DEBUG: %v" site.Data.pdf_lastmod | safeHTML -}}
   
   {{- if eq $lang "ru" -}}
     <span class="lastmod">({{ i18n "last_updated" }}: {{ $day }} {{ $month }} {{ $year }})</span>
