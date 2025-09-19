@@ -43,6 +43,8 @@
   {{- $day := $modTime.Format "2" -}}
   {{- $year := $modTime.Format "2006" -}}
 
+  {{- printf "DEBUG: %v" site.Data.pdf_lastmod | safeHTML -}}
+  
   {{- if eq $lang "ru" -}}
     <span class="lastmod">({{ i18n "last_updated" }}: {{ $day }} {{ $month }} {{ $year }})</span>
   {{- else -}}

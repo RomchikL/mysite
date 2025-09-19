@@ -26,16 +26,17 @@ jobs: # jobs запускаются параллельно, если не ука
 #        run: git submodule update --init --recursive
 
 
-      - name: 📄 Generate lastmod.yaml
+      - name: 📄 Generate pdf_lastmod.yaml
         run: |
           mkdir -p data
-          echo "pdf_lastmod:" > data/lastmod.yaml
+          echo "pdf_lastmod:" > data/pdf_lastmod.yaml
           for f in static/**/*.pdf; do
             filename=$(basename "$f")
             filedate=$(git log -1 --format="%ad" --date=short -- "$f")
-            echo "  $filename: \"$filedate\"" >> data/lastmod.yaml
+            echo "  $filename: \"$filedate\"" >> data/pdf_lastmod.yaml
           done
-          cat data/lastmod.yaml
+          cat data/pdf_lastmod.yaml
+          ls -R data
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v3
