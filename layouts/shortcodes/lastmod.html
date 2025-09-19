@@ -4,12 +4,13 @@
 {{- if $path -}}
   {{- $file := printf "static/%s" $path -}}
   {{- $yaml := site.Data.pdf_lastmod -}}
-  {{- if $yaml }}
+  
+  {{- if $yaml -}}
     {{- $fileName := (split $path "/") | last -}}
     {{- with index $yaml $fileName -}}
-      {{- $parsedTime, $err := time.Parse "2006-01-02" . -}}
-      {{- if not $err -}}
-        {{- $modTime = $parsedTime -}}
+      {{- $parsed := time.Parse "2006-01-02" . -}}
+      {{- with $parsed -}}
+        {{- $modTime = . -}}
       {{- end -}}
     {{- else -}}
       {{- with os.Stat $file -}}
@@ -21,6 +22,7 @@
       {{- $modTime = .ModTime -}}
     {{- end -}}
   {{- end -}}
+
 {{- else if .Page.Lastmod -}}
   {{- $modTime = .Page.Lastmod -}}
 {{- end -}}
