@@ -26,17 +26,16 @@ jobs: # jobs запускаются параллельно, если не ука
 #        run: git submodule update --init --recursive
 
 
-      - name: Generate lastmod YAML for static files
+      - name: 📄 Generate lastmod.yaml
         run: |
-          mkdir -p data/lastmod
-          # Проходим по PDF-файлам в static
+          mkdir -p data
+          echo "pdf_lastmod:" > data/lastmod.yaml
           for f in static/**/*.pdf; do
-            # заменяем / на _ для имени YAML
-            yaml_file="data/lastmod/${f//\//_}.yaml"
-            # берём дату последнего коммита для файла
-            mod_date=$(git log -1 --format="%ci" -- "$f" | cut -d' ' -f1)
-            echo "date: \"$mod_date\"" > "$yaml_file"
+            filename=$(basename "$f")
+            filedate=$(date -r "$f" "+%Y-%m-%d")
+            echo "  $filename: \"$filedate\"" >> data/lastmod.yaml
           done
+          cat data/lastmod.yaml
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v3
@@ -66,6 +65,17 @@ jobs: # jobs запускаются параллельно, если не ука
           remote_key: ${{ secrets.SSH_KEY }}
           remote_path: ${{ secrets.DEST_PATH }}
           path: ./public/
+
+      - name: 📄 Upload lastmod.yaml separately
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avzr
+          remote_host: lubkov.spbu.ru
+          remote_port: ${{ secrets.SSH_PORT }}
+          remote_user: ${{ secrets.REM_USER }}
+          remote_key: ${{ secrets.SSH_KEY }}
+          remote_path: ${{ secrets.DEST_PATH }}/data
+          path: ./data/
 
 #       website on spbu hosting
 #      - name: Set up WireGuard Connection
