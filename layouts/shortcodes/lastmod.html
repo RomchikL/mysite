@@ -6,7 +6,7 @@
   {{- $yaml := site.Data.pdf_lastmod -}}
   
   {{- if $yaml -}}
-    {{- $fileName := (split $path "/") | last -}}
+    {{- $fileName := (first (last (split $path "/") 1)) -}}
     {{- with index $yaml $fileName -}}
       {{- $parsed := time.Parse "2006-01-02" . -}}
       {{- with $parsed -}}
