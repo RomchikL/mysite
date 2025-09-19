@@ -1,11 +1,37 @@
 {{- $path := .Get "path" -}}
-{{- if $path }}
+{{- $modTime := now -}} {{/* По умолчанию текущее время */}}
+
+{{- if $path -}}
   {{- $file := printf "static/%s" $path -}}
-  {{- with os.Stat $file }}
-    {{- printf " <span class=\"lastmod\">(%s: %s)</span>" (i18n "last_updated") (.ModTime.Format "January 2, 2006") | safeHTML -}}
+  {{- with os.Stat $file -}}
+    {{- $modTime = .ModTime -}}
+  {{- end -}}
+{{- else if .Page.Lastmod -}}
+  {{- $modTime = .Page.Lastmod -}}
+{{- end -}}
+
+{{- if $modTime -}}
+  {{- $lang := .Page.Language.Lang -}}
+
+  {{- /* словарь месяцев */ -}}
+  {{- $months := dict
+      "en" (dict "January" (i18n "January") "February" (i18n "February") "March" (i18n "March")
+                 "April" (i18n "April") "May" (i18n "May") "June" (i18n "June")
+                 "July" (i18n "July") "August" (i18n "August") "September" (i18n "September")
+                 "October" (i18n "October") "November" (i18n "November") "December" (i18n "December"))
+      "ru" (dict "January" (i18n "January") "February" (i18n "February") "March" (i18n "March")
+                 "April" (i18n "April") "May" (i18n "May") "June" (i18n "June")
+                 "July" (i18n "July") "August" (i18n "August") "September" (i18n "September")
+                 "October" (i18n "October") "November" (i18n "November") "December" (i18n "December"))
+  -}}
+
+  {{- $month := index (index $months $lang) ($modTime.Format "January") -}}
+  {{- $day := $modTime.Format "2" -}}
+  {{- $year := $modTime.Format "2006" -}}
+
+  {{- if eq $lang "ru" -}}
+    <span class="lastmod">({{ i18n "last_updated" }}: {{ $day }} {{ $month }} {{ $year }})</span>
   {{- else -}}
-    <!-- file not found: {{ $file }} -->
-  {{- end }}
-{{- else if .Page.Lastmod }}
-  {{- printf " <span class=\"lastmod\">(%s: %s)</span>" (i18n "last_updated") (.Page.Lastmod.Format "January 2, 2006") | safeHTML -}}
+    <span class="lastmod">({{ i18n "last_updated" }}: {{ $month }} {{ $day }}, {{ $year }})</span>
+  {{- end -}}
 {{- end -}}

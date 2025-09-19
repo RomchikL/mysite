@@ -69,3 +69,29 @@ other = "Санкт-Петербургский государственный у
 
 [last_updated]
 other = "Обновлено"
+
+
+[January]
+other = "января"
+[February]
+other = "февраля"
+[March]
+other = "марта"
+[April]
+other = "апреля"
+[May]
+other = "мая"
+[June]
+other = "июня"
+[July]
+other = "июля"
+[August]
+other = "августа"
+[September]
+other = "сентября"
+[October]
+other = "октября"
+[November]
+other = "ноября"
+[December]
+other = "декабря"
