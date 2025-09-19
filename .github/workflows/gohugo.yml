@@ -25,6 +25,19 @@ jobs: # jobs запускаются параллельно, если не ука
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
 #        run: git submodule update --init --recursive
 
+
+      - name: Generate lastmod YAML for static files
+        run: |
+          mkdir -p data/lastmod
+          # Проходим по PDF-файлам в static
+          for f in static/**/*.pdf; do
+            # заменяем / на _ для имени YAML
+            yaml_file="data/lastmod/${f//\//_}.yaml"
+            # берём дату последнего коммита для файла
+            mod_date=$(git log -1 --format="%ci" -- "$f" | cut -d' ' -f1)
+            echo "date: \"$mod_date\"" > "$yaml_file"
+          done
+
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v3
         with:
