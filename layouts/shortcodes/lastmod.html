@@ -1,12 +1,19 @@
 {{- $path := .Get "path" -}}
-{{- $modTime := now -}} {{/* По умолчанию текущее время */}}
+{{- $modTime := now -}}
 
 {{- if $path -}}
-  {{- $yamlFile := printf "data/lastmod/%s.yaml" $path -}}
-  {{- with site.Data.lastmod (replace $path "/" "_") }} {{/* Попытка взять дату из YAML */}}
-    {{- $modTime = time.ParseInLocation "2006-01-02" .date "Local" -}}
+  {{- $file := printf "static/%s" $path -}}
+  {{- $yaml := site.Data.pdf_lastmod -}}
+  {{- if $yaml }}
+    {{- $fileName := (split $path "/") | last -}}
+    {{- with index $yaml $fileName -}}
+      {{- $modTime = time.Parse "2006-01-02" . -}}
+    {{- else -}}
+      {{- with os.Stat $file -}}
+        {{- $modTime = .ModTime -}}
+      {{- end -}}
+    {{- end -}}
   {{- else -}}
-    {{- $file := printf "static/%s" $path -}}
     {{- with os.Stat $file -}}
       {{- $modTime = .ModTime -}}
     {{- end -}}
