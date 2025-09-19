@@ -7,8 +7,7 @@
   
   {{- if $yaml -}}
     {{- $parts := split $path "/" -}}
-    {{- $lastPartArray := last $parts 1 -}}
-    {{- $fileName := first $lastPartArray 1 -}}
+    {{- $fileName := index $parts (sub (len $parts) 1) -}}
     {{- with index $yaml $fileName -}}
       {{- $parsed := time.Parse "2006-01-02" . -}}
       {{- with $parsed -}}
