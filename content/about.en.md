@@ -71,7 +71,7 @@ St. Petersburg University
 {{< publist >}}
 R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the exterior square of the elementary subgroup* (preprint) |  |  |  | LubStepSubE
 
-H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of right alternative and semi-alternative algebras* (preprint) |  |  | https://arxiv.org/abs/2505.00720 | AbLuKa25
+H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of right alternative and semi-alternative algebras*, J. Algebr., vol. 687, no. 1, pp. 792-–824 |  | https://doi.org/10.1016/j.jalgebra.2025.09.019 | https://arxiv.org/abs/2505.00720 | AbLuKa25
 
 K. Abdurasulov, R. Lubkov, A. Saydaliyev, *The algebraic and geometric classification of Jordan superalgebras*, Sib. Electron. Math. Reports, vol. 22, no. 1, pp. 813–852, 2025 | https://math-semr.ru/sites/math-semr.ru/files/2025-07/p0813-0852.pdf | https://doi.org/10.33048/semi.2025.22.052 | https://arxiv.org/abs/2501.16351 | AbLuSa25
 
