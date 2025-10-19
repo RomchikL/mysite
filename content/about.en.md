@@ -17,6 +17,7 @@ Research databases: :: [ResearcherID](https://www.researcherid.com/rid/G-2203-20
 {{< twocol >}}
 since 2025: :: Assistant professor, Mathematics and Computer Science Department, St. Petersburg University
 since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
+since 2025: :: Prime instructor, St. Petersburg Center for Artificial Intelligence and Information Technologies
 {{< /twocol >}}
 
 
@@ -70,6 +71,8 @@ St. Petersburg University
 
 {{< publist >}}
 R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the exterior square of the elementary subgroup* (preprint) |  |  |  | LubStepSubE
+
+H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of $\delta$-Novikov algebras*  (preprint) |  |  |  | AbLuKadelta
 
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of right alternative and semi-alternative algebras*, J. Algebr., vol. 687, no. 1, pp. 792–824 |  | https://doi.org/10.1016/j.jalgebra.2025.09.019 | https://arxiv.org/abs/2505.00720 | AbLuKa25
 
