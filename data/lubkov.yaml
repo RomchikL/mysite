@@ -2,7 +2,7 @@ LubReverse2:
   ENTRYTYPE: article
   author: Lubkov, Roman
   title: '{The reverse decomposition of unipotents for bivectors}'
-  journal: Communications in Algebra
+  journal: Commun. Algebr.
   year: '2021'
   volume: '49'
   number: '10'
@@ -23,7 +23,7 @@ LubNek-OverNorm:
   ENTRYTYPE: article
   author: Lubkov, Roman and Nekrasov, Ilia
   title: '{Overgroups of exterior powers of an elementary group. Normalizers}'
-  journal: Documenta Mathematica
+  journal: Doc. Math.
   year: '2024'
   volume: '29'
   number: '5'
@@ -33,7 +33,7 @@ LubStepSub:
   ENTRYTYPE: article
   author: Lubkov, R. and Stepanov, A.
   title: '{Subgroups of Chevalley Groups Over Rings}'
-  journal: Journal of Mathematical Sciences
+  journal: J. Math. Sci.
   year: '2021'
   volume: '252'
   number: '6'
@@ -43,7 +43,7 @@ LubReversem:
   ENTRYTYPE: article
   author: Lubkov, R.
   title: '{The reverse decomposition of unipotens in polyvector representations}'
-  journal: Journal of Mathematical Sciences
+  journal: J. Math. Sci.
   year: '2022'
   volume: '513'
   number: ''
@@ -53,7 +53,7 @@ LubNek18:
   ENTRYTYPE: article
   author: Lubkov, R. A. and Nekrasov, I. I.
   title: '{Explicit Equations for Exterior Square of the General Linear Group}'
-  journal: Journal of Mathematical Sciences
+  journal: J. Math. Sci.
   year: '2019'
   volume: '243'
   number: '4'
@@ -63,7 +63,7 @@ LubNek-OverI:
   ENTRYTYPE: article
   author: Lubkov, Roman and Nekrasov, Ilia
   title: '{Overgroups of exterior powers of an elementary group. Levels}'
-  journal: Linear and Multilinear Algebra
+  journal: Linear Multilinear Algebr.
   year: '2022'
   volume: '72'
   number: '4'
@@ -73,7 +73,7 @@ LubObzor:
   ENTRYTYPE: article
   author: Lubkov, Roman
   title: '{Overgroups of elementary groups in polyvector representations}'
-  journal: Journal of Mathematical Sciences
+  journal: J. Math. Sci.
   year: '2024'
   volume: '531'
   number: ''
@@ -84,7 +84,7 @@ AbLuKa25:
   author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
   title: '{The algebraic and geometric classification of right alternative and semi-alternative
     algebras}'
-  journal: Journal of Algebra
+  journal: J. Algebr.
   year: '2026'
   volume: '687'
   number: '1'
@@ -94,9 +94,19 @@ AbLuSa25:
   ENTRYTYPE: article
   author: Abdurasulov, Kobiljon and Lubkov, Roman and Saydaliyev, Azamat
   title: '{The algebraic and geometric classification of Jordan superalgebras}'
-  journal: Siberian Electronic Mathematical Reports
+  journal: Sib. Electron. Math. Reports
   year: '2025'
   volume: '22'
   number: '1'
   pages: 813--852
   doi: 10.33048/semi.2025.22.052
+AbLuKadeltaNov25:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: 'The algebraic and geometric classification of $\delta$-Novikov algebras}'
+  journal: Bolet{\'{i}}n la Soc. Matem{\'{a}}tica Mex.
+  year: '2025'
+  volume: ''
+  number: ''
+  pages: ''
+  doi: ''
