@@ -8,8 +8,8 @@ author = "Roman Lubkov"
 
 
 {{< twocol >}}
-Curriculum Vitae: :: [pdf](https://lubkov.spbu.ru/CV/cv.pdf) {{< lastmod path="CV/cv.pdf" >}}
-List of Publications: :: [pdf](https://lubkov.spbu.ru/CV/publ.pdf) {{< lastmod path="CV/publ.pdf" >}}
+Curriculum Vitae: :: [pdf](https://lubkov.spbu.ru/CV/cv.pdf) {{< lastmod path="cv.pdf" >}}
+List of Publications: :: [pdf](https://lubkov.spbu.ru/CV/publ.pdf) {{< lastmod path="publ.pdf" >}}
 Research databases: :: 
 {{< /twocol >}}
 {{< mathDBlist >}} 

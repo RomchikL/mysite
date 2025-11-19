@@ -1,52 +1,45 @@
 {{- $path := .Get "path" -}}
-{{- $modTime := now -}}
+{{- $lang := .Page.Language.Lang -}}
+
+{{- $day := "" -}}
+{{- $monthName := "" -}}
+{{- $year := "" -}}
 
 {{- if $path -}}
-  {{- $file := printf "static/%s" $path -}}
-  {{- $yaml := site.Data.pdf_lastmod -}}
-  
-  {{- if $yaml -}}
-    {{- $parts := split $path "/" -}}
-    {{- $fileName := index $parts (sub (len $parts) 1) -}}
-    {{- with index $yaml $fileName -}}
-      {{- $parsed := time.Parse "2006-01-02" . -}}
-      {{- with $parsed -}}
-        {{- $modTime = . -}}
-      {{- end -}}
-    {{- else -}}
-      {{- with os.Stat $file -}}
-        {{- $modTime = .ModTime -}}
-      {{- end -}}
-    {{- end -}}
-  {{- else -}}
-    {{- with os.Stat $file -}}
-      {{- $modTime = .ModTime -}}
+  {{- with site.Data.pdf_lastmod -}}
+    {{- with index . "pdf_lastmod" $path -}}
+      {{- $splitDate := split . "-" -}}
+      {{- $year = index $splitDate 0 -}}
+      {{- $monthNum := index $splitDate 1 -}}
+      {{- $day = index $splitDate 2 -}}
+
+      {{- $monthName = index (dict 
+        "01" "January" "02" "February" "03" "March" "04" "April" 
+        "05" "May" "06" "June" "07" "July" "08" "August" 
+        "09" "September" "10" "October" "11" "November" "12" "December") $monthNum -}}
     {{- end -}}
   {{- end -}}
-
 {{- else if .Page.Lastmod -}}
-  {{- $modTime = .Page.Lastmod -}}
+  {{- $modTime := .Page.Lastmod -}}
+  {{- $monthName = $modTime.Format "January" -}}
+  {{- $day = $modTime.Format "2" -}}
+  {{- $year = $modTime.Format "2006" -}}
 {{- end -}}
 
-{{- if $modTime -}}
-  {{- $lang := .Page.Language.Lang -}}
-  {{- $months := dict
+{{- if and $day $year $monthName -}}
+  {{- $localizedMonth := index (dict
       "en" (dict "January" "January" "February" "February" "March" "March"
-                 "April" "April" "May" "May" "June" "June"
-                 "July" "July" "August" "August" "September" "September"
-                 "October" "October" "November" "November" "December" "December")
+                  "April" "April" "May" "May" "June" "June" "July" "July"
+                  "August" "August" "September" "September" "October" "October"
+                  "November" "November" "December" "December")
       "ru" (dict "January" "января" "February" "февраля" "March" "марта"
-                 "April" "апреля" "May" "мая" "June" "июня"
-                 "July" "июля" "August" "августа" "September" "сентября"
-                 "October" "октября" "November" "ноября" "December" "декабря")
-  -}}
-  {{- $month := index (index $months $lang) ($modTime.Format "January") -}}
-  {{- $day := $modTime.Format "2" -}}
-  {{- $year := $modTime.Format "2006" -}}
-  
+                  "April" "апреля" "May" "мая" "June" "июня" "July" "июля"
+                  "August" "августа" "September" "сентября" "October" "октября"
+                  "November" "ноября" "December" "декабря")) $lang $monthName -}}
+
   {{- if eq $lang "ru" -}}
-    <span class="lastmod">({{ i18n "last_updated" }}: {{ $day }} {{ $month }} {{ $year }})</span>
+    <span class="lastmod">({{ i18n "last_updated" }}: {{ $day }} {{ $localizedMonth }} {{ $year }})</span>
   {{- else -}}
-    <span class="lastmod">({{ i18n "last_updated" }}: {{ $month }} {{ $day }}, {{ $year }})</span>
+    <span class="lastmod">({{ i18n "last_updated" }}: {{ $localizedMonth }} {{ $day }}, {{ $year }})</span>
   {{- end -}}
 {{- end -}}
