@@ -1,0 +1,28 @@
+/* Стили для блока с Research databases */
+.research-databases {
+  display: grid;
+  grid-template-columns: 38rem 1fr; /* Две колонки: первая с фиксированной шириной, вторая — с оставшейся */
+  gap: 0px; /* Отступ между колонками */
+  margin-top: -25px; /* Отступ сверху */
+  margin-bottom: 10px; /* Отступ снизу */
+  padding-left: 19rem; /* Фиксированный отступ слева для сдвига списка */
+}
+
+.research-databases .db-item {
+  display: grid;
+  grid-template-columns: 8.5em 1fr; /* Одна колонка для ключа, другая для значения */
+  gap: 10px; /* Отступ между колонками в каждой строке */
+}
+
+.research-databases .db-value {
+  margin-left: 0rem; /* Отступ между ключом и значением */
+}
+
+.research-databases .db-item p {
+  margin: 0;
+}
+
+.research-databases .db-item .db-value span {
+  display: inline-block;
+  text-align: left; /* Выравнивание значения по левому краю */
+}

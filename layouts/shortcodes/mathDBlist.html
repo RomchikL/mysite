@@ -1,0 +1,20 @@
+{{- $databases := .Inner -}}
+
+<!-- Разделяем строки и выводим их с нужным отступом -->
+<div class="research-databases">
+  {{- $lines := split $databases "\n" -}} <!-- Разделяем строки -->
+  {{- range $lines }}
+    {{- $line := trim . " \t\r\n" -}} <!-- Убираем лишние пробелы -->
+    {{- if $line }}
+      {{- $parts := split $line "::" -}} <!-- Разделяем на ключ и значение -->
+      <div class="db-item">
+        <div class="db-key">
+          <strong>{{ index $parts 0 | markdownify }}:</strong>
+        </div>
+        <div class="db-value">
+          <span>{{ if ge (len $parts) 2 }}{{ index $parts 1 | markdownify }}{{ end }}</span>
+        </div>
+      </div>
+    {{- end }}
+  {{- end }}
+</div>
