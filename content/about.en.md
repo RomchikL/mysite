@@ -12,7 +12,6 @@ Curriculum Vitae: :: [pdf](https://lubkov.spbu.ru/CV/cv.pdf) {{< lastmod path="C
 List of Publications: :: [pdf](https://lubkov.spbu.ru/CV/publ.pdf) {{< lastmod path="CV/publ.pdf" >}}
 Research databases: :: 
 {{< /twocol >}}
-
 {{< mathDBlist >}} 
   MathSciNet:: [1300797](https://mathscinet.ams.org/mathscinet/author?authorId=1300797)
   zbMATH:: [lubkov.roman-a](https://zbmath.org/authors/lubkov.roman-a)

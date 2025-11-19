@@ -26,3 +26,38 @@
   display: inline-block;
   text-align: left; /* Выравнивание значения по левому краю */
 }
+
+
+
+/* для мобильных */
+@media (max-width: 768px) {
+  .research-databases {
+    display: block; /* Делаем один столбец для мобильных */
+    padding-left: 2rem; /* отступ слева */
+    margin-top: -10px; /* Убираем дополнительный отступ сверху */
+  }
+
+  .research-databases .db-item {
+    display: flex; /* Используем flex для удобного размещения элементов */
+    flex-wrap: wrap; /* Разрешаем перенос элементов */
+    margin-bottom: 0rem; /* Убираем слишком большой отступ между строками */
+  }
+
+  .research-databases .db-key {
+    width: 13rem; /* Устанавливаем фиксированную ширину для ключа */
+    font-weight: normal; /* Убираем жирный шрифт */
+    margin-right: 1rem; /* Отступ между ключом и значением */
+    text-align: left; /* Выравнивание по левому краю */
+    white-space: nowrap; /* Чтобы ключ не переносился на новую строку */
+  }
+
+  .research-databases .db-value {
+    flex-grow: 1; /* Значение будет занимать оставшееся пространство */
+    text-align: left; /* Выравнивание значения по левому краю */
+    margin-left: 0; /* Убираем отступ слева */
+  }
+
+  .research-databases .db-item p {
+    margin: 0; /* Убираем отступы в блоках */
+  }
+}
