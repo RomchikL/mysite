@@ -10,8 +10,9 @@
 
 .research-databases .db-item {
   display: grid;
-  grid-template-columns: 8.5em 1fr; /* Одна колонка для ключа, другая для значения */
+  grid-template-columns: 9.0em 1fr; /* Одна колонка для ключа, другая для значения */
   gap: 10px; /* Отступ между колонками в каждой строке */
+  margin-bottom: -8px; /* Отрицательный маргин для уменьшения отступов между элементами */
 }
 
 .research-databases .db-value {

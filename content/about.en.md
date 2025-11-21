@@ -15,12 +15,21 @@ Research databases: ::
 {{< mathDBlist >}} 
   MathSciNet:: [1300797](https://mathscinet.ams.org/mathscinet/author?authorId=1300797)
   zbMATH:: [lubkov.roman-a](https://zbmath.org/authors/lubkov.roman-a)
+
   ArXiv:: [lubkov_r_1](https://arxiv.org/a/lubkov_r_1.html)
+  ORCID:: [0000-0002-6478-5738](https://orcid.org/0000-0002-6478-5738)
+
   ResearcherID:: [G-2203-2018](https://www.researcherid.com/rid/G-2203-2018)
   ResearchGate:: [Roman-Lubkov](https://www.researchgate.net/profile/Roman-Lubkov)
-  ORCID:: [0000-0002-6478-5738](https://orcid.org/0000-0002-6478-5738)
-  SPIN:: [976461](https://www.elibrary.ru/author_profile.asp?authorid=976461)
+
+  Elibrary AuthorID:: [976461](https://www.elibrary.ru/author_profile.asp?authorid=976461)
+  Elibrary SPIN:: [9168-8549](https://elibrary.ru/author_profile.asp?spin=91688549)
+
+  Math-Net:: [124574](https://www.mathnet.ru/php/person.phtml?personid=124574&option_lang=eng)
+  Google Scholar:: [HvjReaEAAAAJ](https://scholar.google.com/citations?user=HvjReaEAAAAJ&hl=en)
+  
   Scopus AuthorID:: [57211688585](https://www.scopus.com/authid/detail.uri?authorId=57211688585)
+
 {{< /mathDBlist >}}
 
 
