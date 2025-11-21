@@ -103,11 +103,11 @@ H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classifica
 
 K. Abdurasulov, R. Lubkov, A. Saydaliyev, *The algebraic and geometric classification of Jordan superalgebras*, Sib. Electron. Math. Reports, vol. 22, no. 1, pp. 813–852, 2025 | https://math-semr.ru/sites/math-semr.ru/files/2025-07/p0813-0852.pdf | https://doi.org/10.33048/semi.2025.22.052 | https://arxiv.org/abs/2501.16351 | AbLuSa25
 
+R. Lubkov, *The reverse decomposition of unipotens in polyvector representations*, J. Math. Sci., vol. 288, no. 3, pp. 350–361, 2025 | https://link.springer.com/content/pdf/10.1007/s10958-025-07703-6.pdf | https://doi.org/10.1007/s10958-025-07703-6 |  | LubReversem
+
+R. Lubkov, *Overgroups of elementary groups in polyvector representations* (Russian), J. Math. Sci., vol. 531, pp. 101–116, 2024 | http://ftp.pdmi.ras.ru/pub/publicat/znsl/v531/p101.pdf | | | LubObzor
+
 R. Lubkov and I. Nekrasov, *Overgroups of exterior powers of an elementary group. Normalizers*, Doc. Math., vol. 29, no. 5, pp. 1243–1268, 2024 | https://ems.press/content/serial-article-files/48626 | https://doi.org/10.4171/DM/956 | https://arxiv.org/abs/2310.00101 | LubNek-OverNorm
-
-R. Lubkov, *Overgroups of elementary groups in polyvector representations*, J. Math. Sci., vol. 531, pp. 101–116, 2024 | http://ftp.pdmi.ras.ru/pub/publicat/znsl/v531/p101.pdf | | | LubObzor
-
-R. Lubkov, *The reverse decomposition of unipotens in polyvector representations*, J. Math. Sci., vol. 513, pp. 120–138, 2022 | https://link.springer.com/content/pdf/10.1007/s10958-025-07703-6.pdf | https://doi.org/10.1007/s10958-025-07703-6 |  | LubReversem
 
 R. Lubkov and I. Nekrasov, *Overgroups of exterior powers of an elementary group. Levels*, Linear Multilinear Algebr., vol. 72, no. 4, pp. 563–584, 2022 |  | https://doi.org/10.1080/03081087.2022.2160422 | https://arxiv.org/abs/2201.13034 | LubNek-OverI
 

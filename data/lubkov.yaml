@@ -44,11 +44,11 @@ LubReversem:
   author: Lubkov, R.
   title: '{The reverse decomposition of unipotens in polyvector representations}'
   journal: J. Math. Sci.
-  year: '2022'
-  volume: '513'
-  number: ''
-  pages: 120--138
-  doi: ''
+  year: '2025'
+  volume: '288'
+  number: '3'
+  pages: 350--361
+  doi: ' 10.1007/s10958-025-07703-6'
 LubNek18:
   ENTRYTYPE: article
   author: Lubkov, R. A. and Nekrasov, I. I.
@@ -72,7 +72,7 @@ LubNek-OverI:
 LubObzor:
   ENTRYTYPE: article
   author: Lubkov, Roman
-  title: '{Overgroups of elementary groups in polyvector representations}'
+  title: '{Overgroups of elementary groups in polyvector representations (Russian)}'
   journal: J. Math. Sci.
   year: '2024'
   volume: '531'
