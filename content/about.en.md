@@ -22,18 +22,16 @@ Research databases: ::
   ResearcherID:: [G-2203-2018](https://www.researcherid.com/rid/G-2203-2018)
   ResearchGate:: [Roman-Lubkov](https://www.researchgate.net/profile/Roman-Lubkov)
 
-  Elibrary AuthorID:: [976461](https://www.elibrary.ru/author_profile.asp?authorid=976461)
-  Elibrary SPIN:: [9168-8549](https://elibrary.ru/author_profile.asp?spin=91688549)
-
   Math-Net:: [124574](https://www.mathnet.ru/php/person.phtml?personid=124574&option_lang=eng)
+  Elibrary SPIN/ID:: [9168-8549/976461](https://www.elibrary.ru/author_profile.asp?authorid=976461)
+
   Google Scholar:: [HvjReaEAAAAJ](https://scholar.google.com/citations?user=HvjReaEAAAAJ&hl=en)
-  
   Scopus AuthorID:: [57211688585](https://www.scopus.com/authid/detail.uri?authorId=57211688585)
 
 {{< /mathDBlist >}}
 
 
-
+<!-->  Elibrary SPIN:: [9168-8549](https://elibrary.ru/author_profile.asp?spin=91688549) -->
 
 
 
