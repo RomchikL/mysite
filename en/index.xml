@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 21 Nov 2025 15:06:39 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;ul class="twocol">&lt;li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 26 Nov 2025 12:42:55 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;ul class="twocol">&lt;li>
  &lt;span class="pos-left">Curriculum Vitae:&lt;/span>
  &lt;span class="pos-right">
  &lt;a href="https://lubkov.spbu.ru/CV/cv.pdf" class="external-link" target="_blank" rel="noopener">pdf&lt;/a> &lt;!-- raw HTML omitted -->(Last updated: November 21, 2025)&lt;!-- raw HTML omitted -->
@@ -67,26 +67,18 @@
  &lt;/div>
  &lt;div class="db-item">
  &lt;div class="db-key">
- &lt;strong>Elibrary AuthorID:&lt;/strong>
- &lt;/div>
- &lt;div class="db-value">
- &lt;span>&lt;a href="https://www.elibrary.ru/author_profile.asp?authorid=976461" class="external-link" target="_blank" rel="noopener">976461&lt;/a>&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="db-item">
- &lt;div class="db-key">
- &lt;strong>Elibrary SPIN:&lt;/strong>
- &lt;/div>
- &lt;div class="db-value">
- &lt;span>&lt;a href="https://elibrary.ru/author_profile.asp?spin=91688549" class="external-link" target="_blank" rel="noopener">9168-8549&lt;/a>&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="db-item">
- &lt;div class="db-key">
  &lt;strong>Math-Net:&lt;/strong>
  &lt;/div>
  &lt;div class="db-value">
  &lt;span>&lt;a href="https://www.mathnet.ru/php/person.phtml?personid=124574&amp;amp;option_lang=eng" class="external-link" target="_blank" rel="noopener">124574&lt;/a>&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="db-item">
+ &lt;div class="db-key">
+ &lt;strong>Elibrary SPIN/ID:&lt;/strong>
+ &lt;/div>
+ &lt;div class="db-value">
+ &lt;span>&lt;a href="https://www.elibrary.ru/author_profile.asp?authorid=976461" class="external-link" target="_blank" rel="noopener">9168-8549/976461&lt;/a>&lt;/span>
  &lt;/div>
  &lt;/div>
  &lt;div class="db-item">
@@ -106,6 +98,7 @@
  &lt;/div>
  &lt;/div>
 &lt;/div>&lt;/p>
+&lt;!-- raw HTML omitted -->
 &lt;h3 id="current-positions">
  Current positions
  &lt;a class="heading-link" href="#current-positions">
