@@ -103,10 +103,20 @@ AbLuSa25:
 AbLuKadeltaNov25:
   ENTRYTYPE: article
   author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
-  title: 'The algebraic and geometric classification of $\delta$-Novikov algebras}'
+  title: 'The algebraic and geometric classification of $\delta$-Novikov algebras'
   journal: Bolet{\'{i}}n la Soc. Matem{\'{a}}tica Mex.
   year: '2025'
   volume: '31'
   number: '3'
   pages: '145'
   doi: '10.1007/s40590-025-00827-4'
+AbKaLu_derJor:
+  ENTRYTYPE: article
+  author: Abdelwahab, Hani and Kaygorodov, Ivan and Lubkov, Roman
+  title: 'The algebraic and geometric classification of derived Jordan and bicommutative algebras'
+  journal: ''
+  year: '2026'
+  volume: ''
+  number: ''
+  pages: ''
+  doi: ''

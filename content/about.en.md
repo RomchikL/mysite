@@ -92,9 +92,15 @@ St. Petersburg University
 ### Publications and Preprints
 {{< lastmod >}}
 
+###### Preprints
 {{< publist >}}
 R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the exterior square of the elementary subgroup* (preprint) |  |  |  | LubStepSubE
 
+H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of derived Jordan and bicommutative algebras*,  2026 |  |  | https://arxiv.org/abs/2601.22110 | AbKaLu_derJor
+{{< /publist >}}
+
+###### Published
+{{< publist >}}
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of right alternative and semi-alternative algebras*, J. Algebr., vol. 687, no. 1, pp. 792–824, 2026 |  | https://doi.org/10.1016/j.jalgebra.2025.09.019 | https://arxiv.org/abs/2505.00720 | AbLuKa25
 
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of $\delta$-Novikov algebras*, Boletín la Soc. Matemática Mex., vol. 31, no. 3, p. 145, 2025 |  | https://doi.org/10.1007/s40590-025-00827-4 |  | AbLuKadeltaNov25

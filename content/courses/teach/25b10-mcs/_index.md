@@ -1,7 +1,7 @@
 +++
 description = ""
 date = "2025-08-14"
-title = "Группа 25.Б10-мкн осень 2025"
+title = "Группа 25.Б10-МКН осень 2025"
 draft = false
 tags = []
 topics = []
@@ -20,6 +20,6 @@ topics = []
 ### Материалы курса
  1. [LMS emkn](https://emkn.ru/courses/2025-autumn/2.252-algebra-1/)
 
-{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" >}}
+{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI/edit?gid=1526236678#gid=1526236678" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=1526236678&amp;single=true&amp;widget=true&amp;headers=false" >}}
 
 
