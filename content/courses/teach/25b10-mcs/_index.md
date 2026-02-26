@@ -18,7 +18,7 @@ topics = []
 По всем вопросам со мной можно связаться по электронной почте, указанной на главной странице этого сайта, и по вторникам в кабинете 225 на 14 линии ВО 29.
 
 ### Материалы курса
- 1. [LMS emkn](https://emkn.ru/courses/2026-spring/2.261-algebra-II/)
+ 1. [LMS emkn](https://emkn.ru/courses/2026-spring/2.261-algebra-II/assignments/)
  
 
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1YUTMvE_iZRVWXDUaagIW0i4X52EOZFuknaOQnNyjonI/edit?gid=1526236678#gid=1526236678" "https://docs.google.com/spreadsheets/d/e/2PACX-1vStXYttPtOPDai3ShqzCpQA4MfO90CSAZSnGRZyoB2t2DlID9YCIFBsdP0Bkof-JJ8KvdNNthf1nfTd/pubhtml?gid=1526236678&amp;single=true&amp;widget=true&amp;headers=false" >}}
