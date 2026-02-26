@@ -1,7 +1,7 @@
 +++
 description = ""
 date = "2025-08-31"
-title = "Группа 25.Б02-МКН весна 2026"
+title = "Группа 25.Б02-мкн весна 2026"
 draft = false
 tags = []
 topics = []

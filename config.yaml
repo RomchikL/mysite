@@ -9,6 +9,7 @@ pagination.pagerSize: 10
 enableEmoji: true
 enableGitInfo: true
 #relativeURLs: true
+titleCaseStyle: 'firstupper' # убрать заглавные буквы в каждом слове в заголовках
 
 indexes:
   tag: tags
