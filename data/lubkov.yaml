@@ -108,7 +108,7 @@ AbLuKadeltaNov25:
   year: '2025'
   volume: '31'
   number: '3'
-  pages: '145'
+  pages: 'art: 145'
   doi: '10.1007/s40590-025-00827-4'
 AbKaLu_derJor:
   ENTRYTYPE: article
@@ -116,7 +116,7 @@ AbKaLu_derJor:
   title: 'The algebraic and geometric classification of derived Jordan and bicommutative algebras'
   journal: 'J. Pure Appl. Algebr.'
   year: '2026'
-  volume: ''
-  number: ''
-  pages: '108252'
+  volume: '230'
+  number: '5'
+  pages: 'art: 108252'
   doi: '10.1016/j.jpaa.2026.108252'
