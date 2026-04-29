@@ -73,9 +73,14 @@ params:
       weight: 3
       url: "https://t.me/Dr_Lubkov"
 
+    - name: "Matrix"
+      icon: "fa-solid fa-m"
+      weight: 4
+      url: "https://matrix.to/#/@romchik:matrix.leolab.ipv64.net"
+
     - name: "RSS"
       icon: "fa fa-2x fa-rss"
-      weight: 4
+      weight: 5
       url: "https://lubkov.spbu.ru/index.xml"
       rel: "alternate"
       type: "application/rss+xml"
