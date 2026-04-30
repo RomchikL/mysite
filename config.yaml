@@ -74,7 +74,7 @@ params:
       url: "https://t.me/Dr_Lubkov"
 
     - name: "Matrix"
-      icon: "fa-solid fa-m"
+      icon: "fa fa-2x fa-m"
       weight: 4
       url: "https://matrix.to/#/@romchik:matrix.leolab.ipv64.net"
 
