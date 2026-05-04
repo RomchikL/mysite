@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 17 Apr 2026 12:30:02 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;ul class="twocol">&lt;li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://lubkov.spbu.ru/en/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Mon, 04 May 2026 21:55:05 +0300</lastBuildDate><atom:link href="https://lubkov.spbu.ru/en/index.xml" rel="self" type="application/rss+xml"/><item><title>For students</title><link>https://lubkov.spbu.ru/en/students/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/students/</guid><description>&lt;p>Information for students is provided only in Russian, &lt;a href="https://lubkov.spbu.ru/students/" >link&lt;/a>&lt;/p></description></item><item><title>Roman Lubkov</title><link>https://lubkov.spbu.ru/en/about/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://lubkov.spbu.ru/en/about/</guid><description>&lt;p>&lt;ul class="twocol">&lt;li>
  &lt;span class="pos-left">Curriculum Vitae:&lt;/span>
  &lt;span class="pos-right">
- &lt;a href="https://lubkov.spbu.ru/CV/cv.pdf" class="external-link" target="_blank" rel="noopener">pdf&lt;/a> &lt;!-- raw HTML omitted -->(Last updated: January 30, 2026)&lt;!-- raw HTML omitted -->
+ &lt;a href="https://lubkov.spbu.ru/CV/cv.pdf" class="external-link" target="_blank" rel="noopener">pdf&lt;/a> &lt;!-- raw HTML omitted -->(Last updated: May 04, 2026)&lt;!-- raw HTML omitted -->
  &lt;/span>
  &lt;/li>&lt;li>
  &lt;span class="pos-left">List of Publications:&lt;/span>
  &lt;span class="pos-right">
- &lt;a href="https://lubkov.spbu.ru/CV/publ.pdf" class="external-link" target="_blank" rel="noopener">pdf&lt;/a> &lt;!-- raw HTML omitted -->(Last updated: January 30, 2026)&lt;!-- raw HTML omitted -->
+ &lt;a href="https://lubkov.spbu.ru/CV/publ.pdf" class="external-link" target="_blank" rel="noopener">pdf&lt;/a> &lt;!-- raw HTML omitted -->(Last updated: May 04, 2026)&lt;!-- raw HTML omitted -->
  &lt;/span>
  &lt;/li>&lt;li>
  &lt;span class="pos-left">Research databases:&lt;/span>
@@ -109,7 +109,7 @@
 &lt;ul class="twocol">&lt;li>
  &lt;span class="pos-left">since 2025:&lt;/span>
  &lt;span class="pos-right">
- Assistant professor, Mathematics and Computer Science Department, St. Petersburg University
+ Senior Lecturer, Mathematics and Computer Science Department, St. Petersburg University
  &lt;/span>
  &lt;/li>&lt;li>
  &lt;span class="pos-left">since 2025:&lt;/span>
@@ -133,7 +133,12 @@
 &lt;ul class="twocol">&lt;li>
  &lt;span class="pos-left">2022:&lt;/span>
  &lt;span class="pos-right">
- Ph.D. in Mathematics and Physics, St. Petersburg University, &lt;a href="https://lubkov.spbu.ru/CV/thesis.pdf" class="external-link" target="_blank" rel="noopener">my thesis (in Russian and English)&lt;/a>
+ Ph.D. in Mathematics and Physics, St. Petersburg University.
+ &lt;/span>
+ &lt;/li>&lt;li>
+ &lt;span class="pos-left">&lt;/span>
+ &lt;span class="pos-right">
+ Defense details: &lt;a href="https://go.spbu.ru/22a200401" class="external-link" target="_blank" rel="noopener">Dissertation Council Page&lt;/a> | Thesis: &lt;a href="https://lubkov.spbu.ru/CV/thesis.pdf" class="external-link" target="_blank" rel="noopener">PDF (RU/EN)&lt;/a>
  &lt;/span>
  &lt;/li>&lt;li>
  &lt;span class="pos-left">2017:&lt;/span>
@@ -143,7 +148,7 @@
  &lt;/li>&lt;li>
  &lt;span class="pos-left">2015:&lt;/span>
  &lt;span class="pos-right">
- B.Sc. in Mathematics, St. Petersburg University
+ B.Sc. in Mathematics, St. Petersburg University &lt;!-- raw HTML omitted --> &lt;!-- raw HTML omitted -->Defense details: &lt;a href="..." >Dissertation Council&lt;/a> | Thesis: &lt;a href="..." >PDF&lt;/a>&lt;!-- raw HTML omitted -->
  &lt;/span>
  &lt;/li>
 &lt;/ul>
