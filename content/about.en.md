@@ -38,7 +38,7 @@ Research databases: ::
 ### Current positions
 
 {{< twocol >}}
-since 2025: :: Assistant professor, Mathematics and Computer Science Department, St. Petersburg University
+since 2025: :: Senior Lecturer, Mathematics and Computer Science Department, St. Petersburg University
 since 2025: :: Prime instructor, St. Petersburg Center for Artificial Intelligence and Information Technologies
 since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
 {{< /twocol >}}
@@ -47,9 +47,10 @@ since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematica
 ### Education
 
 {{< twocol >}}
-2022: :: Ph.D. in Mathematics and Physics, St. Petersburg University, [my thesis (in Russian and English)](https://lubkov.spbu.ru/CV/thesis.pdf)
+2022: :: Ph.D. in Mathematics and Physics, St. Petersburg University. 
+      :: Defense details: [Dissertation Council Page](https://go.spbu.ru/22a200401) | Thesis: [PDF (RU/EN)](https://lubkov.spbu.ru/CV/thesis.pdf)
 2017: :: M.Sc. in Mathematics, St. Petersburg University
-2015: :: B.Sc. in Mathematics, St. Petersburg University
+2015: :: B.Sc. in Mathematics, St. Petersburg University <br> <small>Defense details: [Dissertation Council](...) | Thesis: [PDF](...)</small>
 {{< /twocol >}}
 
 
