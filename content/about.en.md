@@ -68,6 +68,7 @@ Non-associative algebras: :: Jordan algebras and superalgebras, Poisson algebras
 ### Grants, Prizes, and Awards
 
 {{< twocol >}}
+2025–2027: :: Grant of Russian Science Foundation No 25-21-00545
 2023–2025: :: Grant of Russian Science Foundation No 22-71-10001
 2023: :: The “School” competition of Theoretical Physics and Mathematics Advancement Foundation "BASIS", junior postdoctoral award
 2022: :: Scholarship of the program "Home towns", Gazprom Neft PJCS, junior postdoctoral award
@@ -101,6 +102,8 @@ R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the e
 
 ###### Published
 {{< publist >}}
+
+R. Lubkov and I. Shiringovskiy, *Transposed Poisson structure on the Witt-type algebra $\mathcal{W}(a,-1)$: Derivations, Automorphisms, and Rota--Baxter operators*,  Commun. Math., vol. 34, no. 1, art.no. 11,  2026 |  | https://doi.org/10.46298/cm.18245 |  | LubShir26
 
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of derived Jordan and bicommutative algebras*,  J. Pure Appl. Algebr., vol. 230, no. 5, art.no. 108252,  2026 |  | https://doi.org/10.1016/j.jpaa.2026.108252 | https://arxiv.org/abs/2601.22110 | AbKaLu_derJor
 
