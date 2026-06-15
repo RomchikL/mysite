@@ -14,7 +14,7 @@ LubStepSubE:
   title: '{Subgroups of general linear groups, containing the exterior square of the
     elementary subgroup (preprint)}'
   journal: ''
-  year: '2025'
+  year: '2026'
   volume: ''
   number: ''
   pages: ''
@@ -108,7 +108,7 @@ AbLuKadeltaNov25:
   year: '2025'
   volume: '31'
   number: '3'
-  pages: 'art: 145'
+  eid: '145'
   doi: '10.1007/s40590-025-00827-4'
 AbKaLu_derJor:
   ENTRYTYPE: article
@@ -118,5 +118,15 @@ AbKaLu_derJor:
   year: '2026'
   volume: '230'
   number: '5'
-  pages: 'art: 108252'
+  eid: '108252'
   doi: '10.1016/j.jpaa.2026.108252'
+LubShir26:
+  ENTRYTYPE: article
+  author: Lubkov, Roman and Shiringovskiy, Ilya
+  title: 'Transposed Poisson structure on the Witt-type algebra $\mathcal{W}(a,-1)$: Derivations, Automorphisms, and Rota--Baxter operators'
+  journal: 'Commun. Math.'
+  year: '2026'
+  volume: '34'
+  number: '1'
+  eid: '14'
+  doi: '10.46298/cm.18245'

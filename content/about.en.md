@@ -40,7 +40,7 @@ Research databases: ::
 {{< twocol >}}
 since 2025: :: Associate Professor, Mathematics and Computer Science Department, St. Petersburg University
 since 2025: :: Prime instructor, St. Petersburg Center for Artificial Intelligence and Information Technologies
-since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg
+<!-->since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg -->
 {{< /twocol >}}
 
 
@@ -103,7 +103,7 @@ R. Lubkov and A. Stepanov, *Subgroups of general linear groups, containing the e
 ###### Published
 {{< publist >}}
 
-R. Lubkov and I. Shiringovskiy, *Transposed Poisson structure on the Witt-type algebra $\mathcal{W}(a,-1)$: Derivations, Automorphisms, and Rota--Baxter operators*,  Commun. Math., vol. 34, no. 1, art.no. 11,  2026 |  | https://doi.org/10.46298/cm.18245 |  | LubShir26
+R. Lubkov and I. Shiringovskiy, *Transposed Poisson structure on the Witt-type algebra $\mathcal{W}(a,-1)$: Derivations, Automorphisms, and Rota--Baxter operators*,  Commun. Math., vol. 34, no. 1, art.no. 14,  2026 |  | https://doi.org/10.46298/cm.18245 |  | LubShir26
 
 H. Abdelwahab, I. Kaygorodov, R. Lubkov, *The algebraic and geometric classification of derived Jordan and bicommutative algebras*,  J. Pure Appl. Algebr., vol. 230, no. 5, art.no. 108252,  2026 |  | https://doi.org/10.1016/j.jpaa.2026.108252 | https://arxiv.org/abs/2601.22110 | AbKaLu_derJor
 
