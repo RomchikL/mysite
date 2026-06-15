@@ -40,9 +40,8 @@ Research databases: ::
 {{< twocol >}}
 since 2025: :: Associate Professor, Mathematics and Computer Science Department, St. Petersburg University
 since 2025: :: Prime instructor, St. Petersburg Center for Artificial Intelligence and Information Technologies
-<!-->since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg -->
 {{< /twocol >}}
-
+<!-->since 2023: :: Postdoctoral researcher, Leonhard Euler International Mathematical Institute, St. Petersburg -->
 
 ### Education
 
