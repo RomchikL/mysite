@@ -15,5 +15,5 @@ author = "Роман Лубков"
 ## Архив
 - [Семинар "Алгебры Ли", весна 2024-весна 2025](/archive/courses/lie-algebras-spring2024)
 - [Семинар "Алгебраические группы над кольцами", осень-весна 2024/25](/archive/courses/alggroups-fall2024)
-- 24.Б10-мкн, Алгебра, [осень 2024](/archive/teach/24b10-mcs-fall2024), [весна 2025.](/archive/teach/24b10-mcs-spring2025)
+- 24.Б10-мкн, Алгебра: [осень 2024](/archive/teach/24b10-mcs-fall2024), [весна 2025.](/archive/teach/24b10-mcs-spring2025)
 - [Спецкурс "Группы Шевалле над кольцами", весна 2025](/archive/courses/chevalley-spring2025)

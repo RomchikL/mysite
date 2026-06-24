@@ -71,7 +71,7 @@ params:
     - name: "Telegram"
       icon: "fa fa-2x fa-telegram"
       weight: 3
-      url: "https://t.me/Dr_Lubkov"
+      url: "https://t.me/prof_Lubkov"
 
     - name: "Matrix"
       icon: "fa fa-2x fa-m"
