@@ -20,4 +20,8 @@ topics = []
 ### Материалы курса
  1. [Личная страница Максима Александровича Всемирнова](https://logic.pdmi.ras.ru/~vsemir/)
 
+<!--
+
 {{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/15Y6xlLBMsLYcuCbcoBljQY_Ww9UupKeDzCtla0PbxN8/edit?gid=1725520999#gid=1725520999" "https://docs.google.com/spreadsheets/d/e/2PACX-1vRHkiZvgHkc_L-JsQ_CqqWzdF-jIEre9qzQCk8jVLSInU19-sa-HfxYttBMANzxzF4D1tgDqDdZ3fU3/pubhtml?gid=1725520999&amp;single=true&amp;widget=true&amp;headers=false" >}}
+
+-->
