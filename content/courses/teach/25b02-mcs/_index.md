@@ -28,4 +28,4 @@ topics = []
  1. [Конспект лекций Алексея Степанова](http://alexei.stepanov.spb.ru/students/MKNalg2.pdf)
 
 
-{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/1Bf5XgxzrcHdzTVIKplyxzBX56Gf1wS0QMVc0YzgDQl8/edit?gid=23015714#gid=23015714" "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1IVYywxJhwn02kl_7aYJfur7r5OLBG37sLsAq9Ktjtq0W9VdoBLrYYRJCOXly-qKbIaVS92lWkLA8/pubhtml?gid=23015714&amp;single=true&amp;widget=true&amp;headers=false" >}}
+{{< iframetablesafe "Текущую успеваемость можно посмотреть по" "ссылке" "или под спойлером" "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1IVYywxJhwn02kl_7aYJfur7r5OLBG37sLsAq9Ktjtq0W9VdoBLrYYRJCOXly-qKbIaVS92lWkLA8/pubhtml?gid=1900237454&single=true" "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1IVYywxJhwn02kl_7aYJfur7r5OLBG37sLsAq9Ktjtq0W9VdoBLrYYRJCOXly-qKbIaVS92lWkLA8/pubhtml?gid=23015714&amp;single=true&amp;widget=true&amp;headers=false" >}}
