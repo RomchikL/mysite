@@ -64,7 +64,10 @@ other = "error"
 other = "Link to heading"
 
 [spbu]
-other = "St Petersburg University"
+other = "St Petersburg State University"
+
+[spbu_short]
+other = "SPbU"
 
 [last_updated]
 other = "Last updated"

@@ -20,7 +20,7 @@
         {{ .Site.Params.since }} -
       {{ end }}
       {{ now.Year }}
-      {{ with .Site.Params.author }} {{ . }} {{ end }}
+      {{ i18n "spbu_short" }} 
       <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
       {{ if (and .Site.Params.license) }}
         {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
