@@ -6,7 +6,7 @@
 {{- $year := "" -}}
 
 {{- if $path -}}
-  {{- with site.Data.pdf_lastmod -}}
+  {{- with hugo.Data.pdf_lastmod -}}
     {{- with index . "pdf_lastmod" $path -}}
       {{- $splitDate := split . "-" -}}
       {{- $year = index $splitDate 0 -}}

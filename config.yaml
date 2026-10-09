@@ -2,7 +2,7 @@ baseurl: 'https://lubkov.spbu.ru' #'https://users.math-cs.spbu.ru/~lubkov/'
 #theme: ['blackburn-mod', 'blackburn']
 theme: ['hugo-coder-CoW-modifications', 'coder']
 title: 'Home'
-languageCode: ru-ru
+locale: ru-ru
 DefaultContentLanguage: ru
 author: Roman Lubkov
 pagination.pagerSize: 10
@@ -88,7 +88,7 @@ params:
 languages:
   ru:
     weight: 1
-    languageName: "РУС"
+    label: "РУС"
     params:
       subtitle: (подзаголовок)
     menu:
@@ -106,10 +106,10 @@ languages:
 
   en:
     weight: 2
-    languageName: "ENG"
+    label: "ENG"
 #    contentDir: content/en
     disabled: false
-    languageCode: en-US
+    locale: en-US
     title: "Home"
     params:
       subtitle: Look left

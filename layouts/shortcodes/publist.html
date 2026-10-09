@@ -17,7 +17,7 @@
       {{/* --- BibTeX из data/lubkov.yaml --- */}}
       {{- $bibentry := "" -}}
       {{- if $bibkey }}
-        {{- $entry := index site.Data.lubkov $bibkey -}}
+        {{- $entry := index hugo.Data.lubkov $bibkey -}}
         {{- if $entry }}
           {{- $fields := slice -}}
           {{- if $entry.author  }}{{ $fields = $fields | append (printf "  author = {%s}"  $entry.author) }}{{ end }}
