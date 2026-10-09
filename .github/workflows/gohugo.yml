@@ -2,9 +2,9 @@ name: CI
 on:
    # События, которые запускают jobs
     push:
-      branches: [ "main" ]
+      branches: [ "spbu" ]
     pull_request:
-      branches: [ "main" ]
+      branches: [ "spbu" ]
 
 #permissions:
 #  contents: write

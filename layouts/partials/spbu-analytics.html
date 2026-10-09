@@ -1,0 +1,55 @@
+<!-- Yandex.Metrika counter -->
+
+<script type="text/javascript">
+
+(function(m,e,t,r,i,k,a){
+
+m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+
+m[i].l=1*new Date();
+
+for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+
+k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+
+})(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+ym(70526236, 'init', {webvisor:true, trackHash:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+
+</script>
+
+<noscript><div><img src="https://mc.yandex.ru/watch/70526236" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- 2. БАННЕР СОГЛАСИЯ НА ОБРАБОТКУ ПД (Мультиязычный) -->
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: #f8f9fa; border-top: 1px solid #dee2e6; padding: 15px 20px; z-index: 9999; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); font-family: sans-serif; font-size: 14px;">
+    <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
+        <div style="flex: 1; min-width: 250px; color: #333;">
+            {{ if eq .Site.Language.Lang "ru" }}
+                Мы используем файлы cookie и сервисы аналитики. Продолжая работу с сайтом <strong>lubkov.spbu.ru</strong>, вы соглашаетесь с <a href="{{ "privacy/" | relLangURL }}" style="color: #0056b3; text-decoration: underline;">Политикой в отношении обработки персональных данных</a>.
+            {{ else }}
+                We use cookies and analytics services. By continuing to use <strong>lubkov.spbu.ru</strong>, you agree to our <a href="{{ "privacy/" | relLangURL }}" style="color: #0056b3; text-decoration: underline;">Privacy Policy</a>.
+            {{ end }}
+        </div>
+        <button id="accept-consent" style="background: #0056b3; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-weight: bold; white-space: nowrap;">
+            {{ if eq .Site.Language.Lang "ru" }}Согласен{{ else }}Accept{{ end }}
+        </button>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Проверяем, есть ли уже согласие в localStorage
+        if (!localStorage.getItem("spbu_cookie_consent")) {
+            document.getElementById("cookie-consent-banner").style.display = "block";
+        }
+
+        // Обработка клика по кнопке
+        document.getElementById("accept-consent").addEventListener("click", function() {
+            localStorage.setItem("spbu_cookie_consent", "true");
+            document.getElementById("cookie-consent-banner").style.display = "none";
+        });
+    });
+</script>

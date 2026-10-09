@@ -38,5 +38,20 @@
       {{ end }} -->
     </div>
     </div>
+
+      <!-- Ссылка на Политику ПД с новой строки -->
+      <div style="margin-top: 10px; text-align: center;" class="div-mobile">
+        <a href="{{ "privacy/" | relLangURL }}">
+          {{ if eq .Site.Language.Lang "ru" }}
+            Политика в отношении обработки персональных данных
+          {{ else }}
+            Privacy Policy
+          {{ end }}
+        </a>
+      </div>
+
     </section>
   </footer> 
+
+{{/* Добавляем счетчики и баннер в самый конец */}}
+{{ partial "spbu-analytics.html" . }}
