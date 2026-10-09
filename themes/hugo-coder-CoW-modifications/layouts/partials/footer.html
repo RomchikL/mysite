@@ -1,46 +1,46 @@
 <footer class="footer">
     <section class="container">
       
-
-
       <picture>
         <source srcset={{"images/emblem_spbu_black.png" | relURL}} width="60" />
         <source srcset={{"images/emblem_spbu_white.png" | relURL}} width="60" />
         <img class="ttt" src="lighthj.png" alt="Герб СПбГУ"/>
       </picture>
 
+      <!-- Трёхколоночная сетка для идеального центрирования герба -->
+      <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 15px; width: 100%;">
+        
+        <!-- Левая колонка (копирайт) — выравнивание по правому краю -->
+        <div class="div-mobile" style="text-align: right;">      
+          &copy;
+          {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
+            {{ .Site.Params.since }} -
+          {{ end }}
+          {{ now.Year }}
+          {{ i18n "spbu_short" }}
+          {{ if (and .Site.Params.license) }}
+            <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
+            {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
+          {{ end }}
+        </div>
 
+        <!-- Центральная колонка (Герб) — строго по центру -->
+        <a href="{{ if eq .Site.Language.Lang "ru" }}https://spbu.ru/{{ else }}https://english.spbu.ru/{{ end }}" style="display: flex; justify-content: center;">
+          <img class="color-invertible" src={{"images/emblem_spbu_white.png" | relURL}} width="60" alt="СПбГУ" />
+        </a>
 
+        <!-- Правая колонка (powered by) — выравнивание по левому краю -->
+        <div class="div-mobile" style="text-align: left;">
+          {{ i18n "powered_by" }} <a href="https://gohugo.io/" target="_blank" rel="noopener">&nbsp;Hugo </a>&nbsp;&&nbsp;<a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+          {{ if (and .Site.Params.commit .GitInfo) }}
+            [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
+          {{ end }}
+        </div>
 
-
-      <div style="display:flex; align-items:center; justify-content:center;">
-      <div class="div-mobile">      
-      &copy;
-      {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
-        {{ .Site.Params.since }} -
-      {{ end }}
-      {{ now.Year }}
-      {{ i18n "spbu_short" }} 
-      <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
-      {{ if (and .Site.Params.license) }}
-        {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
-      {{ end }}
       </div>
-      <a href="{{ if eq .Site.Language.Lang "ru" }}https://spbu.ru/{{ else }}https://english.spbu.ru/{{ end }}"><img class="color-invertible" src={{"images/emblem_spbu_white.png" | relURL}} width="60" /></a>
-      <div class="div-mobile">
-      <span style="display: inline-block; margin: 0 5px; vertical-align: middle;">&middot;</span>
-      {{ i18n "powered_by" }} <a href="https://gohugo.io/" target="_blank" rel="noopener">&nbsp;Hugo </a>&nbsp;&&nbsp;<a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
-      {{ if (and .Site.Params.commit .GitInfo) }}
-        [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
-      {{ end }}
-<!--      {{ if and .Lastmod (not .IsHome) }}
-        <span class="lastmod">{{ i18n "last_updated" }}: {{ .Lastmod.Format "2006-01-02" }}</span>
-      {{ end }} -->
-    </div>
-    </div>
 
-      <!-- Ссылка на Политику ПД с новой строки -->
-      <div style="margin-top: 10px; text-align: center;" class="div-mobile">
+      <!-- Ссылка на Политику ПД с новой строки строго по центру -->
+      <div style="margin-top: 15px; text-align: center;" class="div-mobile">
         <a href="{{ "privacy/" | relLangURL }}">
           {{ if eq .Site.Language.Lang "ru" }}
             Политика в отношении обработки персональных данных
